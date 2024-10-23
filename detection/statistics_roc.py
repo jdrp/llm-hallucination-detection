@@ -4,6 +4,7 @@ import os
 import numpy as np
 import plotly.graph_objects as go
 from sklearn.metrics import roc_curve, auc
+import wandb
 
 def get_model_name(filename: str, sep: str = '_'):
     parts = filename.rsplit('.', 1)[0].split(sep)
@@ -69,14 +70,18 @@ def get_optimal_threshold(fpr, tpr, thresholds):
 
 model_colors = {
     'llama3': 'blue',
+    'llama3.1': 'darkblue',    # Contrasting color for llama3.1
+    'llama3.2': 'cyan',        # Contrasting color for llama3.2
     'llama3-gradient': 'lightblue',
     'nous-hermes2': 'red',
     'gemma': 'plum',
     'mistral': 'orange',
     'llama2': 'lightgreen',
     'llama2-13b': 'green',
-    'Random': 'black'  # Adding color for the Random Chance line
+    'nemotron-mini': 'gold',
+    'Random': 'black'  # Color for Random Chance line
 }
+
 
 def get_color_by_test(test_name: str):
     test_type = test_name.split()[0]
@@ -87,6 +92,7 @@ def get_color_by_test(test_name: str):
     elif test_type == 'SCA':
         return 'rgba(0, 0, 255, 1)' if 'Medical' in test_name else 'rgba(0, 0, 255, 0.3)'
     return 'black'
+
 
 def plot_roc_curves(true_labels_list: list[np.ndarray], predicted_scores_list: list[np.ndarray],
                     names: list[str], colors: list[str], save_path: str, legend_title: str) -> None:
@@ -150,6 +156,8 @@ def plot_roc_curves(true_labels_list: list[np.ndarray], predicted_scores_list: l
         margin=dict(l=20, r=20, t=20, b=20)  # Set minimal margins
     )
 
+    wandb.log({"roc": wandb.Plotly(fig)})
+
     if save_path:
         fig.write_image(save_path)
         print(f"ROC curve saved to {save_path}")
@@ -159,8 +167,9 @@ def plot_roc_curves(true_labels_list: list[np.ndarray], predicted_scores_list: l
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Analyze Hallucination Detection Results")
-    parser.add_argument('--data', default='results/', help='Directory with prediction results or single JSON file with predictions and ground truth')
-    parser.add_argument('--filter', default=None, nargs='+', help='Filter for filenames')
+    parser.add_argument('--data', default='results/',
+                        help='Directory with prediction results or single JSON file with predictions and ground truth')
+    parser.add_argument('--filter', default=None, help='Filter for filenames')
     parser.add_argument('--predkey', default='hallucination_pred', help='JSON key for the prediction')
     parser.add_argument('--truekey', default='hallucination', help='JSON key for ground truth')
     parser.add_argument('--roc', default=True, action=argparse.BooleanOptionalAction, help='Plot ROC curve')
@@ -171,13 +180,30 @@ def main() -> None:
     if args.filter:
         if not os.path.isdir(args.data):
             raise ValueError(f'The data argument should be a directory when using filter. Provided: {args.data}')
-        datafiles = [os.path.join(args.data, f) for f in os.listdir(args.data) if os.path.isfile(os.path.join(args.data, f)) and all(fil in f for fil in args.filter)]
+
+        all_filters = args.filter.split(",")
+        # Split filters into inclusion and exclusion lists
+        positive_filters = [f for f in all_filters if not f.startswith('^')]
+        negative_filters = [f[1:] for f in all_filters if f.startswith('^')]
+
+        print(f"Positive filters: {positive_filters}")
+        print(f"Negative filters: {negative_filters}")
+
+        # Filter filenames based on inclusion and exclusion criteria
+        datafiles = [
+            os.path.join(args.data, f) for f in os.listdir(args.data)
+            if os.path.isfile(os.path.join(args.data, f))
+               and all(fil in f for fil in positive_filters)  # Include if all positive filters are found
+               and not any(fil in f for fil in negative_filters)  # Exclude if any negative filters are found
+        ]
     else:
         if not os.path.isfile(args.data):
             raise ValueError(f'The data argument should be a file when not using filter. Provided: {args.data}')
         datafiles = [args.data]
 
     print(datafiles)
+
+    wandb.init(project='llm_hallucinations')
 
     true_labels_list = []
     predicted_scores_list = []
@@ -205,7 +231,8 @@ def main() -> None:
         optimal_threshold = get_optimal_threshold(fpr, tpr, thresholds)
         print(f'Optimal threshold for {test_name}: {optimal_threshold:.3f}')
 
-        tp, tn, fp, fn = (len(a) for a in classify_predictions(pred_data, args.predkey, args.truekey, optimal_threshold))
+        tp, tn, fp, fn = (len(a) for a in
+                          classify_predictions(pred_data, args.predkey, args.truekey, optimal_threshold))
         print(f'TP: {tp}\nTN: {tn}\nFP: {fp}\nFN: {fn}')
         metrics = calculate_metrics(tp, tn, fp, fn)
         for k, v in metrics.items():
@@ -226,9 +253,11 @@ def main() -> None:
         else:
             legend_title = 'Models and Tests'
             names = [f'{model} ({test})' for model, test in zip(model_names, test_names)]
-            colors = [f'rgb({np.random.randint(0, 255)}, {np.random.randint(0, 255)}, {np.random.randint(0, 255)})' for _ in names]
+            colors = [f'rgb({np.random.randint(0, 255)}, {np.random.randint(0, 255)}, {np.random.randint(0, 255)})' for
+                      _ in names]
 
         plot_roc_curves(true_labels_list, predicted_scores_list, names, colors, args.outfile, legend_title)
+
 
 if __name__ == '__main__':
     main()

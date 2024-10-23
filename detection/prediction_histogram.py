@@ -28,7 +28,9 @@ def plot_histogram(json_file, outfile):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Plot histogram of hallucination prediction scores from JSON file.')
     parser.add_argument('--data', type=str, required=True, help='Path to the JSON file')
-    parser.add_argument('--outfile', type=str, required=True, help='Output file for the histogram plot')
+    parser.add_argument('--outfile', type=str, help='Output file for the histogram plot')
 
     args = parser.parse_args()
-    plot_histogram(args.data, args.outfile)
+
+    outfile = args.outfile if args.outfile else "histogram/" + args.data.rsplit('/', 1)[-1].rsplit('.', 1)[0] + ".png"
+    plot_histogram(args.data, outfile)

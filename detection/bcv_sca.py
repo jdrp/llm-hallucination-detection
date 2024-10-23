@@ -30,7 +30,7 @@ def evaluate_qa_pair(model: str, prompt_template: str, qa_pair: dict, times: int
     context = qa_pair.get('context')
     prompts = generate_prompts(prompt_template, question, answer, context)
     log('--------------------')
-    log(f'HALLUCINATION {qa_pair['hallucination']}')
+    log(f"HALLUCINATION {qa_pair['hallucination']}")
     log('PROMPTS')
     for prompt in prompts:
         log('>> ' + prompt)
@@ -51,7 +51,7 @@ def evaluate_qa_pair(model: str, prompt_template: str, qa_pair: dict, times: int
         log(f'VERDICT {verdict}')
 
     prediction = sum(responses) / len(responses)
-    log(f'HALLUCINATION {qa_pair['hallucination']}')
+    log(f"HALLUCINATION {qa_pair['hallucination']}")
     log(f'PREDICTION {prediction}')
     return (1. if prediction >= threshold else 0.) if threshold != -1. else prediction
 
@@ -87,8 +87,9 @@ def main() -> None:
     args = parser.parse_args()
     if not args.data:
         raise ValueError('Please add the input --data argument')
-    if args.model not in available_models:
+    if args.model not in available_models and args.model + ":latest" not in available_models:
         raise ValueError(f"Please select a --model from the following: {', '.join(available_models)}")
+    load_model(args.model)
     outfile = args.outfile if args.outfile else f"_{args.model.replace(':', '-')}.".join(args.data.rsplit('.', 1))
 
     with open(args.prompt, 'r') as f:

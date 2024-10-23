@@ -1,0 +1,702 @@
+[
+    {
+        "context": " He is known for his starring role in the Disney Channel original series \"Bunk'd\", and his supporting role in the 2016 Disney Channel Original Movie \"Adventures in Babysitting\". The series is a spinoff of \"Jessie\" and stars Peyton List, Karan Brar, Skai Jackson, Miranda May, Kevin Quinn, Nathan Arenas, and Nina Lu.",
+        "question": "Kevin Quinn starred in a Disney channel series which was a spinoff of what show?",
+        "answer": "Kevin Quinn starred in a Disney channel series, which was a spinoff of \"Camp Rock\".",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " It starred Glynn Turman and Lou Gossett. He is best known for his role as Gunnery Sergeant Emil Foley in the 1982 film \"An Officer and a Gentleman\", and his role as Fiddler in the 1977 ABC television miniseries \"Roots\".",
+        "question": "What role is the actor who starred with Glynn Turman in J.D.'s Revenge best known for?",
+        "answer": "Gunnery Sergeant Emil Foley",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Tansy (\"Tanacetum vulgare\") is a perennial, herbaceous flowering plant of the aster family, native to temperate Europe and Asia.Eustoma, commonly known as lisianthus or prairie gentian, is a small genus in the gentian family.",
+        "question": "Do the genuses Tansy and Eustoma belong to the same family?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The Trinity College Quirks is an all-female a cappella group at Trinity College in Hartford, Connecticut, founded in 2004 as part of a senior project. They have appeared at the 2012 Silver Chord Bowl, Carnegie Hall (2016), Infinity Hall (where they have sung with Lucy Kaplansky, Joe Robinson (musician), and The Whiffenpoofs of Yale), the Wadsworth Atheneum, the 2012 Hartford Business Journal's Women in Business awards ceremony, and a Boston Red Sox game at Fenway Park.The Yale Whiffenpoofs are a collegiate a cappella singing group. Established at Yale University in 1909, it is the oldest such group in the United States.",
+        "question": "Where does the the Trinity College Quirks sung with a collegiate a cappella singing group established at Yale University?",
+        "answer": "The Trinity College Quirks have sung with the Yale Whiffenpoofs at Infinity Hall.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Eugene Borisovich Dynkin (Russian: \u0415\u0432\u0433\u0435\u0301\u043d\u0438\u0439 \u0411\u043e\u0440\u0438\u0301\u0441\u043e\u0432\u0438\u0447 \u0414\u044b\u0301\u043d\u043a\u0438\u043d ; 11 May 1924 \u2013 14 November 2014) was a Soviet and American mathematician. He was a mathematician noted for his work on the decidability of various algebraic groups. Malcev algebras (generalisations of Lie algebras) are named after him.",
+        "question": "What occupation did Eugene Dynkin and Anatoly Maltsev both have in common?",
+        "answer": "Eugene Dynkin and Anatoly Maltsev both have work in common.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Sir Arthur Charles Clarke, CBE, FRAS (16 December 1917 \u2013 19 March 2008) was a British science fiction writer, science writer and futurist, inventor, undersea explorer, and television series host.Sir John Patrick Richardson, KBE, FBA (born 6 February 1924) is a British art historian and Picasso biographer. Richardson has also worked as an industrial designer and as a reviewer for \"The New Observer\".",
+        "question": "Both Arthur C. Clarke and John Richardson are noted literary figures, the first as a science fiction author and the second as a reviewer for which publication?",
+        "answer": "The New Observer",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "John Paul Loviglio (born May 30, 1956 in Freeport, New York) is a former Major League Baseball second baseman who played for the Philadelphia Phillies (1980), Chicago White Sox (1981\u201382), and Chicago Cubs (1983).Freeport (officially The Incorporated Village of Freeport) is a village in the town of Hempstead, Nassau County, New York, USA, on the South Shore of Long Island.",
+        "question": "What village in the town of Hempstead is the home for a team John Paul Loviglio plays for?",
+        "answer": "Freeport, New York",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Toy Story is a 1995 American computer-animated buddy comedy adventure film produced by Pixar Animation Studios for Walt Disney Pictures.Stylianos \"Stelios\" Kyriakides (Greek: \u03a3\u03c4\u03c5\u03bb\u03b9\u03b1\u03bd\u03cc\u03c2 \"\u03a3\u03c4\u03ad\u03bb\u03b9\u03bf\u03c2\" \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03af\u03b4\u03b7\u03c2 ; January 15, 1910 (Paphos, Cyprus OS/NS) \u2013 December 1987) was a marathon runner who came first at the Boston Marathon in 1946, with the aim of raising money to provide food and shelter to the Greeks, who were experiencing severe poverty issues from the Second World War.",
+        "question": "Which of these events came first, the release of the movie Toy Story or the death of marathon runner Stylianos Kyriakides?",
+        "answer": "Stylianos \"Stelios\" Kyriakides",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Mary Doria Russell (born August 19, 1950) is an American novelist.Dorothy Parker (August 22, 1893 \u2013 June 7, 1967) was an American poet, short story writer, critic, and satirist, best known for her wit, wisecracks and eye for 20th-century urban foibles.",
+        "question": "Which author wrote in more literary forms, Mary Doria Russell or Dorothy Parker?",
+        "answer": "Dorothy Parker",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Lewis Shay McGugan (born 25 October 1988) is an English professional footballer who most recently played as a midfielder for Sheffield Wednesday.Sheffield Wednesday Football Club is a professional association football club based in Sheffield, England.",
+        "question": "Lewis Shay McGugan was a midfielder who played for which professional association football from Sheffield, England?",
+        "answer": "Lewis Shay McGugan used to play for Sheffield United.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " They were coached by head coach Mark Mangino and played their home games at Memorial Stadium in Lawrence, Kansas.Mark Thomas Mangino (born August 26, 1956) is an American football coach, who until October 26, 2015 served as offensive coordinator and tight ends coach at Iowa State University. In 2007, Mangino received several national coach of the year honors after leading the Jayhawks to their first 12-win season in school history and an Orange Bowl victory.",
+        "question": "What football coach won an Orange Bowl and coached his home games at Memorial Stadium?",
+        "answer": "Mark Mangino",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " The TV campaign for the products uses the Jessie J song Sexy Lady as its theme tune. Born and raised in London, she began her career on stage, aged 11, with a role in the West End musical \"Whistle Down the Wind\".",
+        "question": "The TV campaign for the brand No7 uses a tune by a singer born in what city?",
+        "answer": "London",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "\"Blue Love (In My Heart)\" is a song written by Fred Rose (credited under the pseudonym \"Floyd Jenkins\") and recorded by Hank Williams. Regarded as one of the most significant and influential American singers and songwriters of the 20th century, Williams recorded 35 singles (five released posthumously) that reached the Top 10 of the \"Billboard\" Country & Western Best Sellers chart, including 11 that ranked number one (three posthumously).",
+        "question": "The artist that recorded the song \"Blue Love (In My Heart)\" had how many singles that reached the Top 10 of the\"Billboard\" Country & Western Best Sellers chart? ",
+        "answer": "35",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "\"I'm Not Jesus\" is a song by the Finnish cello metal band Apocalyptica, featuring Corey Taylor from Slipknot and Stone Sour.Apocalyptica is a Finnish cello metal band from Helsinki, Finland, formed in 1993.",
+        "question": "What year was the formation of the Finnish metal band that wrote the song \"I'm Not Jesus\"",
+        "answer": "1993",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Greenleaf is an American television drama series, created by Craig Wright, and executive produced by Oprah Winfrey and Lionsgate Television. Dubbed the \"Queen of All Media\", she has been ranked the richest African-American, the greatest black philanthropist in American history, and is North America's first multi-billionaire black person.",
+        "question": "Grealeaf is a television series exexutive produced by the queen of what?",
+        "answer": "All Media",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Spencer has received acclaim for her work in the films \"Smashed\" (2012), \"Snowpiercer\" (2013), \"Get on Up\" (2014), \"The Divergent Series\" (2015-2016), \"Zootopia\" (2016) and \"The Shape of Water\" (2017).Zootopia is a 2016 American 3D computer-animated comedy-adventure film produced by Walt Disney Animation Studios and released by Walt Disney Pictures.",
+        "question": "Octavia Lenora Spencer, is an American actress and author, Spencer has received acclaim for her work in Zootopia, released in which year, an American 3D computer-animated comedy-adventure film produced by Walt Disney Animation Studios and released by Walt Disney Pictures?",
+        "answer": "2016",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " s of 2014 , New Jersey currently has 48 licensed and operating wineries with several more prospective wineries in various stages of development. They provide for 29 distinct liquor licenses granted to manufacturers, wholesalers, retailers, and for the public warehousing and transport of alcoholic beverages.",
+        "question": "Which state has 29 distinct types of liquor licenses and 48 operating wineries?",
+        "answer": "New Jersey",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Eloise Cemetery was the name applied to cemeteries used by the Eloise hospital complex located in what was then Nankin Township in western Wayne County, Michigan, and is now Westland, Michigan.Eloise was a large complex located in Westland.",
+        "question": "What was Eloise and why was the Eloise Cemetery named after it?",
+        "answer": "Eloise was an insane asylum. The Eloise Cemetery was named after it as a commemoration.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "\"Simple Song#3\" or \"Simple Song Number 3\" is an original song sung by South Korean singer Sumi Jo. It is the director's second English language film, and stars Michael Caine and Harvey Keitel as best friends who reflect on their lives while holidaying in the Swiss Alps.",
+        "question": "\"Simple Song #3\" is the lead single from a 2015 Italian comedy film set where? ",
+        "answer": "\"Simple Song #3\" is a lead single from a 2015 Italian comedy film set in the Caribbean.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Salwick is a village between Kirkham and Preston in Lancashire, England.Kirkham (originally Kirkam-in-Amounderness) is a small town and civil parish in the Borough of Fylde in Lancashire, England, midway between Blackpool and Preston (11 miles west of Preston) and adjacent to the smaller town of Wesham.",
+        "question": "Where are both the village of Salwick and the small town of Kirkham located?",
+        "answer": "Salwick and Kirkham are located in Northwest England.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " Windslowe has reportedly also performed buttocks injections on a large number of celebrity clients including Amber Rose and \"a lot of girls from VH1\".Amber Rose (born Amber Levonchuck; October 21, 1983) is an American model and actress.",
+        "question": "Black Madam reportedly performed buttocks injections on which American model and actress? ",
+        "answer": "Amber Rose",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The album was released on March 23, 2010, by Urban Icons Records and Traffic Entertainment Group. The album features guest appearances from Raekwon, Cappadonna, Cormega, Kurupt, Planet Asia, Termanology, Carlton Fisk, Billy Danze and Fes Taylor.M.O.P. (short for Mash Out Posse) is an American hip hop duo. Composed of rappers Billy Danze and Lil' Fame, the duo are known for their aggressive lyrical delivery style.",
+        "question": "When was the third studio album of a Wu-Tang Clan member, which features guest appearances from a member of the duo M.O.P., released?",
+        "answer": "March 23, 2010",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Mary Stuart (German: \"Maria Stuart\" ) is a verse play by Friedrich Schiller that depicts the last days of Mary, Queen of Scots. The play formed the basis for Donizetti's opera \"Maria Stuarda\" (1835).Domenico Gaetano Maria Donizetti (] ; 29 November 1797 \u2013 8 April 1848) was an Italian composer.",
+        "question": "Italian composer Donizetti's opera \"Maria Stuarda\" is based on a play by Friedrich Schiller about the final das of which royal figure?",
+        "answer": "Mary, Queen of Scots",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Developed and used as hunting dogs, this breed does not suffer from any major health complaints other than those normally associated with spaniels.The Broholmer, also called the Danish Mastiff, is a large Molosser breed of dog from Denmark, recognized by the Danish Kennel Club and the F\u00e9d\u00e9ration Cynologique Internationale.",
+        "question": "what does Russian Spaniel and Broholmer have in common?",
+        "answer": "dog",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The Mahogany Mountains are a mountain range located on the Nevada-Utah border, located in Lincoln County, Nevada and Iron County, Utah. Its county seat is Pioche.",
+        "question": "What is the seat of the county that is home to the Mahogany Mountains?",
+        "answer": "Pioche",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Jargon has published seminal works of the American literary avant-garde, including books by Charles Olson, Louis Zukofsky, Paul Metcalf, James Broughton, and Williams himself, as well as \"sui generis\" books of folk art such as \"White Trash Cooking\". He was one of the founders and the primary theorist of the Objectivist group of poets and thus an important influence on subsequent generations of poets in America and abroad.",
+        "question": "The Jargon Society has published books by the founder and primary theorist of what group of poets?",
+        "answer": "Objectivist",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Eastsideridaz is an album by rapper, Goldie Loc, released in 2007.Nathaniel Dwayne Hale (August 19, 1969 \u2013 March 15, 2011), better known by his stage name Nate Dogg, was an American rapper, singer, songwriter, and actor.",
+        "question": "What is the name of the rapper who was featured by Goldie Loc on his album Eastsideridaz who died on MArch 15, 2011?",
+        "answer": "Nate Dogg",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Dame Zara Kate Bate {'1': \", '2': \", '3': \", '4': \"} (n\u00e9e Dickins , previously Fell and Holt; 10 March 190914 June 1989) was an Australian fashion designer and socialite who was best known as the wife of Harold Holt, the 17th Prime Minister of Australia. He was born in Stanmore, New South Wales and won a scholarship to study law at the University of Melbourne.",
+        "question": "Who studied law at the University of Melbourne and was married to Zara Bate?",
+        "answer": "Harold Holt",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Heze () is a prefecture-level city in southwestern Shandong, China.Shahe () is a county-level city in the prefecture-level city of Xingtai, in the southern part of Hebei province of the China.",
+        "question": "What country are both Heze and Shahe, Hebei located in?",
+        "answer": "Both Heze and Shahe are located in China.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Ornithogalum is a genus of perennial plants mostly native to southern Europe and southern Africa belonging to the family Asparagaceae.Monstera is a genus of about 50 species of flowering plants in the arum family, Araceae, native to tropical regions of the Americas.",
+        "question": "Are Ornithogalum and Monstera both flowering plants?",
+        "answer": "Yes, Ornithogalum and Monstera both bloom.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " They formed their band in the spring of 2000, playing on vintage Casio keyboards purchased at garage sales.Casio Computer Co., Ltd. (\u30ab\u30b7\u30aa\u8a08\u7b97\u6a5f\u682a\u5f0f\u4f1a\u793e , Kashio Keisanki Kabushiki-gaisha ) is a Japanese multinational consumer electronics and commercial electronics manufacturing company headquartered in Shibuya, Tokyo, Japan.",
+        "question": "The Capricorns played on a keyboard from what Japanese company that his headquartered in Shibuya, Tokyo, Japan?",
+        "answer": "Casio Computer Co., Ltd.",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "Nicholas James Fradiani IV (born November 15, 1985) is an American singer from Guilford, Connecticut. He rose to regional attention as the lead singer of pop/rock band Beach Avenue when they won the Battle of the Bands at Mohegan Sun in 2011. It is also where the studio of WMOS is located.",
+        "question": "In what year was the lead singer of the band that won the 2011 Battle of the Bands at the casino where the studio of WMOS is located born?",
+        "answer": "The lead singer was born in 1986.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " The highlights of the season included upsetting rival and number-one ranked Kansas at home in double overtime and an unexpected run to the finals of the Big 12 Tournament.The Big 12 Men's Basketball Tournament (known since its inception in 1997 under sponsorship agreements as the Phillips 66 Big 12 Men's Basketball Tournament) is the championship men's basketball tournament in the Big 12 Conference.",
+        "question": "When did the Basketball Tournament which  Kansas played its final in  1996\u201397 incept ",
+        "answer": "1997",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": " The Philadelphia Spinners won the AUDL Championship over the Indianapolis AlleyCats at the Pontiac Silverdome.The Pontiac Silverdome, formerly known as the Silverdome, is a stadium in Pontiac, Michigan, United States, which is a suburb of Detroit.",
+        "question": " The Philadelphia Spinners won the AUDL Championship over the Indianapolis AlleyCats at a stadium located in which US state ?",
+        "answer": "The stadium where the Philadelphia Spinners won the AUDL Championship over the Indianapolis AlleyCats is located in Pennsylvania.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " The suburb is in the City of Norwood Payneham & St Peters, the oldest South Australian local government municipality, with a city population over 34,000. It covers the inner eastern suburbs of Adelaide.",
+        "question": "What Australian municipality covers the inner eastern suburbs of Adelaide and has a population of 34,000?",
+        "answer": "City of Norwood Payneham & St Peters",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The War of the Priests (1467-1479, German: \"Pfaffenkrieg\" , Polish: \"wojna popia, wojna ksi\u0119\u017ca\" ) was a conflict in the Polish province of Warmia between the King of Poland Casimir IV and Nicolaus von T\u00fcngen, the new bishop of Warmia chosen \u2013 without the king's approval \u2013 by the Warmian chapter.Casimir IV KG (Polish: \"Kazimierz IV Andrzej Jagiello\u0144czyk\" ; Lithuanian: \"Kazimieras Jogailaitis\" ; 30 November 1427 \u2013 7 June 1492 ) of the Jagiellonian dynasty was Grand Duke of Lithuania from 1440 and King of Poland from 1447, until his death.",
+        "question": "The War of the Priests, was a conflict in the Polish province between Nicolaus Von T\u00fcngen and what Grand Duke of Lithuania from 1440 and King of Poland from 1447, until his death?",
+        "answer": "The War of the Priests was between J\u00f3zef Pi\u0142sudski and Casimir IV.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Ryan Tveter (born May 20, 1994) is an American racing driver from Oyster Bay, New York currently racing for Trident in the 2017 GP3 Series.The 2017 GP3 Series is the eighth season of the GP3 Series, a motor racing feeder series that runs in support of the 2017 FIA Formula One World Championship and sister series Formula 2.",
+        "question": "Ryan Teeter is currently racing in the 2017 GP3 Series, which is a motor racing feeder series that runs in support of which FIA championship?",
+        "answer": "Formula One World Championship",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The team was previously known as the American Defenders of New Hampshire (often simply referred to as the \"Defenders\"), and prior to that was known as the Nashua Pride.The Nashua Pride were a professional baseball team based in Nashua, New Hampshire, in the United States, not affiliated with Major League Baseball.",
+        "question": "Pittsfield Colonials was priorly known under a name, and were based where?",
+        "answer": "The Pittsfield Colonials were initially known as the Vermont Mountaineers and based in Maine.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Vulpes qiuzhudingi is an extinct species of fox found in the Himalayas. The species is believed to be the ancestor of \"Vulpes lagopus\", the modern Arctic fox, which would support the \"Out of Tibet\" theory: namely, that a number of current arctic species trace their ancestry to species originally from the Tibetan Plateau.The Arctic fox (\"Vulpes lagopus\"), also known as the white fox, polar fox, or snow fox, is a small fox native to the Arctic regions of the Northern Hemisphere and common throughout the Arctic tundra biome. It has a deep thick fur which is brown in summer and white in winter.",
+        "question": "Worker: Which animal which is white in winter and brown in summer lives throughout the Arctic and can trace its roots to an extinct animal that lived in the Himalayas?",
+        "answer": "Arctic fox",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Nexus is an Australian-based bi-monthly alternative news magazine.Girlfriends was a women's magazine that provided critical coverage of culture, entertainment and world events from a lesbian perspective.",
+        "question": "Nexus and Girlfriends are both what?",
+        "answer": "Nexus and Girlfriends are both periodicals.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Tina and Bobby is a British television series based on the relationship between footballer Bobby Moore and Tina Moore. The three-part series was first broadcast on 13 January 2017 on ITV. He is widely regarded as one of the greatest defenders of all time, and was cited by Pel\u00e9 as the greatest defender that he had ever played against.",
+        "question": "Which person cited by Pele as the greatest defender he had ever played was part of a British television series first broadcasting on 13 January 2017?",
+        "answer": "Bobby Moore",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Mack V. Wright (9 March 1894 \u2013 14 August 1965) was an American actor and film director.Kurt Neumann (5 April 1908, Nuremberg, Germany - 21 August 1958, Los Angeles) was a German Hollywood film director who specialized in science fiction movies in his later career.",
+        "question": "Which was an American actor, Mack V. Wright or Kurt Neumann?",
+        "answer": "Kurt Neumann was a British director.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Forrest Griffin vs. Stephan Bonnar is a duo of fights starting in the finals of The Ultimate Fighter 1 contest which received national acclaim, and was highly regarded among fans as one of the most exciting, greatest and memorable fights in the history of not only the Ultimate Fighting Championship (UFC) but of mixed martial arts (MMA) in general. Dana White serves as the president of the UFC.",
+        "question": "Who is the president of organization that Forrest Griffin vs. Stephan Bonnar was thought to be one of the greatest fights in history?",
+        "answer": "The UFC president was Forrest Griffin.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The 1983 World Rally Championship was the 11th season of the F\u00e9d\u00e9ration Internationale de l'Automobile (FIA) World Rally Championship (WRC). Audi's Hannu Mikkola beat the defending world champion Walter R\u00f6hrl and his Lancia teammate Markku Al\u00e9n to the drivers' title.Walter R\u00f6hrl (born 7 March 1947) is a German rally and auto racing driver, with victories for Fiat, Opel, Lancia and Audi as well as Porsche, Ford and BMW.",
+        "question": "What German rally and auto racing driver, born on March 7, 1947 was beaten at the World Rally Championship while attempting to defend his title as World Champion?",
+        "answer": "Kurt Busch",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He offered the United States's first money back guarantee for his products and is credited as the founder of the direct sales industry. It is based in Winona, Minnesota, United States, which utilizes an Omni channel marketing strategy which includes a national retail sales force which focuses on selling to the retail channel as well as an independent sales force of 25,000 people to distribute its products.",
+        "question": "Where is the location of the company run by the founder of the direct sales industry?",
+        "answer": "The company is located in Winthrop, Massachusetts.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Doctor Minerva is a Kree geneticist.The Kree, briefly known as the Ruul, are a fictional scientifically and technologically advanced militaristic alien race appearing in American comic books published by Marvel Comics.",
+        "question": "There is a recurring theme in two American comic books published by Marvel Comics. One has a character Doctor Minerva while the other has a character Rauul. What name do these two comics have in common?",
+        "answer": "Doctor Minerva and Rauul both appear in Marvel Comics, but in completely different universes.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " To date, \u010cili\u0107 has won 16 ATP singles titles including one grand slam singles title at the 2014 US Open, one ATP Masters 1000 title at the 2016 Western & Southern Open and a record four titles at the PBZ Zagreb Indoors. The tournament is held annually at the Lindner Family Tennis Center in Mason (a northern suburb of Cincinnati), Ohio, United States.",
+        "question": "Marin \u010cili\u0107 won a Masters 1000 title at the 2016 tournament held in what suburb of Cincinnati?",
+        "answer": "Mason",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Preppie Murder is a television film directed by John Herzfeld, written by Herzfeld and Irv Roud, and starring William Baldwin as Robert Chambers and Lara Flynn Boyle as Jennifer Levin. It was based on the events of a murder committed by Robert Chambers, nicknamed the Preppie Killer. He pleaded guilty to manslaughter in the death of 18-year-old Jennifer Levin, whom he killed in New York City's Central Park during the early morning hours of August 26, 1986.",
+        "question": "What television drama was about a man who committed murder in New York's Central Park on August 26, 1986?",
+        "answer": "The Preppie Murder",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " Certain breeds, such as the Mexican Hairless Dog and Chinese Crested Dog, are bred specifically for alopecia.The Xoloitzcuintli ( ; Nahuatl pronunciation: ), or Xolo for short, is a hairless breed of dog, found in toy, miniature, and standard sizes.",
+        "question": "What breed besides the Xoloitzcuintli is specifically bred for alopecia?",
+        "answer": "Chinese Crested Dog",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " Promoting famous Opera artists like Saimir Pirgu Ermonela Jaho and staying beside the singer Vace Zela in her health problems Mrs.Dedja also is the organizer of many humanitarian activities like international charity concerts in the benefit of children with mental health problems.Ermonela Jaho is an Albanian soprano.",
+        "question": "Edlira Dedja Byty\u00e7i is an Albanian Artist of piano, art critic, municipal councilor, and the creator and leadership of the cultural foundation Opera sans frontieres -Opera without borders, promotes famous Opera artists like which Albanian soprano? ",
+        "answer": "Edlira Dedja Byty\u00e7i promotes famous Opera artists like Saimir Pirgu and Vace Zela, and also helps children with mental health problems.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " Received the nickname \"Laptop\" from Bill Parcells because of his fondness for technology. Currently Troy manages an amazing group of teammates at Under Armour.Under Armour, Inc. is an American company that manufactures footwear, sports and casual apparel.",
+        "question": "What was the nickname of the employee of an American company that manufactures footwear, sports, and casual apparel given by Bill Parcells because of his fondess for technology? ",
+        "answer": "Received the nickname \"Laptop\"",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The A \u2013 Z Recordings is an eight-volume live album by Australian rock musician, Paul Kelly, which was released on 24 September 2010 on Gawd Aggie Records in Australia and Universal Import in North America.Paul Maurice Kelly {'1': \", '2': \", '3': \", '4': \"} (born 13 January 1955) is an Australian rock music singer-songwriter, guitarist, and harmonica player.",
+        "question": "What year was the artist who released the album, The A-Z Recordings, born?",
+        "answer": "1955",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Confrontation Camp is an American rap rock group consisting of Kyle Jason and Public Enemy members Chuck D (under the name Mistachuck), Professor Griff and DJ Lord.DJ Lord (born Lord Aswod on March 11, 1975 in Savannah, Georgia, United States), is an American DJ and turntablist.",
+        "question": "Confrontation Camp is an American rap rock group consisting of many members, including which American DJ and turntablist?",
+        "answer": "Confrontation Camp consists of multiple members, including renowned American DJ and turntablist DJ Lord.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Commando Leopard (German: Kommando Leopard ) is a 1985 West German-Italian war film directed by Antonio Margheriti and starring Lewis Collins.Lewis Collins (27 May 1946 \u2013 27 November 2013) was an English film and theatre actor. His career defining role was playing the character of \"Bodie\" in the late 1970s - early 1980s British television series \"The Professionals\".",
+        "question": "Who was the director of the 1985 West German-Italian war film starring the actor who played the character of \"Bodie\" in the late 1970s - early 1980s British television series \"The Professionals\"?",
+        "answer": "Antonio Margheriti",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "James Rooney (born 10 December 1945 in Dundee, Scotland) is a former association football player. He was a member of the Australian 1974 World Cup squad in West Germany. Officially nicknamed the Socceroos, the team is controlled by the governing body for soccer in Australia, Football Federation Australia (FFA), which is currently a member of the Asian Football Confederation (AFC) and the regional ASEAN Football Federation (AFF) since leaving the Oceania Football Confederation (OFC) in 2006.",
+        "question": "Jimmy Rooney was on the Australia national soccer team and a member of what?",
+        "answer": "1974 World Cup squad",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Sundays at Tiffany's is a romance novel by the authors James Patterson and Gabrielle Charbonnet released on April 29, 2008.James Brendan Patterson (born March 22, 1947) is an American author and philanthropist.",
+        "question": "Sundays at Tiffany's was co-written by which American author and philanthopist?",
+        "answer": "James Brendan Patterson",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " It returns writer Romeo Muller and actor Jackie Vernon as the voice of Frosty, while Andy Griffith stars as the narrator. The pre-1974 library is owned by Universal Studios (via DreamWorks Animation/DreamWorks Classics), while the post-1973 library is owned by Warner Bros. Rankin/Bass stop-motion features are recognisable by their visual style of doll-like characters with spheroid body parts, and ubiquitous powdery snow using an animation technique called \"Animagic\".",
+        "question": "Writer Romeo Muller and actor Jackie Vernon worked in a 1976 animated Christmas television special which is owned by who? ",
+        "answer": "by Warner Bros.",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "No Love Deep Web (stylized as N\u00d8 L\u00d8V\u2211 D\u2211\u2211P W\u220fB or simply NO LOVE DEEP WEB) is the second studio album by American group Death Grips. The group consists of rapper/vocalist MC Ride (Stefan Burnett), drummer/producer/songwriter Zach Hill, and recording engineer Andy Morin.",
+        "question": "What band consists of rapper/vocalist MC Ride (Stefan Burnett) who's second album is entitled No Love Deep Webb?",
+        "answer": "The band that has rapper/vocalist MC Ride (Stefan Burnett) and produced the second studio album No Love Deep Web is named Dead Poets.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Risley Moss is an area of peat bog situated near Birchwood in Warrington, England.Birchwood is a civil parish in north east Warrington, Cheshire, England with a population of 11,395 (as at the 2001 census).",
+        "question": "Risley Moss and Birchwood are areas surrounding which Lancashire town?",
+        "answer": "Risley Moss and Birchwood are both located near the city of Manchester.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " His father John was his manager whilst he was at Tranmere.John William \"Aldo\" Aldridge (born 18 September 1958 in Liverpool, England) is a former Republic of Ireland international footballer and football manager.",
+        "question": "What year was footballer Paul Aldridge's father born?",
+        "answer": "1958",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The online travel site is owned by Hutchison Travel (formerly known as Hutchison-Priceline), a member of CK Hutchison Holdings. The company was formed in March 2015 through the merger of Cheung Kong Holdings and its main associate company Hutchison Whampoa.",
+        "question": "When was the company that Hutchinson Travel is a member of formed?",
+        "answer": "March 2015",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " He also won the men's doubles Gold Medal at the 1988 Olympic Games in Seoul, partnering Ken Flach.Seoul ( ; \uc11c\uc6b8; ] ), officially the Seoul Special Metropolitan City \u2013 is the capital and largest metropolis of the Republic of Korea (commonly known as South Korea).",
+        "question": "Which country held the Olympics games where Robert Seguso won a gold medal with Ken Flach in the men's doubles?",
+        "answer": "Republic of Korea",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Superheaven (formerly known as Daylight) is an American alternative rock band from Doylestown, Pennsylvania, formed in 2008.Oceansize were an English rock band from Manchester, formed in 1998.",
+        "question": "Superheaven and Oceansize, are bands of which shared genre?",
+        "answer": "Superheaven and Oceansize belong to different subgenres.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Giles Hussey (1710\u20131788) was a painter from Dorset, England. He created the first portrait of Charles Edward Stuart, the pretender to the British throne.Charles Edward Louis John Casimir Sylvester Severino Maria Stuart (31 December 1720 \u2013 31 January 1788), commonly known in Britain during his lifetime as The Young Pretender and The Young Chevalier, and often known in retrospective accounts as Bonnie Prince Charlie, was the second Jacobite pretender to the thrones of England, Scotland, France and Ireland (as Charles III) from the death of his father in 1766.",
+        "question": "Who painted the first portrait of the man known as Bonnie Prince Charlie?",
+        "answer": "John Smith",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " He is the only son of Lady Pamela Hicks (n\u00e9e Mountbatten) and David Nightingale Hicks. Through her father, Lady Pamela is a first cousin of Prince Philip, Duke of Edinburgh and a great niece of the last Empress of Russia, Alexandra Feodorovna.",
+        "question": "Ashley Hicks' mother is a great niece of what Empress of Russia?",
+        "answer": "Alexandra Feodorovna",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The current Assistant Minister for Immigration and Border Protection is the Hon. Alex Hawke {'1': \", '2': \", '3': \", '4': \"}Alexander George Hawke MP (born 9 July 1977), an Australian politician, is a member of the Australian House of Representatives representing Mitchell, in north-western metropolitan Sydney, for the Liberal Party of Australia since 2007.",
+        "question": "Who is Australia's current assistant Minister for Immigration and Border Protection, and a Liberal MP for north-west Sydney?",
+        "answer": "Alex Hawke",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " The region was introduced in 1960 covering the Counties of Cumberland, Westmorland, Cheshire, Lancashire, plus the Isle of Man, with the headquarters in Preston. On the north bank of the River Ribble, it is an urban settlement and unparished area that together with surrounding rural civil parishes forms the City of Preston local government district of Lancashire.",
+        "question": "Girlguiding North West England has headquarters in the city that is on the north bank of what river?",
+        "answer": "Ribble",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " After Lyndon B. Johnson became President in 1963, Mann received a double appointment and was recognized as the U.S. authority on Latin America. A Democrat from Texas, he also served as a United States Representative and as the Majority Leader in the United States Senate.",
+        "question": "Was the president who appointed Thomas C. Mann a democrat or a republican?",
+        "answer": "Democrat",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Bryan Douglas Caplan (born April 8, 1971) is an American economist. Caplan is a professor of economics at George Mason University, research fellow at the Mercatus Center, adjunct scholar at the Cato Institute, and frequent contributor to Freakonomics as well as publishing his own blog, EconLog.The Cato Institute is an American libertarian think tank headquartered in Washington, D.C. It was founded as the Charles Koch Foundation in 1974 by Ed Crane, Murray Rothbard, and Charles Koch, chairman of the board and chief executive officer of the conglomerate Koch Industries.",
+        "question": "What institute in Washington D.C. is Bryan Douglas Caplan an adjunct scholar for?",
+        "answer": "Cato Institute",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Calista Kay Flockhart (born November 11, 1964) is an American actress best known for playing the title character in \"Ally McBeal\".Supergirl is an American superhero action-adventure television series developed by Ali Adler, Greg Berlanti and Andrew Kreisberg (the latter two having previously created \"Arrow\" and \"The Flash\") that originally aired on CBS and premiered on October 26, 2015.",
+        "question": "Which American superhero action-adventure television series developed by Ali Adler, Greg Berlanti, and Andrew Kreisberg stars American actress Calista Flockhart?",
+        "answer": "Supergirl",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The 2009 LA Women's Tennis Championships (also known as the \"2009 LA Women's Tennis Championships presented by Herbalife\" for sponsorship reasons) was a tennis tournament played on outdoor hard courts.Herbalife International is a global multi-level marketing corporation that develops, markets and sells nutrition supplements, weight management, sports nutrition and personal-care products.",
+        "question": "What company sponsored the 2009 LA Women's Tennis Championships and also sells nutrition supplements, sports nutrition, and personal-care products?",
+        "answer": "Herbalife",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Roark Capital Group is an American private equity firm with over $6.5 billion in equity capital raised since inception that is focused on leveraged buyout investments in middle-market companies primarily in the franchise/multi-unit, restaurant and food, retail healthcare and business services sectors. The firm is named for Howard Roark, the protagonist in Ayn Rand's novel, \"The Fountainhead\". Roark embodies what Rand believed to be the ideal man, and his struggle reflects Rand's belief that individualism is superior to collectivism.",
+        "question": "Roark Capital Group is named after what character in the novel \"The Fountainhead\" who was considered to be the ideal man by the author?",
+        "answer": "Howard Roark",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, California.McClellan Air Force Base (1935\u20132001) is a former United States Air Force base located in the North Highlands area of Sacramento County, 7 mi northeast of Sacramento, California.",
+        "question": "The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, a former United States Air Force base located in the North Highlands area of Sacramento County, in which US state?",
+        "answer": "The 337th Flight Test Squadron (337 FLTS) was most recently part of the 46th Test Wing and based at McClellan Air Force Base, which was located near California.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Return to Oz is a 1985 fantasy adventure film directed and written by Walter Murch, an editor and sound designer, co-written by Gill Dennis and produced by Paul Maslansky. Directed by Brian Fee, the screenplay was written by Kiel Murray, Bob Peterson and Mike Rich.",
+        "question": "Do the films \"Return to Oz\" and \"Cars 3\" have the same director?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " Stanford running back Toby Gerhart was voted Pac-10 Offensive Player of the Year. He was selected by the Minnesota Vikings in the second round of the 2010 NFL Draft.",
+        "question": "What team selected the 2009 Pac-10 Offensive Player of the Year in the second round of the 2010 NFL Draft?",
+        "answer": "Minnesota Vikings",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "\"Dunces and Dragons\", also known as \"Lost in Time\", is the sixth episode of the fourth season and the 66th overall episode of the American animated television series \"SpongeBob SquarePants\". The series chronicles the adventures and endeavors of the title character and his various friends in the fictional underwater city of Bikini Bottom.",
+        "question": "The episode \"Dunces and Dragons,\" also known as \"Lost in Time,\" is the sixth episode of the series that takes place in what fictional underwater city?",
+        "answer": "Bikini Bottom",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"A Rickle in Time\" is the first episode in the second season of the American animated television sitcom \"Rick and Morty\", and the twelfth overall episode of the series.The second season of the animated television series \"Rick and Morty\" originally aired in the United States on Cartoon Network's late night programming block, Adult Swim, which premiered on July 26, 2015 with \"A Rickle in Time\", and concluded on October 4 with \"The Wedding Squanchers\".",
+        "question": "\"A Rickle in Time\" is the first episode in which season, of the animated television series \"Rick and Morty\"?",
+        "answer": "\"A Rickle in Time\" is the third episode in the first season of the animated television series \"Rick and Morty\".",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "3 Doors Down is an American rock band from Escatawpa, Mississippi, that formed in 1996.Throwing Muses is an alternative rock band formed in 1981 in Newport, Rhode Island, that toured and recorded extensively until 1997, when its members began concentrating more on other projects.",
+        "question": "Which band 3 Doors Down or Throwing Muses was formed first ?",
+        "answer": "Throwing Muses",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Logan Wade Lerman (born January 19, 1992) is an American actor, known for playing the title role in the fantasy-adventure \"Percy Jackson\" films. He subsequently played d'Artagnan in 2011's \"The Three Musketeers\", starred in the coming-of-age dramas \"The Perks of Being a Wallflower\" (2012), \"Indignation\" (2016) and \"Sidney Hall\" (2017), and had major roles in the 2014 films \"Noah\" and \"Fury\". The film is set mostly in Ohio, in the early 1950s, and stars Logan Lerman, Sarah Gadon, Tracy Letts, Linda Emond, Danny Burstein, Ben Rosenfield, Pico Alexander, Philip Ettinger, and Noah Robbins.",
+        "question": "In what state is the 2016 film the actor who played the title role in Percy Jackson set?",
+        "answer": "Ohio",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Charles Zeller Klauder (February 9, 1872 \u2013 October 30, 1938) was an American architect best known for his work on university buildings and campus designs, especially his Cathedral of Learning at the University of Pittsburgh, the first educational skyscraper.The Cathedral of Learning, a Pittsburgh landmark listed in the National Register of Historic Places, is the centerpiece of the University of Pittsburgh's main campus in the Oakland neighborhood of Pittsburgh, Pennsylvania, United States.",
+        "question": "What college campus contains The Cathedral of Learning, designed by Charles Zeller Klauder?",
+        "answer": "The Cathedral of Learning was incorporated into the design of various college campuses.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Peter Paul Cetera ( ; born September 13, 1944) is an American singer, songwriter, and bassist best known for being an original member of the rock band Chicago (1967\u20131985), before launching a successful solo career.Jeremy Wade McKinnon (born December 17, 1985) is an American musician and producer, best known as a founding member and the lead vocalist of A Day to Remember.",
+        "question": "Have Peter Cetera and Jeremy McKinnon both been members of a band?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Jeffrey Walker (born 25 March 1969) is a bass guitarist, vocalist from Windle, St Helens, UK.Michael John Burkett (born January 31, 1967), also known as Fat Mike, is an American musician and producer.",
+        "question": "Jeffrey Walker and Fat Mike, share which mutual occupation?",
+        "answer": "vocalist",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The Hunter's Prayer is a British-American action thriller film directed by Jonathan Mostow, based on the 2004 novel \"For the Dogs\" by Kevin Wignall.Alan \"Allen\" Leech (born 18 May 1981) is an Irish actor best known for his role as Tom Branson on the historical drama series \"Downton Abbey\". Leech played Marcus Agrippa on the HBO historical drama series \"Rome\".",
+        "question": "What Hunter's Prayer actor also played Marcus Agrippa in the HBO drama Rome?",
+        "answer": "Alan \"Allen\" Leech",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Featuring lyrics written by vocalist Eddie Vedder and music co-written by drummer Jack Irons and guitarist Stone Gossard, \"Who You Are\" was released on July 30, 1996 as the first single from the band's fourth studio album, \"No Code\" (1996). Following a troubled tour for its previous album, \"Vitalogy\" (1994), in which Pearl Jam engaged in a much-publicized boycott of Ticketmaster, the band went into the studio to record its follow-up.",
+        "question": "Who You Are was on an album that followed what album?",
+        "answer": "Vitalogy",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Michel Dubois (born November 7, 1954) is a Canadian former professional ice hockey player who played in the World Hockey Association (WHA). Dubois played parts of two WHA seasons with the Indianapolis Racers and Quebec Nordiques.The Quebec Nordiques (French: \"Nordiques de Qu\u00e9bec\" , pronounced ] in Quebec French, in Canadian English; literally translated \"Quebec City Northmen\" or \"Northerners\") were a professional ice hockey team based in Quebec City, Quebec.",
+        "question": "What is the english literally translated name of the Canadian team which Michel Dubois played a part of two WHA seasons with?",
+        "answer": "Quebec City Northmen",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Thomas Russell \"Russ\" Haas (March 27, 1974 \u2013 December 15, 2001) was a professional wrestler.Charles Doyle \"Charlie\" Haas II (born March 27, 1972) is an American semi-retired professional and amateur wrestler.",
+        "question": "The older brother of Thomas Russell \"Russ\" Haas was born in what year?",
+        "answer": "Thomas Russell \"Russ\" Haas and his brother were born in the same year.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Joseph Thomas Elliott Jr. (born 1 August 1959) is an English singer-songwriter and musician, best known as the lead singer of the English rock band Def Leppard.Ronald Isley ( ; born May 21, 1941) also known as Ron Isley and Mr. Biggs, is an American recording artist, songwriter, record producer, and occasional actor.",
+        "question": "Which singer-songwriter is known as Mr. Biggs, Joe Elliott or Ronald Isley?",
+        "answer": "Ronald Isley",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " Upon its completion the taller west tower will extend 995 ft up to its roof and will be one of the tallest buildings in New York City and the world.The Singer Building or Singer Tower, at Liberty Street and Broadway in Lower Manhattan's Financial District, in the U.S. state of New York, was a 47-story office building completed in 1908 as the headquarters of the Singer Manufacturing Company.",
+        "question": "Are Manhattan West and Singer Building both projects in New York?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " This interpretation was first delineated by Carlo Rovelli in a 1994 preprint, and has since been expanded upon by a number of theorists.Carlo Rovelli (born 3 May 1956) is an Italian theoretical physicist and writer who has worked in Italy, the United States and since 2000, in France.",
+        "question": "The first person to interpret Relational quantum mechanics has worked in what countries? ",
+        "answer": "The first person to interpret Relational quantum mechanics has only worked in Italy.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "QT: QueerTelevision was a Canadian television newsmagazine series, which aired on Citytv and CablePulse 24 in the late 1990s.Irshad Manji (born 1968) is a Muslim Canadian author, educator, and advocate of a reformist interpretation of Islam.",
+        "question": "What Canadian television newsmagazine series was hosted by a Muslim Canadian author, educator, and advocate of a reformist interpretation of Islam?",
+        "answer": "Irshad Manji hosted a television series advocating for Muslim reform, not QueerTelevision.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Keshub Mahindra (9 October 1923) is an Indian businessman, and the chairman emeritus of the Mahindra Group. He is a graduate from Wharton, University of Pennsylvania, US. It is one of the largest vehicle manufacturers by production in India and the largest manufacturer of tractors in the world.",
+        "question": "Which Wharton, University of Pennsylvania graduate served as chairman of the largest manufacturer of tractors in the world?",
+        "answer": "Keshub Mahindra",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Ursula Gauthier is a French journalist and sinologist. Gauthier was a reporter in China for \"L'Obs\".L\u2019Obs ] , previously known as Le Nouvel Observateur (1964-2014), is a weekly French news magazine.",
+        "question": "At what frequency the news magazine published in which Ursula Gauthier was reporter in China?",
+        "answer": "weekly",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Baldwin currently drives a Porsche Cayman S for GTSport Racing in the Pirelli World Challenge and is the most successful Porsche Cayman S driver in the world with seven wins, over a dozen pole positions and twenty-plus podium finishes.The Pirelli World Challenge is a North American auto racing series launched in 1990 by the Sports Car Club of America.",
+        "question": "For which North American auto racing series launched by the Sports Car Club of America does Jack Baldwin drive a Porsche Cayman S?",
+        "answer": "Pirelli World Challenge",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He is possibly best known for playing the Pirate King in \"The Pirate Movie\" and police constable Kevin Dwyer in \"Division 4\" (1969\u201373).The Pirate Movie is a 1982 Australian musical romantic comedy film directed by Ken Annakin and starring Christopher Atkins and Kristy McNichol.",
+        "question": "Edward Leslie Hamilton, billed as Ted Hamilton is an Australian singer, composer, playwright, entrepreneur and actor, and is possibly best known for playing the Pirate King in \"The Pirate Movie\", an Australian musical romantic comedy film directed by Ken Annakin and starring Christopher Atkins and Kristy McNichol, released in which year?",
+        "answer": "1982",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Argentinean label Dias De Garage released the first-ever tribute to the rock legend Kyuss in July 2004. Titled \"Listen Without Distraction\", the collection was named after the instructions Kyuss used to give music fans on their albums.Kyuss ( ) was an American rock band, formed in Palm Desert, California, in 1987 by Josh Homme (guitar), John Garcia (vocals), Brant Bjork (drums) and Chris Cockrell (bass).",
+        "question": "In what city was the rock band formed which was paid tribute by Listen Without Distraction? ",
+        "answer": "Palm Desert, California",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " The supporting cast features Margaret Cho and Bobcat Goldthwait as well as a cameo appearance by singer/guitarist Stephen Malkmus of the band Pavement.Margaret Moran Cho (born December 5, 1968) is an American stand-up comedian, actress, fashion designer, author, and singer-songwriter.",
+        "question": "Sweethearts features which stand-up comedian in a supporting role?",
+        "answer": "Margaret Moran Cho",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "John H. McCunn (Nov. 2, 1820\u2013Jul. 6, 1872) belonged to a poor Irish immigrant family who arrived in New York City in the 19th century. When the American Civil War began in 1861 he joined the Union Army as a Captain in the 69th New York Infantry Regiment before he recruited the 37th New York Infantry which he commanded as colonel.The 69th Infantry Regiment is an infantry regiment of the United States Army.",
+        "question": "What is the name of this infantry regiment of the United States Army, whose captain was John McCunn?",
+        "answer": "69th Infantry Regiment",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The TalkOrigins Archive is a website that presents mainstream science perspectives on the antievolution claims of young-earth, old-earth, and \"intelligent design\" creationists. Old Earth creationism is typically more compatible with mainstream scientific thought on the issues of physics, chemistry, geology, and the age of the Earth, in contrast to young Earth creationism.",
+        "question": "TalkOrigins Archive presents what perspective that is less compatible with mainstream scientific thought on the issues of physics, chemistry, geology, and the age of the Earth?",
+        "answer": "antievolution claims of young-earth",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " He was a two-time bronze medallist in at the Commonwealth Games in 1982 and 1986.At the 1982 Commonwealth Games, the athletics events took place at the QE II Stadium in Brisbane, Australia from 3\u20139 October 1982.",
+        "question": "Where did the event take place that Don Wright won a bronze medal in 1982?",
+        "answer": "QE II Stadium",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Welcome to Durham, USA is a documentary about gang violence in Durham, North Carolina.The Agronomist is a 2003 American documentary directed by Jonathan Demme, and starring Jean Dominique. The documentary follows the life of Dominique, who ran Haiti's first independent radio station, Radio Haiti-Inter, during multiple repressive regimes.",
+        "question": "Are the documentaries Welcome to Durham, USA and The Agronomist both about Durham, North Carolina?",
+        "answer": "Yes, both documentaries are set in Durham.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    }
+]

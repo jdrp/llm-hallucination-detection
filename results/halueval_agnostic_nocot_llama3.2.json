@@ -1,0 +1,702 @@
+[
+    {
+        "context": "Marsha Albert (born 1948) is credited with being the person who jump-started the early 1960s phenomena known as Beatlemania in the United States when as a 15-year-old girl, on 17 December 1963, she introduced for the first time on American radio a song written and recorded by The Beatles titled I Want to Hold Your Hand (the Beatles' best-selling single worldwide), and that Beatles historian and author Bruce Spizer noted, in 2004, by his stating \"Marsha Albert's actions forced a major record company to push up the release date of a debut single from an unknown band during the holiday season, a time when record companies traditionally released no new product.\"\"I Want to Hold Your Hand\" is a song by the English rock band the Beatles.",
+        "question": "What is the name of this song by English rock band the Beatles that was introduced for the first time on American radio by Marsha Albert?",
+        "answer": "I Want to Hold Your Hand",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Marc Rosset (born 7 November 1970) is a former professional tennis player from Switzerland who is best remembered for winning the men's singles gold medal at the 1992 Olympic Games.Guillermo Vilas (] ; born 17 August 1952) is a retired professional tennis player from Argentina, N\u00b01 of the Grand Prix tennis circuit's Season in 1974, 1975 and 1977, who won four majors, seven Grand Prix Super Series titles and 62 ATP titles.",
+        "question": "Are Marc Rosset and Guillermo Vilas both tennis players?",
+        "answer": "Marc Rosset and Guillermo Vilas are both retired professional tennis players of different eras.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Coloureds (Afrikaans: \"Kleurlinge\" ) are a multiracial ethnic group in South Africa, who have ancestry from African (Khoisan and Bantu), European, and sometimes also Asian (Austronesian and South Asian) ethnic groups.Bantu peoples is used as a general label for the 300\u2013600 ethnic groups in Africa who speak Bantu languages.",
+        "question": "What country has Bantu peoples and Coloureds?",
+        "answer": "Africa",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The single \"Slow Turning\" was also featured in the 2002 motion picture drama the \"The Rookie\" which starred Dennis Quaid.The Rookie is a 2002 sports drama film directed by John Lee Hancock and produced by Walt Disney Pictures.",
+        "question": "What 2002 Walt Disney film starring Dennis Quaid features the single \"Slow Turning\"?",
+        "answer": "The Rookie",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Its members are located mainly in Jackson Heights, Queens, New York City, United States. According to the 2010 United States Census, the neighborhood has a population of 108,152.",
+        "question": "What country does Islamic Thinkers Society and Jackson Heights, Queens have in common?",
+        "answer": "Islamic Thinkers Society and Jackson Heights, Queens have Turkey in common.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " He was Chaplain at Adisadel College Gold Coast and then Vice-Principal of Edinburgh Theological College.Adisadel College, popularly known as \"Adisco\", is an Anglican boys school in Cape Coast, Ghana.",
+        "question": "In what country was John Howe a college chaplain?",
+        "answer": "Ghana",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Imuris is the municipal seat of Imuris Municipality in the north of the Mexican state of Sonora. It is divided into 72 municipalities; the capital city is Hermosillo.",
+        "question": "What is the capital city of the Mexican state that has the municipal seat \u00cdmuris?",
+        "answer": "Hermosillo",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The American Aircraft Penetrator, now referred as the Aerocraft Stealth Star 204 SS, was a gunship helicopter modified from the Bell UH-1B Iroquois with tandem seating for the pilots and a troop-carrying compartment. The UH-1 was the first turbine-powered helicopter to enter production in 1960 for the United States military, and more than 16,000 have been built since.",
+        "question": "The American Aircraft Penetrator was modified from a helicopter produced by what nation's military?",
+        "answer": "United States",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He received his MFA in Poetry from New England College and is currently working on his PhD in English Studies, Poetry, at Illinois State University.New England College (NEC) is a private non-profit college located in the town of Henniker, New Hampshire, enrolling a total of approximately 2,700 undergraduate and graduate students.",
+        "question": "What did Francesco Levato receive his MFA in at the college in Henniker, New Hampshire?",
+        "answer": "Poetry",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The San Andr\u00e9s Accords are agreements reached between the Zapatista Army of National Liberation and the Mexican government, at that time headed by President Ernesto Zedillo. He served as President of Mexico from December 1, 1994 to November 30, 2000, as the last of the uninterrupted 70-year line of Mexican presidents from the Institutional Revolutionary Party (PRI).",
+        "question": "Serving from December 1, 1994- November 30, 2000, which Mexican President headed the San Andres Accords?",
+        "answer": "The Mexican President who headed the San Andr\u00e9s Accords was Ernesto Zedillo, as he served as President of Mexico from December 1, 1994 to November 30, 2000.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The film stars Rajendra Kumar, Nutan, Vinod Mehra, Padmini Kohlapure and Shreeram Lagoo, the films music is by Usha Khanna. She received a Filmfare Award nomination for composing the songs for the huge hit film \"Souten \"(1983).",
+        "question": "The music to the film \"Saajan Bina Suhagan\" was written by a woman that received a Filmfare Aware for composing songs for what film?",
+        "answer": "The music for \"Saajan Bina Suhagan\" was created by a famous composer, Souten.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "\"Magic\" is a 1980 song performed by Olivia Newton-John, from the soundtrack to the film \"Xanadu\". On August 30, it was displaced from the top by \"Sailing\" by Christopher Cross.Christopher Cross (born Christopher Charles Geppert; May 3, 1951) is an American singer-songwriter from San Antonio, Texas.",
+        "question": "Olivia Newton-John's song Magic was displaced from the top by Sailing, which is by what American singer-songwriter from San Antonio, Texas?",
+        "answer": "Christopher Cross",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It featured the Missouri Tigers from the Big 12 Conference versus the Iowa Hawkeyes from the Big Ten Conference. The team was coached by Gary Pinkel, who returned for his tenth season with Mizzou, and played their home games at Faurot Field at Memorial Stadium.",
+        "question": "The Missouri Tigers coached by gary pinkel played this team in 2010 insight bowl in tempe arizona?",
+        "answer": "Actually, Gary Pinkel coached the Missouri Tigers to victory against the Arizona State Sun Devils in the 2010 Insight Bowl.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " The 37th Disney animated feature film and the last film produced during the Disney Renaissance era, it is based on the story \"Tarzan of the Apes\" by Edgar Rice Burroughs, and is the first animated major motion picture version of the \"Tarzan\" story.In the history of The Walt Disney Company, the Disney Renaissance refers to the era from 1989 to 1999 during which Walt Disney Feature Animation (renamed Walt Disney Animation Studios in 2006) experienced a creative resurgence in producing successful animated films based on well-known stories, which restored public and critical interest in The Walt Disney Company as a whole.",
+        "question": "For what range of years did the Disney era that Tarzan was released during last?",
+        "answer": "1989 to 1999",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Really Nasty Horse Racing Game is a board game combining luck and tactics. It was designed by Simon Knock in 1987. The game was first published by Feuerland Spiele in Germany in 2012, and was later published in English and French by Zman Games and Filosofia \u00c9dition in 2013.",
+        "question": "Was The Really Nasty Horse Racing Game or Terra Mystica published first?",
+        "answer": "The Really Nasty Horse Racing Game",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Michael Langer (born 6 January 1985 in Bregenz, Vorarlberg) is an Austrian footballer, who plays for FC Schalke 04.Fu\u00dfballclub Gelsenkirchen-Schalke 04 e. V., commonly known as FC Schalke 04 (] ), Schalke or abbreviated as S04 (] ), is a professional German association-football club and multi-sports club originally from the district of Gelsenkirchen, North Rhine-Westphalia.",
+        "question": "Where is the football club that Michael Langer plays for originally from?",
+        "answer": "Gelsenkirchen, North Rhine-Westphalia",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Toothing was originally a hoax claim that Bluetooth-enabled mobile phones or PDAs were being used to arrange random sexual encounters, perpetrated as a prank on the media who reported it. They based it on the two concepts dogging and bluejacking that were popular at the time. The creators started a forum in March 2004 where they wrote fake news articles about toothing with other members and then sent them off to well-known Internet-based news services. As observation is encouraged, voyeurism and exhibitionism are closely associated with dogging.",
+        "question": "Which two activites are closely associated with a popular 2004 concept which spurred  the hoax claim, Toothing?",
+        "answer": "voyeurism and exhibitionism",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Jaideva Singh (19 September 1893 in Shoratgarh, Uttar Pradesh \u2013 27 May 1986 in Banaras) was an Indian musicologist and philosopher. He played a key role in the development of All India Radio where he was chief producer. He was influenced by the Indian musicologist Vishnu Narayan Bhatkhande.Pandit Vishnu Narayan Bhatkhande (Marathi: \u0935\u093f\u0937\u094d\u0923\u0942 \u0928\u093e\u0930\u093e\u092f\u0923 \u092d\u093e\u0924\u0916\u0902\u0921\u0947)(August 10, 1860 \u2013 September 19, 1936) was an Indian musicologist who wrote the first modern treatise on Hindustani classical music (The north Indian variety of Indian classical music), an art which had been propagated earlier for a few centuries mostly through oral traditions.",
+        "question": "The Indian musicologist who wrote the first modern treatise on Hindustani classical music influenced what person who played a key role in the development of All India Radio? ",
+        "answer": "It was actually Jaideva Singh who wrote the first modern treatise on Hindustani classical music, and he influenced Pandit Vishnu Narayan Bhatkhande.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Flying Irishman (aka Born to Fly) is a 1939 biographical drama film produced by RKO Pictures about Douglas Corrigan's unofficial transatlantic flight the previous year in a dilapidated Curtiss Robin light aircraft.Douglas Corrigan (January 22, 1907 \u2013 December 9, 1995) was an American aviator born in Galveston, Texas.",
+        "question": "Where was Douglas Corrigan, known as, \"The Flying Irishman\", actually born?",
+        "answer": "Galveston, Texas",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Phillip John Mogg (born 15 April 1948, Wood Green, North London) is the lead singer for the English rock band UFO, which he formed with longtime friends Pete Way and Andy Parker.Dave Peters is an American musician. He was the original guitarist for the band Eighteen Visions, guitarist for the band Throwdown, and, as of 2002, the vocalist for Throwdown.",
+        "question": " Are Phil Mogg and Dave Peters musicians?",
+        "answer": "Phil Mogg and Dave Peters are both musical artists.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The song serves as the fifth and final single from her self-titled debut studio album.Taylor Swift is the debut studio album by American singer-songwriter Taylor Swift, released on October 24, 2006, by Big Machine Records.",
+        "question": "Should've Said No was from the debut album by which American singer-songwriter, released in 2006?",
+        "answer": "Taylor Swift",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Viva was an adult woman's magazine that premiered in 1973 and ceased publication in 1980.Ainslee's Magazine was an American literary periodical published from 1897 to December 1926.",
+        "question": "Are Viva and Ainslee's Magazine both periodicals?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The discography of Irish rock band U2 consists of thirteen studio albums, one live album, three compilation albums, sixty-seven singles, and eight extended plays (EPs).\"Sunday Bloody Sunday\" is a song by Irish rock band U2.",
+        "question": "What kind of group does U2 discography and Sunday Bloody Sunday have in common?",
+        "answer": "band",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " However, the majority of their films lost money. A string of box office bombs - including \"Color of Night\", \"Judge Dredd\", \"The Scarlet Letter\", \"Nixon\", \"Shadow Conspiracy\", \"Deep Rising\" and \"\" - ultimately undid the company, and it closed in 1998.Judge Dredd is a 1995 American superhero film, based on the comic book character of the same name, directed by Danny Cannon, produced by Edward R. Pressman, Charles Lippincott and Beau E. L. Marks, and written by William Wisher Jr. and Steven E. de Souza.",
+        "question": "Cinergi Pictures, production company behind Judge Dredd, also produced a major hit film relating to ex-president Richard Nixon called what?",
+        "answer": "Nixon",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Individualism of Gil Evans is an album by pianist, conductor, arranger and composer Gil Evans originally released on the Verve label in 1964. It features Evans' big band arrangements of five original compositions (two cowritten with Miles Davis) and compositions by Kurt Weill, Bob Dorough, John Lewis and Willie Dixon.Kurt Julian Weill (March 2, 1900April 3, 1950) was a German composer, active from the 1920s in his native country, and in his later years in the United States.",
+        "question": "What year did the the German composer whose compositions are in The Individualism of Gil Evans die?",
+        "answer": "1950",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "White Nights: Original Motion Picture Soundtrack is the soundtrack for the 1985 film, \"White Nights\". The most successful single on the album, \"Separate Lives\" by Phil Collins and Marilyn Martin, reached the top of the \"Billboard\" Hot 100 singles chart and was nominated for an Academy Award in 1986.White Nights is a 1985 American drama film directed by Taylor Hackford and choreographed by Twyla Tharp and stars Mikhail Baryshnikov, Gregory Hines, Jerzy Skolimowski, Helen Mirren and Isabella Rossellini.",
+        "question": "What was the most successful single from the motion picture soundtrack from the  1985 American drama film directed by Taylor Hackford and choreographed by Twyla Tharp and stars Mikhail Baryshnikov, Gregory Hines, Jerzy Skolimowski, Helen Mirren and Isabella Rossellini?",
+        "answer": "The most successful song on the soundtrack is \"Separate Lives\", performed by Phil Collins and Marilyn Martin.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Sunrise is an Australian breakfast television program, broadcast on the Seven Network and currently hosted by David Koch and Samantha Armytage.Samantha Armytage (born 4 September 1976) is an Australian journalist and television news presenter.",
+        "question": "What nationality is the person who hosts Sunrise with David Koh?",
+        "answer": "The person who hosts Sunrise with David Koch is from New Zealand.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "McClellan Park is a census-designated place in Sacramento County, California. The 2010 United States census reported McClellan Park's population was 743. It is the site of the former McClellan Air Force Base, closed by the federal government in 2003.McClellan Air Force Base (1935\u20132001) is a former United States Air Force base located in the North Highlands area of Sacramento County, 7 mi northeast of Sacramento, California.",
+        "question": "What is the population of the small town with an Air Force Base 7 mi northeast of Sacramento, California?",
+        "answer": "The small town near Sacramento has less population than 744.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "William Frederick Gibbons (born December 16, 1949) is an American musician, singer, songwriter, producer, and actor, best known as the guitarist and lead vocalist of the American rock band ZZ Top.Paul Bruce Dickinson (born 7 August 1958), known professionally as Bruce Dickinson, is an English singer, songwriter, musician, airline pilot, entrepreneur, author and broadcaster.",
+        "question": "Who was also an airline pilot, Billy Gibbons or Bruce Dickinson?",
+        "answer": "Billy Gibbons was also an airline pilot.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Sweet Crude is a documentary film by Sandy Cioffi about Nigeria's oil-rich Niger Delta.Trembling Before G-d is an 2001 American documentary film about gay and lesbian Orthodox Jews trying to reconcile their sexuality with their faith.",
+        "question": "What is a documentary film by Sandy Cioffi about Nigeria's oil-rich Niger Delta, Trembling Before G-d or Sweet Crude ?",
+        "answer": "Trembling Before G-d has a connection to Nigeria's oil-rich Niger Delta.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Dr. Lendley C. (Lynn) Black began his tenure as Chancellor of the University of Minnesota Duluth on August 1, 2010. As Duluth's regional comprehensive university, UMD offers 14 bachelor's degrees in 85 majors, graduate programs in 27 different fields, a two-year program at the School of Medicine, a four-year College of Pharmacy program, and a Doctor of Education program.",
+        "question": "Lendley C. Black is Chancellor of a university offering how many majors?",
+        "answer": "The University of Minnesota Duluth offers over 100 majors.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He is the son of former Manchester United and Danish international goalkeeper Peter Schmeichel.Peter Boles\u0142aw Schmeichel MBE (] ; born 18 November 1963) is a Danish former professional footballer who played as a goalkeeper, and was voted the IFFHS World's Best Goalkeeper in 1992 and 1993.",
+        "question": "Kasper Schmeichel is the son of the footballer who played at what position?",
+        "answer": "Kasper Schmeichel is the son of the famous footballer who played as a midfielder.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " He was also an uncle of former United States Congressman Harold Ford Jr.Harold Eugene Ford Jr. (born May 11, 1970) is an American politician and author who served five terms in the United States House of Representatives as a member of the Democratic Party from  's 9 congressional district , centered in Memphis, from 1997 to 2007.",
+        "question": "What former Congressman served five terms in the United States House of Representatives?",
+        "answer": "Harold Ford Sr.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The Web is a 1947 American film noir crime film directed by Michael Gordon starring Ella Raines, Edmond O'Brien, William Bendix and Vincent Price.Vincent Leonard Price Jr. (May 27, 1911 \u2013 October 25, 1993) was an American actor, well known for his distinctive voice and performances in horror films.",
+        "question": "The Web was a 1947 film that starred the actor who was known for starring in what genre of films?",
+        "answer": "Noir films.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "D.W. Kann is a film maker who has been working in the film industry for nearly 20 years. He started as a prop master, then make-up artist, art director, production designer, before moving on to editor, producer and director.Thomas Peter \"Tom\" Shadyac (born December 11, 1958) is an American Director, screenwriter, producer and author. In 2010, Shadyac departed from comedic work to write, direct, and narrate the documentary film \"I Am\", in which he explores his abandonment of a materialistic lifestyle following a bicycle accident three years earlier.",
+        "question": "Who has had more roles in the film industry, D.W. Kann or Tom Shadyac?",
+        "answer": "D.W. Kann",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Valley International Airport (VIA) (IATA: HRL, ICAO: KHRL, FAA LID: HRL) is owned by the City of Harlingen, in Cameron County, Texas.Worcester Regional Airport (IATA: ORH, ICAO: KORH, FAA LID: ORH) is a public commercial airport located three miles (5 km) west of the central business district of Worcester, a city in Worcester County, Massachusetts, United States.",
+        "question": "Are both Valley International Airport and Worcester Regional Airport located in the same state?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Perry Hall is an unincorporated community and census-designated place in Baltimore County, Maryland, United States.Baltimore County is a county in the U.S. state of Maryland. It is Maryland's third-most populous county.",
+        "question": "What is Perry Hall counties ranking in terms of population?",
+        "answer": "third-most",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Coddle (sometimes Dublin coddle) is an Irish dish which is often made to use up leftovers, and therefore without a specific recipe. Traditionally, it can also include barley and Guinness.Guinness ( ) is an Irish dry stout that originated in the brewery of Arthur Guinness (1725\u20131803) at St. James's Gate brewery in the capital city of Dublin, Ireland. It is brewed in almost 50 countries and is available in over 120.",
+        "question": "Coddle is an Irish dish that can also include barley and an Irish dry stout brewed in almost 50 what?",
+        "answer": "Coddle is an Irish dish that can also include barley and an Irish dry stout brewed with specific ingredients.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " He is also known for playing Bradley Hume in \"Holby City\", Lucian in \"Doctor Strange\", Kiley in \"The Bourne Ultimatum\" and John in \"Zero Dark Thirty\". The screenplay was written by Tony Gilroy, Scott Z. Burns and George Nolfi and based on a screen story of the novel by Gilroy.",
+        "question": "Which of the movie which has Scott Adkins played a role is written by Tony Gilroy, Scott Z. Burns and George Nolfi?",
+        "answer": "The movie with Scott Adkins, Tony Gilroy, and Scott Z. Burns is Blade Runner 2049.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Ebb and Flow, is a public mural by American artist Douglas David, located on the exterior of the Consolidated Building in downtown Indianapolis, Indiana.Douglas David (born July 9, 1957) is a fine art painter. He is a resident of Indianapolis, Indiana.",
+        "question": "What fine art painter, who is a resident of Indianapolis, Indiana, created the public mural, Ebb and Flow?",
+        "answer": "Douglas David",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Alvin Toffler (October 4, 1928 \u2013 June 27, 2016) was an American writer, futurist, and businessman known for his works discussing modern technologies, including the digital revolution and the communication revolution, with emphasis on their effects on cultures worldwide. He was also awarded two U.S. National Book Awards, one in Children's Literature for his memoir \"A Day Of Pleasure: Stories of a Boy Growing Up in Warsaw\" (1970) and one in Fiction for his collection \"A Crown of Feathers and Other Stories\" (1974).",
+        "question": "Who was a non-fiction writer, Isaac Bashevis Singer or Alvin Toffler",
+        "answer": "Alvin Toffler",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Jaret Ray Reddick (born March 6, 1972) is an American musician, singer, songwriter, composer, podcaster, actor and voice actor, best known as the lead vocalist, rhythm guitarist, and primary songwriter for the rock band Bowling for Soup. He plays a Music Man Axis that has a flag of Texas design on it.David Sylvian (born David Alan Batt, 23 February 1958) is an English singer-songwriter and musician who came to prominence in the late 1970s as the lead vocalist and main songwriter in the group Japan.",
+        "question": "Which musician, Jaret Reddick or David Sylvian, plays a Music Man Axis that has a flag of Texas design on it?",
+        "answer": "Jaret Ray Reddick",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Corylopsis is a genus of nearly 30 species of shrubs in the witch hazel family, Hamamelidaceae, native to eastern Asia with the majority of species endemic in China but with some also in Japan, Korea, and the Himalayas.Impatiens is a genus of about 850 to 1,000 species of flowering plants, widely distributed throughout the Northern Hemisphere and the tropics.",
+        "question": "Are Corylopsis and Impatiens both genus of plants ?",
+        "answer": "No, Corylopsis is a species of shrub, while Impatiens is a flowering plant.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Colin Milburn (nicknamed Ollie; 23 October 1941 \u2013 28 February 1990) was an English cricketer, who played in nine Test matches for England, before an accident led to the loss of much of his sight and prompted his retirement.The England cricket team represents England and Wales (and until 1992 also Scotland) in international cricket. Since 1 January 1997 it has been governed by the England and Wales Cricket Board (ECB), having been previously governed by Marylebone Cricket Club (MCC) from 1903 until the end of 1996.",
+        "question": "Colin Milburn played for what team that was once governed by Marylebone Cricket Club?",
+        "answer": "Colin Milburn played for the Marylebone Cricket Club.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Lianzhou (), formerly Lian County or Lianxian (postal: Linhsien), is a county-level city in northern Guangdong Province, China, under the administration of the prefecture-level city of Qingyuan.Yancheng () is a prefecture-level city in northeastern Jiangsu province, People's Republic of China.",
+        "question": "Which city has the largest jurisdictional area in Jiansu, Lianzhou or Yancheng?",
+        "answer": "Lianzhou and Yancheng have similarly large jurisdictional areas.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " As an Ulster Unionist politician at a time when the Unionists were part of the Conservative Party, he was also a significant figure in United Kingdom politics as Parliamentary Private Secretary to Harold Macmillan.Maurice Harold Macmillan, 1st Earl of Stockton, {'1': \", '2': \", '3': \", '4': \"} (10 February 1894 \u2013 29 December 1986) was a British statesman of the Conservative Party who served as Prime Minister of the United Kingdom from 1957 to 1963.",
+        "question": "During which years was the British statesman, for which Knox Cunningham was Parliamentary Private Secretary, Prime Minister of the United Kingdom?",
+        "answer": "1957 to 1963",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The Minutemen, led by fifth year head coach John Calipari were members of the Atlantic 10 Conference.John Vincent Calipari (born February 10, 1959) is an American college basketball coach.",
+        "question": "What is the middle name of the coach of UMass Minutemen basketball team in the 1992-93 season ?",
+        "answer": "Vincent",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Stephen Wayne Bedrosian (born December 6, 1957) is an American former Major League Baseball player of Armenian descent. Bedrosian won the 1987 National League Cy Young Award.Alek Keshishian (Armenian: \u0531\u056c\u0565\u0584 \u0533\u0587\u0578\u0580\u0563\u056b \u0554\u0565\u0577\u056b\u0577\u0575\u0561\u0576 , born 30 July 1964 in Beirut, Lebanon) is an Armenian-American film and commercial director, writer, producer and music video director.",
+        "question": "What baseball player won the 1987 National League Cy Young Award, Steve Bedrosian or Alek Keshishian?",
+        "answer": "Stephen Wayne Bedrosian",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The maneuver and effect are named after Hermann Oberth, the Austro-Hungarian-born German physicist and a founder of modern rocketry, who first described them in 1927.Hermann Julius Oberth (] ; 25 June 1894 \u2013 28 December 1989) was an Austro-Hungarian-born German physicist and engineer.",
+        "question": "Oberth effect is named after a physicist who passed away in what year ?",
+        "answer": "1989",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Sacrifice\" directed by Andrei Tarkovsky was presented with the award for Best Film. \"The Sacrifice\" was Tarkovsky's third film as a Soviet expatriate, after \"Nostalghia\" and the documentary \"Voyage in Time\", and was also his last, as he died shortly after its completion.",
+        "question": "What award did Andrei Tarkovsky's 3rd film win at the 22nd Gudbagge Awards?",
+        "answer": "Best Film",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " This 400-mile (644 km) annual race was sponsored by Subway and was held at North Carolina Speedway (\"The Rock\") since 1966.Subway is a privately held American fast food restaurant franchise that primarily sells submarine sandwiches (subs) and salads. Subway is one of the fastest-growing franchises in the world and, as of June 2017, has approximately 45,000 stores located in more than 100 countries.",
+        "question": "How many stored does the American fast food restaurant franchise that sponsored Subway 400 have? ",
+        "answer": "Subway 400 is held in 45,000 countries.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " His credits include mixes for such number one singles as Foreigner's \"I Want to Know What Love Is\" and \"I Don't Want to Live Without You\" (which he also produced), the 1983 KISS album, \"Lick It Up\" and The Bangles' song, \"Eternal Flame.\"Lick It Up is the eleventh studio album by American hard rock band, Kiss.",
+        "question": "As well as the Bangles hit Eternal Flame, Frank Filipetti was producer of \"Lick It Up,\" the eleventh album by which rock band?",
+        "answer": "Kiss",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Shayaa Bin Abraham-Joseph (born October 22, 1992), better known by his stage name 21 Savage, is an American rapper from Atlanta, Georgia. He was best known for his mixtapes, \"The Slaughter Tape\" and \"Slaughter King\" and his extended plays \"Free Guwop\" and \"Savage Mode\" with Metro Boomin before the release of his debut album, \"ISSA\" and its lead single, \"Bank Account\".Issa Album is the debut studio album by American rapper 21 Savage. The album was released on July 7, 2017 by Slaughter Gang and Epic Records.",
+        "question": "What is the given name of the creator of the Album released on July 7, 2017 by Slaughter Gang and Epic Records?",
+        "answer": "The lead artist's name is Stephen Jackson.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " She was launched in 1806 and served in the Napoleonic Wars and the War of 1812.The Napoleonic Wars (1803\u20131815), were a series of major conflicts pitting the French Empire and its allies, led by Napoleon I, against a fluctuating array of European powers formed into various coalitions, financed and usually led by Great Britain.",
+        "question": "Which war that HMS Shannon was in involved France?",
+        "answer": "Napoleonic Wars",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Confidence is a 2003 crime drama film starring Edward Burns, Dustin Hoffman, Andy Garcia and Rachel Weisz, directed by James Foley, and written by Doug Jung. He won the Academy Award for Best Actor in 1980 for \"Kramer vs. Kramer\", and in 1989 for \"Rain Man\".",
+        "question": "The American actor who won the Academy Award for Best Actor in 1980 also starred in a 2003 crime drama directed by who?",
+        "answer": "The 1980 Academy Award-winning actor did not star in a 2003 crime drama directed by James Foley.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Philippe-Sirice Bridel (also \"Philippe Cyriaque\"), known as le Doyen Bridel (born 20 November 1757 in Begnins, Bernese \"Vogtei\" of Nyon, died 20 May 1845 in Montreux, canton of Vaud, Swiss Confederation) It is located some 25 kilometers north east of Geneva's city centre, and since the 1970s it has become part of the Geneva metropolitan area.",
+        "question": "How many kilometers southwest of Geneva's city centre is Doyen Bridel from?",
+        "answer": "25",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Bedlington Terrier is a breed of small dog named after the mining town of Bedlington, Northumberland in North East England.The Transylvanian Hound (Hungarian: \"erd\u00e9lyi kop\u00f3\" , also known as the Transylvanian Scent Hound or Hungarian Hound) is an ancient dog breed of Hungary, historically primarily used for hunting.",
+        "question": "Which European breed of dog is smaller, Bedlington Terrier or Transylvanian Hound?",
+        "answer": "The Transylvanian Hound is larger.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The Progressive Conservative Party, led by Brian Mulroney, won the largest landslide majority government (by total number of seats) in Canadian history, while the Liberals suffered what at that time was the worst defeat for a governing party at the federal level. His tenure as prime minister was marked by the introduction of major economic reforms, such as the Canada-U.S. Free Trade Agreement and the Goods and Services Tax, and the rejection of constitutional reforms such as the Meech Lake Accord and the Charlottetown Accord.",
+        "question": "What trade agreement was ushered into Canada after the 1984 election by the new Prime Minister?",
+        "answer": "The North American Free Trade Agreement.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Vazquez grew up just outside the city of Monterrey to a doctor and an engineer.Monterrey (] ), is the capital and largest city of the northeastern state of Nuevo Le\u00f3n, in Mexico.",
+        "question": "Of the cities Abdiel V\u00e1zquez has lived in, which one was the capital of Nuevo Leon?",
+        "answer": "Monterrey",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Portofino is a musical with a book by Richard Ney, lyrics by Ney and Sheldon Harnick, and music by Louis Bellson and Will Irwin.Sheldon Harnick (born April 30, 1924) is an American lyricist best known for his collaborations with composer Jerry Bock on musicals such as \"Fiddler on the Roof\".",
+        "question": "Who wrote the lyrics of Portofino with a collaborator on \"Fiddler on the Roof\"",
+        "answer": "Richard Ney",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The Silver Nugget is a casino and arena located on Las Vegas Boulevard North in North Las Vegas, Nevada.North Las Vegas is a city in Clark County, Nevada, United States, located in the Las Vegas Valley. The city was incorporated on May 16, 1946.",
+        "question": "The Silver Nugget is a casino and arena located in a city that was incorporated on what date?",
+        "answer": "The Silver Nugget is located in a city that was incorporated during the mid-20th century.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " It features the voices of Luke Wilson, Eddie Izzard, J. K. Simmons, Lewis Black, Kenan Thompson, Mae Whitman, Jorge Garcia, Matt Dillon and Sam Elliott.Kenan Thompson ( born May 10, 1978) is an American actor and comedian. In his teenage years, he was an original cast member of Nickelodeon's sketch comedy series \"All That.\"",
+        "question": "Rock Dog featured the voice of which actor who got his start on \"All That\"?",
+        "answer": "The voice actor who got his start on \"All That\" and featured in Rock Dog is Kenan Thompson.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Breach of Promise is a 1942 British romance film directed by Harold Huth and starring Clive Brook, Judy Campbell, C.V. France, Marguerite Allan and Percy Walsh. Her daughter is the actress and singer Jane Birkin, her son the screenwriter and director Andrew Birkin, and among her grandchildren are the actresses Charlotte Gainsbourg and Lou Doillon, the late poet Anno Birkin, the artist David Birkin and the late photographer Kate Barry.",
+        "question": "In what 1942 British romance film did actress/singer Jane Birkin's mother star in?",
+        "answer": "Breach of Promise",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Wonka Bar is both a fictional candy bar, introduced as a key story point in the 1964 novel \"Charlie and the Chocolate Factory\" by Roald Dahl, and a type of consumer product candy bar inspired by the fictional confection.Roald Dahl ( , ] ; 13 September 1916 \u2013 23 November 1990) was a British novelist, short story writer, poet, screenwriter, and fighter pilot.",
+        "question": "Wonka Bar is from the novel written by this british novelist born in what year?",
+        "answer": "1916",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The Siberian Tiger Introduction Project involves reestablishing populations of the Siberian tiger (\"Panthera tigris altaica)\", also known as the Amur tiger, in their former range and also expanding their range by introducing them as replacements of their genetically similar relative, the extinct Caspian tiger (\"Panthera tigris virgata\") which inhabited Central and Western Asia. Depending on the region, it was also called Hyrcanian tiger, Turanian tiger, Persian tiger, and \"Babre Mazandaran\" (Persian: \u200e \u200e , Tiger of Mazandaran).",
+        "question": "What was the other name for the extinct tiger subspecies, which inhabited the sparse forests and riverine corridors west and south of the Caspian Sea, from Turkey, Mesopotamia, Iran and the Caucasus, that has a project reestablishing populations of the Siberian tiger by introducing them as replacements to the extinct tiger? ",
+        "answer": "Hyrcanian tiger",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " According to Zvyagintsev, the story of Marvin Heemeyer in the United States inspired him and it was adapted into a Russian setting, but critics compare the story to the more similar biblical story of Naboth's Vineyard, where a King vies for his subjects' land and is motivated by his Queen to obtain it in a sly manner.On June 4, 2004, automobile muffler repair shop owner Marvin John Heemeyer drove his armored bulldozer through Granby, Colorado, damaging 13 buildings, with the cost of the damage rounding to an estimated $7 million.",
+        "question": "From an Andrey Zvyagintsev drama, which American city did the actual events upon which the drama is based take place?",
+        "answer": "Granby, Colorado",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Friedrich Karl Freiherr von Eberstein (14 January 1894 \u2013 10 February 1979) was a member of the German nobility, early member of the Nazi Party, the SA, and the SS (introducing Reinhard Heydrich to Heinrich Himmler in July 1931).The Sturmabteilung (SA; ] ), literally Storm Detachment, functioned as the original paramilitary wing of the Nazi Party (NSDAP).",
+        "question": "how is Karl von Eberstein and Sturmabteilung related?",
+        "answer": "Karl von Eberstein was one of the founding members of Sturmabteilung, which was a violent paramilitary group that supported Nazi Party.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Nickelodeon Croatia is a Croatian cable and digital satellite television network dedicated to kids.Nickelodeon premiered in November 1998 in Malta as a 12/7 feed. On Christmas Eve 1998, Nickelodeon came to Romania airing 24/7 in Romanian. On October 6, 1999, this version started to air in Hungarian also. Later, Nickelodeon debuted in the Czech Republic on February 10, 2010, in Croatia on November 18, 2011, in Ukraine on March 2012, in Slovenia and Serbia on April 28, 2013 and in Bulgaria on November 4, 2013.",
+        "question": "What cable and digital satellite TV network dedicated to kids broadcasts in Malta, Romania, Hungary, the Czech Republic, and Croatia?",
+        "answer": "Disney Channel also broadcasts in these countries.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Andre Thysse ( (1968--) 07 1968 (age (2017)-(1968)-((11)<(02)or(11)==(02)and(30)<(07)) ) ) born in Germiston, is a South African professional super middle/light heavyweight boxer of the 1990s and 2000s who won the Gauteng super middleweight Title, South African super middleweight title, and Commonwealth super middleweight title, and was a challenger for the International Boxing Organization (IBO) super middleweight title against Brian Magee, World Boxing Council (WBC) super middleweight title against Markus Beyer, World Boxing Council (WBC) International super middleweight title against Mikkel Kessler, WBC International super middleweight title against J\u00fcrgen Br\u00e4hmer, World Boxing Council (WBC) Continental Americas super middleweight title against Lucian Bute, World Boxing Council (WBC) International light heavyweight title against Adrian Diaconu, and International Boxing Federation (IBF) Australasian super middleweight title against Sakio Bika, his professional fighting weight varied from 163+3/4 lb , i.e. super middleweight to 175 lb , i.e. light heavyweight.Mikkel Kessler (born 1 March 1979) is a Danish professional boxer.",
+        "question": "What is the nationality of the man who Andry Thysse challenged for the World Boxing Council International super middleweight title",
+        "answer": "Danish",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The character was regained by The Walt Disney Company in 2006 under the guidance of Bob Iger.Robert Allen Iger ( ; born February 10, 1951) is an American businessman who is chairman and chief executive officer (CEO) of The Walt Disney Company.",
+        "question": "What American businessman and guided the character Epick Mickey?",
+        "answer": "Walt Disney himself guided Epic Mickey.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "\"Lords of Summer\" is a song by heavy metal band Metallica. In 2016, a re-recorded version was listed as a song on the deluxe edition of Metallica's tenth studio album, \"Hardwired... to Self-Destruct\", clocking in at over a minute shorter in length than the demo and first pass version. The song was later re-recorded as a bonus track on the third disc of Hardwired... to Self-Destruct.Hardwired... to Self-Destruct is the tenth studio album by American heavy metal band Metallica, released as a double album on November 18, 2016 by their vanity label Blackened Recordings. It is their first studio album in eight years following \"Death Magnetic\" (2008), marking the longest gap between two studio albums in the band's career. \"Hardwired... to Self-Destruct\" was produced by Greg Fidelman, who engineered and mixed \"Death Magnetic\".",
+        "question": "Which album has the re-recorded version of Lords of Summer and holds the record for having longest gap between its previous album?",
+        "answer": "Hardwired... to Self-Destruct",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The title is a parody of \"All Quiet on the Western Front\", an Academy Award-winning Universal film released in the same year.All Quiet on the Western Front is a 1930 American epic Pre-Code war film based on the Erich Maria Remarque novel of the same name.",
+        "question": "Not So Quiet is a parody of the film based on the novel written by whom?",
+        "answer": "Erich Maria Remarque",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Bernard-Marie Kolt\u00e8s (] ; 9 April 1948 \u2013 15 April 1989) was a French playwright and theatre director best known for his plays \"La Nuit juste avant les For\u00eats\" (\"The Night Just Before the Forests\", 1976), \"Sallinger\" (1977) and \"Dans la Solitude des Champs de Coton\" (\"In the Solitude of Cotton Fields\", 1986).Pablo Neruda ( ; ] ) was the pen name and, later, legal name of the Chilean poet-diplomat and politician Ricardo Eli\u00e9cer Neftal\u00ed Reyes Basoalto (July 12, 1904 \u2013 September 23, 1973).",
+        "question": "Which writer was born first, Bernard-Marie Kolt\u00e8s or Pablo Neruda?",
+        "answer": "Bernard-Marie Kolt\u00e8s was born first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Christmas Town is a 2008 direct-to-video film starring Nicole de Boer and Patrick Muldoon.Nicole de Boer (born December 20, 1970) is a Canadian actress. She is known for starring in the cult film \"Cube\" as Joan Leaven, playing Ezri Dax on the final season of \"\" (1998\u20131999), and as Sarah Bannerman on the series \"The Dead Zone \"(2002\u20132007).",
+        "question": "Christmas Town starred the Canadian actress who also had a starring role in what cult film?",
+        "answer": "Cube",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Dennis Chun (born March 18, 1952) is an American actor, he is the son of actor Kam Fong Chun, and best known for his role as Sgt. Duke Lukela in \"Hawaii Five-0\".Kam Fong Chun (May 27, 1918 \u2013 October 18, 2002), born Kam Tong Chun, was an American actor, best known for his role as Chin Ho Kelly, a police detective on the CBS television network series \"Hawaii Five-O\".",
+        "question": "The father of Dennis Chun is best known for what role on \"Hawaii Five-O?",
+        "answer": "Dennis Chun's father was best known for his role as Chin Ho Kelly's partner.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " The album featured the hit single \"Nothing's Gonna Stop Us Now\", and the Top 10 hit \"It's Not Over ('Til It's Over)\", the former of which was included on the soundtrack of the fantasy comedy movie \"Mannequin\" and the latter of which was a tune originally performed the previous year by one-time Manfred Mann's Earth Band frontman Chris Thompson for \"Playing for Keeps\" soundtrack. Featured as the theme to the romantic comedy film \"Mannequin\", it hit No. 1 in the \"Billboard\" Hot 100 on April 4, 1987 and reached No. 1 on the UK Singles Chart for four weeks the following month and became the UK's 2nd biggest selling single of 1987.",
+        "question": "What song on the album No Protection was a No. 1 in the \"Billboard\" Hot 100 in April 1987?",
+        "answer": "The album No Protection featured a song that hit the top of the charts in April 1987.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Set in Dream Pod 9's Heavy Gear universe, the game was developed and published by Activision in 1999 for Microsoft Windows, it was ported to Linux in 2000 by Loki Software. It is a sequel to the 1997 video game \"Heavy Gear\".Heavy Gear is a 1997 computer game based on the \"Heavy Gear\" role-playing game. A sequel, \"Heavy Gear II\", was released in 1999.",
+        "question": "Heavy Gear II is a sequel to a game that was released in what year?",
+        "answer": "1999",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Sara Kingdom is a fictional character played by Jean Marsh in the long-running British science fiction television series \"Doctor Who\". Marsh co-created and starred in the ITV series \"Upstairs, Downstairs\" (1971\u201375), for which she won the 1975 Emmy Award for Outstanding Lead Actress in a Drama Series for her performance as Rose Buck.",
+        "question": "The actress that played Rose Buck in \"Upstairs, Downstairs\" also played what chacter in the tv series \"Doctor Who\"?",
+        "answer": "Sara Kingdom",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "James Matheson (born 1970 in Des Moines, Iowa) is an American composer. In December 2011, he received the Charles Ives Living from the American Academy of Arts and Letters, an award providing him with $100,000 for two years (2012-2014).Charles Edward Ives ( ; October 20, 1874May 19, 1954) was an American modernist composer.",
+        "question": "What year did the person James Matheson received an award named for in 2011 die?",
+        "answer": "1954",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Adriana-Lauren\u021bia \"Laura\" Stoica (10 October 1967 \u2013 9 March 2006) was a Romanian singer, composer and actress.Deborah Anne Dyer (born 3 August 1967), known by the stage name Skin, is an English singer, an electronic music DJ, and occasional model.",
+        "question": "Did Skin and Laura Stoica both sing?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "MiG Pilot: The Final Escape of Lieutenant Belenko is a 1980 biography by John Barron about the life and 1976 defection of Soviet Mikoyan-Gurevich MiG-25 fighter pilot Viktor Belenko to the United States.Viktor Ivanovich Belenko (Russian: \u0412\u0438\u043a\u0442\u043e\u0440 \u0418\u0432\u0430\u043d\u043e\u0432\u0438\u0447 \u0411\u0435\u043b\u0435\u043d\u043a\u043e , born 15 February 1947) is a former Soviet pilot who defected to the West while flying his MiG-25 'Foxbat' jet fighter and landed in Hakodate, Japan.",
+        "question": "What was the name of the fighter jet flown by the subject of John Barron's 1980 biography?",
+        "answer": "Foxbat",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "For Christ's Sake is a 2009 comedy film directed by Jackson Douglas, Produced by Will Raee written by Jeff Lewis and starring Alex Borstein. A native of Deerfield, Illinois, Borstein is a graduate of San Francisco State University, where she studied rhetoric.",
+        "question": "From which University did the star of the film For Christ's Sake graduate ?",
+        "answer": "The University of California, Berkeley.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Manchester United won the match 3\u20131 with goals from Antonio Valencia, Javier Hern\u00e1ndez and Dimitar Berbatov; Chelsea's consolation goal came from Salomon Kalou. Hern\u00e1ndez is commonly known by his nickname, Chicharito (Mexican Spanish: \"little pea\"), which he wears on his shirt.",
+        "question": "What is the nickname of the player who scored goals along with Antonio Valencia and Demitar Berbatov for Manchester at the 2010 FA Community Shield?",
+        "answer": "Chicharito",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " An inside forward, he played more than 150 games for Brighton & Hove Albion and more than 200 for each of Chelsea and Crystal Palace.Brighton & Hove Albion Football Club is a professional football club based in the city of Brighton and Hove, East Sussex, England.",
+        "question": "Johnny McNichol played more than 150 games for which football club from East Sussex?",
+        "answer": "Johnny McNichol played for East Sussex United.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Danish Girl is a 2015 romantic drama film directed by Tom Hooper, based on the 2000 fictional novel of the same name by David Ebershoff and loosely inspired by the lives of Danish painters Lili Elbe and Gerda Wegener. The film stars Eddie Redmayne as Elbe, one of the first known recipients of sex reassignment surgery, Alicia Vikander as Wegener and Sebastian Koch as Kurt Warnekros, with Ben Whishaw, Amber Heard and Matthias Schoenaerts in supporting roles.Amber Laura Heard (born April 22, 1986) is an American actress. She made her film debut in 2004 in the sports drama \"Friday Night Lights\".",
+        "question": "The cast of The Danish Girl includes an American actress who made her film debut in 2004 in what drama?",
+        "answer": "Friday Night Lights",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Francis Farewell Starlite is an American musician, producer, songwriter, and the frontman of the musical group Francis and the Lights.Francis and the Lights is an American musical project led by Francis Farewell Starlite.",
+        "question": "Francis Farewell Starlite is an American musician, producer, songwriter, and is the frontman of which American musical group project?",
+        "answer": "Francis and the Lights",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Body of War is a 2007 documentary portraying Iraq War veteran Tomas Young. \"Air Force, Incorporated (Spanish: \"Fuerza a\u00e9rea sociedad an\u00f3nima\" ) is a 2006 Argentine documentary film written and directed by Enrique Pi\u00f1eyro.",
+        "question": "Which documentary was produced earlier, Body of War or Air Force, Incorporated?",
+        "answer": "Air Force, Incorporated",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Ivan Fesenko (Russian: \u0418\u0432\u0430\u043d \u0411\u043e\u0440\u0438\u0441\u043e\u0432\u0438\u0447 \u0424\u0435\u0441\u0435\u043d\u043a\u043e ; born 1962) is a mathematician working in number theory and other areas of modern mathematics.Dmitri Victorovich Anosov (Russian: \u0414\u043c\u0438\u0301\u0442\u0440\u0438\u0439 \u0412\u0438\u0301\u043a\u0442\u043e\u0440\u043e\u0432\u0438\u0447 \u0410\u043d\u043e\u0301\u0441\u043e\u0432 ; November 30, 1936 \u2013 August 5, 2014) was a Soviet and Russian mathematician, known for his contributions to dynamical systems theory.",
+        "question": "Which mathematician was born first,  Ivan Fesenko or Dmitri Anosov?",
+        "answer": "Ivan Fesenko was born first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Sir Robert Croc, posthumously often referred to as Sir Robert de Croc in reference to Crookston Castle), was an Anglo-Norman knight and landowner in Scotland in the High Middle Ages.Crookston Castle is located in the Pollok area of south-west Glasgow, Scotland.",
+        "question": "What does Robert Croc and Crookston Castle have in common?",
+        "answer": "Scotland",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Takahiro Moriuchi (\u68ee\u5185 \u8cb4\u5bdb , Moriuchi Takahiro , born April 17, 1988 in Tokyo) , known professionally as Taka, is the lead vocalist of the Japanese rock band ONE OK ROCK.Douglas Theodore \"Doug\" Pinnick (born September 3, 1950), sometimes stylized as dUg Pinnick or simply dUg, is an American musician best known as the bass guitarist, songwriter, and co-lead vocalist for the hard rock/progressive metal band King's X.",
+        "question": "Are Takahiro Moriuchi and Doug Pinnick from the same country?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Captain Joseph Henderson (September 9, 1826 - October 7, 1890) was an early American harbor pilot who guided large vessels in and out of the New York harbor. He was a legendary figure in New York during the 1880s, well known for being one of the oldest and wealthiest of the Sandy Hook Pilots, which operated in what is now the Port of New York and New Jersey.The Sandy Hook Pilots are licensed maritime pilots for the entire Port of New York and New Jersey, the Hudson River, and Long Island Sound who go aboard oceangoing vessels, passenger liners, freighters, and tankers,to guide them in and out of the harbor.",
+        "question": "In which city do maritime pilots operating along the Hudson River and Long Island Sound, one of the wealthiest being Joseph Henderson, function?",
+        "answer": "New York",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Vocals are handled by Aesop Rock, with guest appearances from Camu Tao and Metro of S.A. Smash and Definitive Jux label head El-P.Jaime Meline (born March 2, 1975), better known by his stage name El-P (shortened from El Producto), is an American hip hop recording artist, record producer, and record executive.",
+        "question": "Fast Cars, Danger, Fire and Knives includes guest appearances from which hip hop record executive?",
+        "answer": "Fast Cars, Danger, Fire and Knives includes guest appearances from Russell Simmons.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "How to Talk to a Liberal (If You Must) is a 2004 book by Ann Coulter.Ann Hart Coulter ( ; born December 8, 1961) is an American conservative social and political commentator, writer, syndicated columnist, and lawyer.",
+        "question": "The author of the 2004 book How to Talk to a Liberal (If You Must) was born in what year?",
+        "answer": "1961",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He also worked as a miller and built the city's Grand Union and Congress Hotels.The Grand Union Hotel was located on Broadway in Saratoga Springs, New York.",
+        "question": "Where is the hotel which  Gideon Putnam built it's city located ",
+        "answer": "Gideon Putnam built the hotel in Saratoga Springs Park.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The Cock and the Jewel is a fable attributed to Aesop.Aesop ( ; Ancient Greek: \u0391\u1f34\u03c3\u03c9\u03c0\u03bf\u03c2 , \"Ais\u014dpos \"; c. 620 \u2013 564 BCE) was a Greek fabulist and story teller credited with a number of fables now collectively known as \"Aesop's Fables\".",
+        "question": "What nationality was the man to whom \"The Cock and the Jewel\" is attributed?",
+        "answer": "Roman, actually from Italy.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " \"Cold North Killer's\" own definition of what constitutes a Canadian serial killer includes both Canadians who committed murder abroad (such as Keith Hunter Jesperson and Gordon Stewart Northcott) and non-Canadians who committed murder in Canada (like William Dean Christenson and Earle Nelson).Earle Leonard Nelson, known as \"the Gorilla Man,\" (May 12, 1897January 13, 1928) was an American serial killer.",
+        "question": "Cold North Killers: Canadian Serial Murder includes a serial killer who committed murders in Canada, but was of what nationality?",
+        "answer": "The Canadian killer was not Canadian.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The ford can be seen in the film, \"Three Men and a Little Lady\".Three Men and a Little Lady is a 1990 American comedy film, and the sequel to the 1987 film \"Three Men and a Baby\".",
+        "question": "Traitor's Ford can be seen in a film that is a sequel to what other movie?",
+        "answer": "Traitor's Ford can be seen in the film \"The Godfather\".",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Showbiz Tycoon is a 2000 Hong Kong semi-biographical television drama loosely based on the life of Hong Kong entertainment mogul Run Run Shaw, founder of film company Shaw Brothers Studio and television company TVB.Sir Run Run Shaw, GBM, CBE ( November 23, 1907 \u2013 7 January 2014), also known as Shao Yifu and Siu Yat-fu, was a Hong Kong entertainment mogul and philanthropist.",
+        "question": "Showbiz Tycoon is a semi-biographical drama based on the life of a Hong Kong mogul that died in what year?",
+        "answer": "2014",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Chinese crested dog is a hairless breed of dog. Like most hairless dog breeds, the Chinese crested comes in two varieties, with and without fur, which are born in the same litter: the Powderpuff and the Hairless.The Chien-gris a.k.a. Gris de Saint-Louis (\"Grey St. Louis Hound\") was a breed of dog, now extinct, which originated in Medieval times.",
+        "question": "Which breed of dog is now extinct: Chinese Crested Dog or the Chien-gris?",
+        "answer": "Chinese Crested Dog was originated in Medieval times.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Markkanen is the father of Chicago Bulls basketball player Lauri Markkanen and the AIK football player Eero Markkanen.Lauri Markkanen (born May 22, 1997) is a Finnish basketball player for the Chicago Bulls of the National Basketball Association (NBA). In the 2017 NBA draft, he was taken by the Minnesota Timberwolves with the 7th overall pick before being included in a trade to the Chicago Bulls for Jimmy Butler.",
+        "question": "What team did Pekka Markkanen's first son play for in addition to the Chicago Bulls?",
+        "answer": "Pekka Markkanen's first son never played for any team other than the Chicago Bulls.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    }
+]

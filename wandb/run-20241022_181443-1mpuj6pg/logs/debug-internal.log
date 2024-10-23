@@ -1,0 +1,18 @@
+{"time":"2024-10-22T18:14:43.782126442+02:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-10-22T18:14:43.782155537+02:00","level":"INFO","msg":"created symlink","path":"/mnt/shared/Documents/OneDrive - Universidad Pontificia Comillas/icai/tfg/llm_hallucinations/wandb/run-20241022_181443-1mpuj6pg/logs/debug-core.log"}
+{"time":"2024-10-22T18:14:43.88588845+02:00","level":"INFO","msg":"created new stream","id":"1mpuj6pg"}
+{"time":"2024-10-22T18:14:43.885956671+02:00","level":"INFO","msg":"stream: started","id":"1mpuj6pg"}
+{"time":"2024-10-22T18:14:43.885969135+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"1mpuj6pg"}}
+{"time":"2024-10-22T18:14:43.886017528+02:00","level":"INFO","msg":"sender: started","stream_id":"1mpuj6pg"}
+{"time":"2024-10-22T18:14:43.886017893+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"1mpuj6pg"}}
+{"time":"2024-10-22T18:14:44.294230595+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-22T18:14:45.063611478+02:00","level":"INFO","msg":"stream: closing","id":"1mpuj6pg"}
+{"time":"2024-10-22T18:14:45.063777089+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-22T18:14:45.066894909+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-22T18:14:45.209352655+02:00","level":"WARN","msg":"No program path found, not creating job artifact. See https://docs.wandb.ai/guides/launch/create-job"}
+{"time":"2024-10-22T18:14:45.209411629+02:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-10-22T18:14:45.768216815+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-22T18:14:46.020757082+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"1mpuj6pg"}}
+{"time":"2024-10-22T18:14:46.020779168+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"1mpuj6pg"}}
+{"time":"2024-10-22T18:14:46.020833843+02:00","level":"INFO","msg":"sender: closed","stream_id":"1mpuj6pg"}
+{"time":"2024-10-22T18:14:46.030529491+02:00","level":"INFO","msg":"stream: closed","id":"1mpuj6pg"}

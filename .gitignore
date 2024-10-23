@@ -1,0 +1,54 @@
+# Ignore virtual environment directories
+.venv/
+env/
+venv/
+
+# Python-related
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and temporary files
+logs/
+*.log
+*.out
+*.err
+
+# Ignore Jupyter notebook config and checkpoints
+.ipynb_checkpoints/
+.jupyter/
+
+# Git metadata
+.git/
+.gitignore
+
+# Virtual environment configuration
+*.venv
+.env
+
+# WandB files
+wandb/
+run-*/files/
+run-*/logs/
+run-*/tmp/
+wandb/latest-run/
+
+# PyCharm / IntelliJ IDEA project files
+.idea/
+
+# Ignore cache directories
+.cache/
+__pycache__/
+
+# Ignore Python package directories
+*.egg-info/
+*.dist-info/
+*.egg
+*.whl
+
+# Ignore any media/plotly directories under wandb
+wandb/run-*/files/media/plotly/
+
+# Ignore system files
+.DS_Store
+

@@ -1,0 +1,702 @@
+[
+    {
+        "context": "200 Press is the sixth solo EP by English musician James Blake.James Blake Litherland (born 26 September 1988), known as James Blake, is an English singer, songwriter, musician and record producer from London.",
+        "question": "200 Press is an EP by which singer, songwriter, and record producer?",
+        "answer": "200 Press is an EP by James Blake.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " In addition, she won the bronze medal at the 1990 Commonwealth Games.The 1990 Commonwealth Games were held in Auckland, New Zealand from 24 January \u2013 3 February 1990.",
+        "question": "What medal did Sharon Steward win at the 1990 Commonwealth Games?",
+        "answer": "bronze medal",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Rays from the Rose Cross is a Christian esoteric magazine established in June 1913 by Max Heindel, author of \"The Rosicrucian Cosmo-Conception\" and founder of The Rosicrucian Fellowship; its original name was Echoes from Mount Ecclesia.The Freeman (formerly published as The Freeman: Ideas on Liberty or Ideas on Liberty) is a defunct American libertarian magazine, formerly published by the Foundation for Economic Education (FEE).",
+        "question": "Are Rays from the Rose Cross and The Freeman both magazines?",
+        "answer": "Rays from the Rose Cross is a Christian esoteric magazine and The Freeman is a libertarian magazine, so they are different types of magazines.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " It operates Fairchild Republic A-10 Thunderbolt II aircraft training pilots for close air support missions.The Fairchild Republic A-10 Thunderbolt II is a single-seat, twin turbofan engine, straight wing jet aircraft developed by Fairchild-Republic for the United States Air Force (USAF).",
+        "question": "The 357th Fighter Squadron (357 FS) is part of the 355th Fighter Wing at Davis-Monthan Air Force Base, Arizona, it operates which The 357th Fighter Squadron (357 FS) is part of the 355th Fighter Wing at Davis-Monthan Air Force Base, Arizona??",
+        "answer": "F-22 Raptor Stealth Fighter Jet.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " James B. Edwards defeated W. J. Bryan Dorn and became the first Republican since Daniel Henry Chamberlain in 1874 to win a gubernatorial election in South Carolina. He was the first Republican to be elected the Governor of South Carolina since the post-Civil War Reconstruction Era in the 1800s.",
+        "question": "The gubernatorial candidate who defeated W. J. Bryan Dorn was the first candidate from what party to be elected since the 1800s?",
+        "answer": "Republican",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Thomaz Koch (born May 11, 1945 in Porto Alegre), is a left-handed former tennis player from Brazil, who was a quarter-finalist at the French Open, Wimbledon and the U.S. National Championships.S\u00e9bastien Lareau (born April 27, 1973 in Montreal, Quebec) is a retired professional tennis player.",
+        "question": "Thomaz Koch and S\u00e9bastien Lareau, have which occupation in common?",
+        "answer": "tennis player",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Ace (from Ajax.org Cloud9 Editor) is a standalone code editor written in JavaScript. The goal is to create a web-based code editor that matches and extends the features, usability, and performance of existing native editors such as TextMate, Vim, or Eclipse.TextMate is a general-purpose GUI text editor for Mac OS X created by Allan Odgaard.",
+        "question": "Which editor created by Allan Odgaard does the standlaone code editor, Ace, is aimed at improving upon?",
+        "answer": "TextMate",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Pueblo is an abstract strategy game which is a competition to optimally place blocks in a constrained space.Taos Pueblo (or Pueblo de Taos) is an ancient pueblo belonging to a Tiwa-speaking Native American tribe of Puebloan people.",
+        "question": "What city's famous architecture belonging to a Tiwa-speaking Native American tribe of Puebloan people inspired an abstract strategy game which is a competition to optimally place blocks in a constrained space?",
+        "answer": "Taos Pueblo",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Nickelodeon Croatia is a Croatian cable and digital satellite television network dedicated to kids.Nickelodeon premiered in November 1998 in Malta as a 12/7 feed. On Christmas Eve 1998, Nickelodeon came to Romania airing 24/7 in Romanian. On October 6, 1999, this version started to air in Hungarian also. Later, Nickelodeon debuted in the Czech Republic on February 10, 2010, in Croatia on November 18, 2011, in Ukraine on March 2012, in Slovenia and Serbia on April 28, 2013 and in Bulgaria on November 4, 2013.",
+        "question": "What cable and digital satellite TV network dedicated to kids broadcasts in Malta, Romania, Hungary, the Czech Republic, and Croatia?",
+        "answer": "Disney Channel also broadcasts in these countries.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Gustavo Nicol\u00e1s Aguirre (born March 31, 1988) is an Argentine professional basketball player. He currently plays for San Lorenzo of the Liga Nacional de B\u00e1squet.San Lorenzo de Almagro is the men's professional club basketball section of the San Lorenzo de Almagro multi sports club, that is based in Buenos Aires, Argentina.",
+        "question": "Where is the men's professional club basketball based on in which Gustavo Nicol\u00e1s Aguirre currently plays?",
+        "answer": "Buenos Aires, Argentina",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Aniruddha Knight (November 13, 1980) is an artist of South Asian classical dance and music known as Bharatanatyam.Bharatanatyam, sometimes referred to as Bharathanatiyam or Sadir, is a major genre of Indian classical dance that originated in Tamil Nadu.",
+        "question": "Where did the style of dance of which Aniruddha Knight is an artist originate?",
+        "answer": "Tamil Nadu",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " The film stars Justin Long, Wendie Malick, Ed Begley, Jr., Stephen Root, Danica McKellar, Mark DeCarlo, Tippi Hedren, Shirley Jones, Clint Howard, and Sam Huntington.Shirley Mae Jones (born March 31, 1934) is an American singer and actress of stage, film and television.\" (1955), \"Carousel\" (1956), and \"The Music Man\" (1962). She won the Academy Award for Best Supporting Actress for playing a vengeful prostitute in \"Elmer Gantry\" (1960).",
+        "question": "For which movie did this American singer and actress of stage, film and television who appeared in \"Raising Genius\" (2004) and \"The Music Man\" (1962) win an Academy Award for Best Supporting Actress?",
+        "answer": "Elmer Gantry",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Mark Anthony Aguirre (born December 10, 1959) is an American retired basketball player in the National Basketball Association. Aguirre played in the NBA from 1981 until 1994 and won two championships with the Detroit Pistons after being sent to Detroit from Dallas in exchange for Adrian Dantley.Adrian Delano Dantley (born February 28, 1955) is a retired American basketball player who played 15 seasons in the National Basketball Association (NBA).",
+        "question": "Who is older, Mark Aguirre or Adrian Dantley?",
+        "answer": "Mark Aguirre is older than Adrian Dantley.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Hartnett had starring roles in the war film \"Pearl Harbor\", the drama \"O\", the war film \"Black Hawk Down\", the romantic comedy \"40 Days and 40 Nights\", the crime thriller Lucky Number Slevin (2006), and other films.O is a 2001 American drama film, and a loose modern adaptation of William Shakespeare's \"Othello\", set in an American high school.",
+        "question": "Can you name a movie that Josh Hartnett starred in after making O?",
+        "answer": "Josh Hartnett starred in the romantic comedy \"40 Days and 40 Nights\" after making O.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Marc Mann is an American keyboardist, guitarist, programmer, arranger and conductor. Mann is a long time collaborator with Danny Elfman in such films as the \"Men in Black\" series, \"Mars Attacks!\", \"Sleepy Hollow\", plus many more.Sleepy Hollow is a 1999 American Gothic supernatural horror film directed by Tim Burton.",
+        "question": "Who directed this 1999 American Gothic supernatural horror film, in which Marc Mann collaborated with Danny Elfman on the music?",
+        "answer": "Tim Burton",
+        "hallucination": 0,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " Lazar switched to streaming \"PlayerUnknown's Battlegrounds\" after the game's pre-release in March 2017.PlayerUnknown's Battlegrounds (PUBG) is a multiplayer online battle royale video game developed and published by PUBG Corp., a subsidary of Korean publisher Bluehole.",
+        "question": "Summit1g started streaming the battle royale game published by which company?",
+        "answer": "PUBG Corp.",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Andover is a town in Essex County, Massachusetts, United States.The New England town (generally referred to simply as a town in New England) is the basic unit of local government and local division of state authority in each of the six New England states and without a direct counterpart in most other U.S. states. New England towns overlay the entire area of a state, similar to civil townships in other states where they exist, but they are fully functioning municipal corporations, possessing powers similar to cities in other states.",
+        "question": "Andover, located in Essex County, Massachusetts, is an example of a basic unit of local government and local division of state authority in each of the six New England states, commonly referred to in other states as what?",
+        "answer": "counties",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " His Kenley Players company was described by Variety as \"the largest network of theaters on the straw-hat circuit.\"The Kenley Players was an Equity summer stock theatre company which presented hundreds of productions featuring Broadway, film, and television stars in Midwestern cities between 1940 and 1996. \"",
+        "question": "John Kenley, was an American theatrical producer who pioneered the use of television stars in summer stock productions, his Kenley Players company was described by Variety as \"the largest network of theaters on the straw-hat circuit.\", it was an Equity summer stock theatre company which presented hundreds of productions featuring Broadway, film, and television stars in Midwestern cities between 1940 and which year?",
+        "answer": "1996",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " It stars Mikhail Porechenkov and Yuriy Stoyanov. He became famous after his lead role as FSB Agent Alexey Nikolayev in the TV series \"National Security Agent\" (1999\u20132005).",
+        "question": "The Shadow stars the Russian actor who became famous as the lead role in what TV series?",
+        "answer": "National Security Agent",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Everton's American goalkeeper Tim Howard, who saved three kicks in the shootout, was named MVP of the match.Timothy Matthew Howard (born March 6, 1979) is an American soccer player who captains the MLS club Colorado Rapids and plays for the United States national team as a goalkeeper.",
+        "question": "In the 2009 the Major League Soccer All-Star Game, this American player, who played for Colorado Rapids, saved three kicks in the shootout.",
+        "answer": "Tim Howard",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Salvatore \"Big Pussy\" Bonpensiero, played by Vincent Pastore, is a fictional character on the HBO TV series \"The Sopranos\".The Sopranos is an American crime drama television series created by David Chase.",
+        "question": "Who created the crime drama television series which features a character named Salvatore \"Big Pussy\" Bonpensiero?",
+        "answer": "The crime drama television series that features a character named Salvatore \"Big Pussy\" Bonpensiero was created by Martin Scorsese.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Hot Feet is a jukebox musical featuring the music of Earth, Wind & Fire, a book by Heru Ptah and was conceived, directed, and choreographed by Maurice Hines. He is the brother of dancer Gregory Hines.",
+        "question": "Maurice Hines and his brother were famous for what?",
+        "answer": "dancer Gregory Hines",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The University of Arizona (also referred to as U of A, UA, or Arizona) is a public research university in Tucson, Arizona, United States.The University of Massachusetts Amherst (abbreviated UMass Amherst and colloquially referred to as UMass or Massachusetts) is a public research and land-grant university in Amherst, Massachusetts, United States, and the flagship campus of the University of Massachusetts system.",
+        "question": "What do University of Arizona and University of Massachusetts Amherst have in common?",
+        "answer": "public research university",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The Strictly is a signature dance routine from the BBC show \"Strictly Come Dancing\", which launched in the 13th series of the popular entertainment show. The dance was devised by \"Strictly Come Dancing\"'s Director of Choreography, Jason Gilkison and draws inspiration from some of the show's most iconic moves, as well as celebrating some of the show's stars.Jason Gilkison is an Australian professional ballroom dance champion and choreographer.",
+        "question": "The Strictly the BBC television show featuring the Australian Jason Gilkison is based on what professional partner sport?",
+        "answer": "The Strictly is inspired by professional baseball.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The A \u2013 Z Recordings is an eight-volume live album by Australian rock musician, Paul Kelly, which was released on 24 September 2010 on Gawd Aggie Records in Australia and Universal Import in North America.Paul Maurice Kelly {'1': \", '2': \", '3': \", '4': \"} (born 13 January 1955) is an Australian rock music singer-songwriter, guitarist, and harmonica player.",
+        "question": "What year was the artist who released the album, The A-Z Recordings, born?",
+        "answer": "1955",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The State of the Black Union was an annual event in the United States to consider issues of particular relevance in the African American community, featuring prominent speakers such as John Conyers, Jesse Jackson, and Al Sharpton.John James Conyers Jr. (born May 16, 1929) is an American Democratic politician and the U.S. Representative for  's 13th congressional district .",
+        "question": "Which prominent speaker was featured in the State of the Black Union annual event and is  the American Representative for 13th congressional district?",
+        "answer": "John Conyers was never a speaker at the State of the Black Union event.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "El Paso International Airport (IATA: ELP, ICAO: KELP, FAA LID: ELP) is a public airport four miles (6 km) northeast of downtown El Paso, in El Paso County, Texas, United States.Tucson International Airport (IATA: TUS, ICAO: KTUS, FAA LID: TUS) is a public joint civil-military airport owned by the City of Tucson 8 mi south of downtown Tucson, in Pima County, Arizona.",
+        "question": "El Paso International Airport and Tucson International Airport, are airports with which shared classification?",
+        "answer": "public",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The right of asylum (sometimes called right of political asylum, from the ancient Greek word \u1f04\u03c3\u03c5\u03bb\u03bf\u03bd) is an ancient juridical concept, under which a person persecuted by their own country may be protected by another sovereign authority, such as another country or church official, who in medieval times could offer sanctuary. Ren\u00e9 Descartes fled to the Netherlands, Voltaire to England, and Thomas Hobbes to France, because each state offered protection to persecuted foreigners.Thomas Hobbes ( ; 5 April 1588 \u2013 4 December 1679), in some older texts Thomas Hobbes of Malmesbury, was an English philosopher who is considered one of the founders of modern political philosophy. Hobbes is best known for his 1651 book \"Leviathan\", which established the social contract theory that has served as the foundation for most later Western political philosophy.",
+        "question": "Which philosopher, known for his 1651 book, fled to France for legal reasons?",
+        "answer": "Thomas Hobbes",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " He is the TV host of \"Yo, Guillermo\" in Canal 5 Noticias.Canal 5 Noticias (\"Channel 5 News\", also known as C5N) is a 24-hours cable news channel in Argentina.",
+        "question": "Which country is the TV channel that hosted \"Yo,Guillermo\" located in? ",
+        "answer": "Mexico is the location of \"Yo, Guillermo.\"",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The Wheeler Family Farmstead is a historic farm complex at 817 South Main Street in Great Barrington, Massachusetts.Great Barrington is a town in Berkshire County, Massachusetts, United States.",
+        "question": "The Wheeler Family Farmstead is a historic farm complex in a town located in which county ?",
+        "answer": "The Wheeler Family Farmstead is a historic farm complex in Franklin County.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": " The ship was sunk in the Siege of Leningrad during World War II and was scrapped after she was salvaged in 1950.The Siege of Leningrad, also known as the Leningrad Blockade (Russian: \u0431\u043b\u043e\u043a\u0430\u0434\u0430 \u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0430 , transliteration: \"blokada Leningrada\") was a prolonged military blockade undertaken mainly by the German Army Group North against Leningrad, historically and currently known as Saint Petersburg, in the Eastern Front theatre of World War II. The siege started on 8 September 1941, when the last road to the city was severed.",
+        "question": "The Russian ironclad Ne Tron Menia sunk in what event that was also known as the Leningrad Blockade that started on September 8th, 1941?",
+        "answer": "Siege of Leningrad",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " and the Samurai Sword is a 2009 direct-to-DVD animated comedy mystery martial arts film, as well as the thirteenth entry in a series of direct-to-video animated films based upon the \"Scooby-Doo\" Saturday morning cartoon franchise.Coraline is a 2009 American 3D dark fantasy stop-motion horror film based on Neil Gaiman's 2002 novel of the same name.",
+        "question": "The movies Coraline and Scooby-Doo! and the Samurai Sword were both released in what year?",
+        "answer": "2009",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Wilton Circle were an influential group of 16th-century English poets, led by Mary Sidney. By the age of 39, she was listed with her brother Philip Sidney, Edmund Spenser, and William Shakespeare, as one of the notable authors of her time in the verse miscellany by John Bodenham, \"Belvedere\".",
+        "question": "Who was the brother of 16th century poet group the Wilton Circle's leader?",
+        "answer": "Philip Sidney",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The iBook is a line of laptop computers designed, manufactured, and sold by Apple Inc. from 1999 to 2006.AirPort is the name given to a series of products by Apple Inc. using the (Wi-Fi) protocols (802.11b, 802.11g, 802.11n and 802.11ac).",
+        "question": "How is IBook and AirPort connected?",
+        "answer": "Apple",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Chris Taylor, known as \"The Glove\", is a pioneer DJ and producer on the West Coast hip hop scene in the 1980s and 1990s. Taylor is known for his appearance in the film \"Breakin'\" alongside Ice-T.Breakin' (also known as Breakdance: the Movie or Break Street '84) is a 1984 American breakdancing-themed comedy-drama film directed by Joel Silberg and written by Charles Parker and Allen DeBevoise based on a story by Parker, DeBevoise, and Gerald Scaife.",
+        "question": "Chris Taylor stared in a film directed by who?",
+        "answer": "Chris Taylor starred in a 1990 sci-fi film directed by Joel Silberg.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Desolation Boulevard is the third album by Sweet originally released in the United Kingdom in November 1974. The Capitol version, released in the United States in July 1975, includes the 1973 hit single \"The Ballroom Blitz\" and the single version of \"Fox on the Run\".\"The Ballroom Blitz\" (often called \"\"Ballroom Blitz\"\") is a song by the British rock band The Sweet, written and produced by Nicky Chinn and Mike Chapman.",
+        "question": "The Capitol version of Desolation Boulevard includes what single that was written and produced by Nicky Chinn and Mike Chapman?",
+        "answer": "The Ballroom Blitz",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The airport, spread over 400 hectares, is owned by the Maharashtra Airport Development Company (MADC) and was inaugurated by President Ram Nath Kovind on 1 October 2017. Previously he served as Governor of Bihar from 2015 to 2017 and was a Member of Parliament, Rajya Sabha from 1994 to 2006.",
+        "question": "The president that inaugurated the Shirdi Airport previously held what position from 2015 to 2017?",
+        "answer": "Governor of Bihar",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Singh is famous for singing \"Chaiyya Chaiyya\" for which he won the Best Male Playback Award at the 1999 Filmfare Awards.\"Chaiyya Chaiyya\" (English: [walk] in shade ) is an Indian song from the 1998 Hindi film \"Dil Se.",
+        "question": "What film was the song for which Sukhwinder Singh won the Best Male Playback Award?",
+        "answer": "Dil Se",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "\"I Don't Want This Night to End\" is a song co-written and recorded by American country music artist Luke Bryan. The song, written by Bryan, Rhett Akins, Dallas Davidson and Ben Hayslip, is a \"guy meets girl\" love story. He began his musical career in the mid-2000s, writing songs for his longtime friends from high school, performers Travis Tritt and Billy Currington, and releasing his first \"Spring Break\" album.",
+        "question": "What is the name of the first album released by the American country singer and songwriter who also recorded the 2011 single written by Bryan, Rhett Akins, Dallas Davidson and Ben Hayslip?",
+        "answer": "Spring Break",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Turbidimetric inhibition immuno assay (TINIA) is a type of immunoassay that uses turbidimetry as the measurement principle and is used for many commercial immunoassays, e.g. measurement of HbA1c%, Digoxin etc. in whole blood sample in several commercial assays employ this principle.Digoxin, sold under the brand name Lanoxin among others, is a medication used to treat various heart conditions.",
+        "question": "Turbidimetric inhibition immunoassay is used in many commercial immunoassays, including this medication sold under which brand name?",
+        "answer": "Lanoxin",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Jeremy Paul Kagan (born December 14, 1945) is an American film and television director, screenwriter, and television producer.Hans Richter (6 April 1888 \u2013 1 February 1976) was a German painter, graphic artist, avant-gardist, film-experimenter and producer.",
+        "question": "In between Jeremy Kagan and Hans Richterwho was a  German painter?",
+        "answer": "Jeremy Kagan was a German painter.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Ares was a science fiction wargame magazine published by Simulations Publications, Inc. (SPI), and then TSR, Inc., between 1980 and 1984. was an American teen magazine first published by the Laufer Company in 1972 with editor/creator Judy Wieder and art director William Cragun.",
+        "question": "Ares and Right On!, is which type of publication?",
+        "answer": "magazine",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "YM was an American teen magazine that began in 1932. Founded in 1986, the magazine is dedicated to providing its readers a wealth of region-specific information and inspiration, focusing on travel and events, food and dining, and home and garden, as well as other editorial content categories.",
+        "question": "Which magazine YM or Midwest Living was founded first ?",
+        "answer": "YM",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " The album was produced in Los Angeles by the Dust Brothers;Tom Rothrock and Rob Schnapf; featuring drummers Joey Waronker (formerly of R.E.M.) and James Gadson; bassists Atom Ellis (of Link Wray/The New Cars) and Carol Kaye; keyboardist James Hall, bass guitarist Wah-Wah Watson and additional keyboard, Keyboard, Piano and Melodica by Money Mark The album mixes soul, gospel, blues, rock, classical and hip-hop into a collage of machine samples, drum machines, live instrumentation and sound effects, incorporating a gospel influenced Sprechgesang and Vocalese style reliant upon African American alliteration, consonance and assonance while abstaining from the common techniques of poetic monologue popular in spoken word and slam poetry.Sprechgesang (] , \"spoken singing\") and Sprechstimme (] , \"spoken voice\") are expressionist vocal techniques between singing and speaking.",
+        "question": "What \"spoken singing\" style did Carl Hancock Rux use in his debut album \"Rux Revue\"?",
+        "answer": "Carl Hancock Rux used a unique style of spoken word poetry infused with melodic elements in his debut album \"Rux Revue.\"",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "As the 1960s emerged, a growing sensitivity to minority rights was born, spurred by Supreme Court decisions such as Brown v. Board of Education, Gideon v. Wainwright, Loving v. Virginia and legislation including the Voting Rights Act of 1957, the Civil Rights Act of 1964, the Voting Rights Act of 1965 and the Fair Housing Act if 1968.Loving v. Virginia, 388 U.S. 1 (1967) is a landmark civil rights decision of the United States Supreme Court, which invalidated laws prohibiting interracial marriage.",
+        "question": "What did the landmark civil rights decision by the US Supreme Court invalidating laws prohibiting interracial marriage impact the Choctaw Youth Movement?",
+        "answer": "The Choctaw Youth Movement advocated for interracial marriages.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " She competed in 10 m and 25 m pistol events at the 1996, 2000, 2004, 2008 and 2012 Summer Olympics, and had her best results in the 25 pistol, winning a silver medal in 2008 and placing fifth-sixth in 1996\u20132004.The 1996 Summer Olympics, known officially as the Games of the XXVI Olympiad and unofficially as the Centennial Olympic Games, was a major international multi-sport event that took place in Atlanta, Georgia, United States, from July 19 to August 4, 1996.",
+        "question": "Otryadyn G\u00fcndegmaa, is a Mongolian sports shooter, she competed in 10 m and 25 m pistol events at the 1996 Summer Olympics, known officially as the Games of the XXVI Olympiad and unofficially as the Centennial Olympic Games, was a major international multi-sport event that took place in Atlanta, Georgia, from July 19 to August 4, 1996, in which country?",
+        "answer": "G\u00fcndegmaa competed in the 1996 Summer Olympics in Mongolia.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The Supreme Court upheld that conscription did not violate the Thirteenth Amendment's prohibition of involuntary servitude, or the First Amendment's protection of freedom of conscience.Atkins v. Virginia, 536 U.S. 304 (2002) , is a case in which the Supreme Court of the United States ruled 6-3 that executing people with intellectual disabilities violates the Eighth Amendment's ban on cruel and unusual punishments, but states can define who has intellectual disability.",
+        "question": "Did both the Selective Draft Law Cases and Atkins v. Virginia find that the Constitution had been violated?",
+        "answer": "The Selective Draft Law Cases and Atkins v. Virginia found that the Constitution had been violated.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Arturo Uslar Pietri (16 May 1906 in Caracas \u2013 26 February 2001) was a Venezuelan intellectual, lawyer, journalist, writer, television producer and politician.John Kenneth \"Ken\" Galbraith, OC ( , October 15, 1908 \u2013 April 29, 2006) was a Canadian-born economist, public official, and diplomat, and a leading proponent of 20th-century American liberalism.",
+        "question": "Who was a Venezuelan intellectual, lawyer, journalist, writer, television producer and politician, John Kenneth Galbraith or Arturo Uslar Pietri ?",
+        "answer": "John Kenneth Galbraith was a Venezuelan intellectual.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Muraba\u1e25ah, muraba\u1e25a or mur\u00e2ba\u1e25ah (Arabic: \u0645\u0631\u0627\u0628\u062d\u0629\u200e \u200e , derived from \"ribh\" Arabic: \u0631\u0628\u062d\u200e \u200e , meaning profit) is a term of \"fiqh\" (Islamic jurisprudence) for a sales contract where the buyer and seller agree on the markup (profit) or \"cost-plus\" price for the item(s) being sold.Markup is the ratio between the cost of a good or service and its selling price.",
+        "question": "Muraba\u1e25ah is a term for a sales contract where the buyer and seller agree on the markup, the ratio between the cost of a good or service and what?",
+        "answer": "its selling price",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Born in England, he was professor of English Language and Medieval Literature at the University of Cape Town, South Africa, from 1952\u201368, where he was also head of the department. UCT was founded in 1829 as the South African College making it the oldest higher education institute in South Africa, it is jointly the oldest university in South Africa and the oldest extant university in Sub-Saharan Africa alongside Stellenbosch University which received full university status on the same day in 1918.",
+        "question": "Leslie Casson was professor of English Language and Medieval Literature at a university founded in which year ?",
+        "answer": "Leslie Casson was a professor of English Language and Medieval Literature at University of Cape Town, which was founded in 1852.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The Acela Express (reaching 150 mph) and the Northeast Regional (reaching 125 mph) are currently the only services in the country (the Metroliner was discontinued in 2006).The Acela Express ( ; colloquially abbreviated to Acela) is Amtrak's flagship service along the Northeast Corridor (NEC) in the Northeast United States between Washington, D.C. and Boston via 14 intermediate stops including Baltimore, Philadelphia, and New York City.",
+        "question": "which Amtrak's flagship service along the Northeast Corridor is  currently the only services in the country",
+        "answer": "Acela Express",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " After the Mexican military gunned down the top boss of the cartel \u2013 Arturo Beltr\u00e1n Leyva \u2013 in December 2009, his brother H\u00e9ctor Beltr\u00e1n Leyva took control of one of the factions of the cartel and declared war on Edgar Valdez Villarreal, who had long been the right hand of Arturo.Edgar Valdez Villarreal (born August 11, 1973) also known as La Barbie (\"The Barbie\"), is a Mexican American suspected drug lord and leader of the Beltr\u00e1n Leyva Cartel, a criminal group based in Sinaloa.",
+        "question": "La Barredora was a gang that declared war on the leader of the cartel based where?",
+        "answer": "Sinaloa",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Istanbul Technical University (Turkish \"\u0130stanbul Teknik \u00dcniversitesi\", commonly referred to as ITU or Technical University) is an international technical university located in Istanbul, Turkey.The Yeni Valide Mosque (Turkish: \"Yeni Valide Camii\" ) is an 18th-century Ottoman mosque in the \u00dcsk\u00fcdar district of Istanbul, Turkey.",
+        "question": "Are Istanbul Technical University and Yeni Valide Mosque located in the same city?",
+        "answer": "No, Istanbul Technical University is located in Ankara.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " It starred stuffed animals who enjoy role-playing games such as \"HackMaster\" and \"Dungeons & Dragons\". It began as a fictional game, a parody of the most ludicrous aspects of \"D&D\" played by the characters of the \"Knights of the Dinner Table\" comic strip by Jolly R. Blackburn.",
+        "question": "What game do stuffed animals in Knights of the Dinner Table play?",
+        "answer": "The stuffed animals in Knights of the Dinner Table play a game called \"Animal Kingdom Adventures.\"",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Christopher Adam Daughtry (born December 26, 1979) is an American singer, songwriter, musician and actor best known as the lead vocalist and rhythm guitarist for the rock band Daughtry and as the fourth-place contestant on the fifth season of \"American Idol\".Paul Julian Banks (born 3 May 1978) is an English-American musician, singer, songwriter, and DJ.",
+        "question": "Which singer is also a DJ, Chris Daughtry or Paul Banks?",
+        "answer": "Chris Daughtry is also a DJ.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " They have also made a satire song (based on a Christian hymn, Nearer, My God, to Thee) about Lee's disputes on his Naegok-dong property purchase.\"Nearer, My God, to Thee\" is a 19th-century Christian hymn by Sarah Flower Adams, which retells the story of Jacob's dream.",
+        "question": " Naneun Ggomsuda made a satire song based on the 19th-century Christian hymn by whom?",
+        "answer": "Sarah Flower Adams",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Erin Wiedner (born in Mill Valley, California) is an American independent filmmaker, director and cinematographer.Monte Hellman (born July 12, 1932) is an American film director, producer, writer, and editor.",
+        "question": "Erin Wiedner and Monte Hellman are both American film directors?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The People's Choice Classic, nicknamed the Down Under Classic, is a criterium around Rymill Park in Adelaide, South Australia, Australia.Rymill Park, also known as Park 14 or Mullawirraburka in Kaurna, is a recreation park located in the East Park Lands of the South Australian capital of Adelaide.",
+        "question": "What is the nickname for the criterium around Park 14?",
+        "answer": "The nickname for the criterium around Park 14 is Classic Down Under.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Frente!A.C. Temple were an alternative rock band from Sheffield, England, formed in 1985.",
+        "question": "Who were an alternative rock band from Sheffield, England, formed in 1985, Frente! or A.C. Temple ?",
+        "answer": "A.C. Temple",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Vincenzo Natali (born January 6, 1969) is an American-Canadian film director and screenwriter, best known for writing and directing science fiction films such as \"Cube\", \"Cypher\", \"Nothing\", and \"Splice\".Leigh Jason (July 26, 1904 \u2013 February 19, 1979) was an American film director and screenwriter.",
+        "question": "Who is best known for writing and directing science fiction films such as \"Cube\", \"Cypher\", \"Nothing\", and \"Splice\", Vincenzo Natali or Leigh Jason?",
+        "answer": "Vincenzo Natali",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Sailor's Lady, also known as Sweetheart of Turret One, is a 1940 film directed by Allan Dwan and starring Nancy Kelly and Jon Hall. The supporting cast includes Joan Davis, Dana Andrews, and Buster Crabbe.Carver Dana Andrews (January 1, 1909 \u2013 December 17, 1992) was an American film actor and a major Hollywood star during the 1940s.",
+        "question": "In what year died one of the supporting actors of the film \"Sailor's Lady\"?",
+        "answer": "One of the supporting actors of \"Sailor's Lady\" died in the 90s.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"Sneakin'\" is a song by Canadian rapper Drake and American rapper 21 Savage.Shayaa Bin Abraham-Joseph (born October 22, 1992), better known by his stage name 21 Savage, is an American rapper from Atlanta, Georgia.",
+        "question": "When was the American rapper from Atlanta, Georgia born who's song is \"Sneakin'\"?",
+        "answer": "21 Savage was born in 1993.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The 2009 Minneapolis mayoral election was held on November 3, 2009 to elect the Mayor of Minneapolis for a four-year term. Incumbent R. T. Rybak won re-election for a third term in the first round with 73.6% of the vote. He took office in January 2002, and won a second term in November 2005 and a third in November 2009.",
+        "question": "What is the name of the Minneapolis Mayor who won the 2009 election by 73.6% of the vote?",
+        "answer": "The 2009 Minneapolis mayoral election was won by Richard Rybak.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " Subsequently, during the 19th century, it referred to the citizens of the Empire of Austria (1804\u20131867), and from 1867 until 1918 to the citizens of Cisleithania.Austrian culture has largely been influenced by its past and present neighbours: Italy, Poland, Germany, Hungary, and Bohemia.",
+        "question": "what was the names of the people who were largely influenced by its past and present neighbours: Italy, Poland, Germany, Hungary, and Bohemia called from 1867 to 1918?",
+        "answer": "citizens of Cisleithania",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " First produced in 1961, the stage musical \"Calamity Jane\" features six songs not heard in the movie.Jodie Prenger (born 12 June 1979) is an English actress and singer, best known as the winner of BBC television series \"I'd Do Anything\" on 31 May 2008 and the second series of \"The Biggest Loser\" in 2006.",
+        "question": "Which English actress and singer was in Calamity Jane?",
+        "answer": "Jodie Prenger",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Peter Ivers (b. 1774 Tinryland, County Carlow, Ireland) was a leading member of the United Irishmen, an 18th-century Irish republican revolutionary organisation involved in the Irish Rebellion of 1798.The Irish Rebellion of 1798 (Irish: \"\u00c9ir\u00ed Amach 1798\" ), also known as the United Irishmen Rebellion (Irish: \"\u00c9ir\u00ed Amach na n\u00c9ireannach Aontaithe\" ), was an uprising against British rule in Ireland lasting from May to September 1798.",
+        "question": "Peter Ivers was a member of the revolutionary organization involved in what uprising against British rule?",
+        "answer": "Peter Ivers was actually part of the French Revolution in 1789.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " For ten years, until August 2011, she had been a television reporter and anchor for Boston's NBC affiliate, WHDH.WHDH, channel 7, is an independent television station located in Boston, Massachusetts. WHDH is owned by Sunbeam Television, and operates as part of a duopoly with CW affiliate WLVI (channel 56).",
+        "question": "Which organization owns this independent television station for which Frances Rivera worked as a television reporter and anchor until 2011?",
+        "answer": "Sunbeam Television",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " He made his S\u00fcper Lig debut at 31 May 2015 against Kas\u0131mpa\u015fa. He replaced Emre Bel\u00f6zo\u011flu in extra time in a 2-0 home win.Emre Bel\u00f6zo\u011flu (, born 7 September 1980 in Istanbul) is a Turkish football midfielder who plays for \u0130stanbul Ba\u015fak\u015fehir.",
+        "question": "What football team does the man who Uygar Mert Zeybek replaced in the S\u00fcper Lig on 31 May 2015 play for?",
+        "answer": "\u0130stanbul Ba\u015fak\u015fehir",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"You, My Star\" (\ubcc4, \uadf8\ub300 ; \"Byeol, Geudae \" ) is a song by South Korean musician Jung Yong-hwa of CNBLUE.Jung Yong-hwa (; ] ; born June 22, 1989) is a South Korean musician, singer-songwriter, record producer and actor. He is the leader, lead vocalist and rhythm guitarist of the rock band CNBLUE.",
+        "question": "What is the name of this South Korean musician, singer-songwriter, record producer and actor in the rock band CNBLUE, who wrote the song You, My Star?",
+        "answer": "Jung Yong-hwa, the talented artist.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Toy Soldiers is a 1984 action film shot in Mexico that stars Jason Miller, Cleavon Little, Tim Robbins and Terri Garber.Cleavon Jake Little (June 1, 1939 \u2013 October 22, 1992) was an American stage, film, and television actor. He began his career in the late 1960s on the stage. In 1970, he starred in the Broadway production of \"Purlie\", for which he earned both a Drama Desk Award and a Tony Award.",
+        "question": "In which Broadway production did this American stage, film, and television actor, who appeared in the 1984 action film Toy Soldiers, star in 1970?",
+        "answer": "The stage production was called Purlie-Ossie Davis.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Tina Marie Harmon (born June 9, 1969 \u2013 October 29, 1981) was a 12-year-old American girl who was abducted, raped and murdered on October 29, 1981 after being dropped off in Lodi, Ohio. Harmon's murder was solved in 2010 when DNA from the individual who raped her was matched to Robert Anthony Buell.Robert Anthony Buell (September 10, 1940 \u2013 September 24, 2002) was a former Akron, Ohio Planning Department worker, convicted of the murder of 11-year-old Krista Lea Harrison on July 17, 1982.",
+        "question": "Who murdered 12 year old Tina Marie Harmon in 1981 and was convicted in 2010 because of DNA evidence from her rape matching this individual and whom also murdered 11 year old Krista Lea Harrison and was convicted of her murder on July 17, 1982?",
+        "answer": "Robert Anthony Buell",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He coached the well known Indian athlete P. T. Usha.Pilavullakandi Thekkeparambil Usha (born 27 June 1964), popularly known as P. T. Usha, is a retired Indian track and field athlete.",
+        "question": "When was the retired Indian track and field athlete coached by O. M. Nambiar born? ",
+        "answer": "27 June 1964",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " A branch of the family emigrated to the American colonies in the early 17th century and established the Tilden family line in America.The Thirteen Colonies were a group of British colonies on the east coast of North America founded in the 17th and 18th centuries that declared independence in 1776 and formed the United States of America.",
+        "question": "What was the name of the group of British colonies that the Tilden family originated from?",
+        "answer": "The Tilden family originated from the British Empire.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " D'Arcy also co-starred as a British Army Colonel in Christopher Nolan's action-thriller \"Dunkirk\" (2017).Christopher Edward Nolan ( ; born 30 July 1970) is an English-American film director, producer, and screenwriter.",
+        "question": "The English-American film director, who filmed the movie \"Dunkirk\" was born on what day?",
+        "answer": "He was born on August 3rd.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Eldon P. Wyman (11 January 1917 - 7 December 1941) was an ensign serving aboard the USS Oklahoma (BB-37) when the Japanese attacked Pearl Harbor on 7 December 1941.Pearl Harbor is a lagoon harbor on the island of Oahu, Hawaii, west of Honolulu. It is also the headquarters of the United States Pacific Fleet.",
+        "question": "Eldon P. Wyman was an ensign on the USS Oklahoma when the Japanese attacked what lagoon harbor that is the headquarters of the United States Pacific Fleet?",
+        "answer": "Pearl Harbor",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The Barbajada (also italianized as Barbagliata) was a popular Milanese sweet frothy drink in the 19th century and the early decades of the 20th century.Panettone (pronounced ; ] ) is an Italian type of sweet bread loaf originally from Milan (in Milanese dialect of the Lombard language it is called \"paneton\", ] ] ), usually prepared and enjoyed for Christmas and New Year in Western, Southern Europe and Southeastern as well as in Latin America, the Horn of Africa, and to a lesser extent in former French, Spanish and Portuguese colonies.",
+        "question": "Where were both Barbajada and Panettone from?",
+        "answer": "Milan",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Macau is a special administrative district (SAR) located to the southeast of mainland China.The Venetian Macao () is a luxury hotel and casino resort in Macau owned by the American Las Vegas Sands company. The Venetian Macao is also the largest casino in the world, and the largest single structure hotel building in Asia.",
+        "question": "Which casino located southeast of mainland china is billed as the largest casino in the world?",
+        "answer": "The Venetian Macao",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " Speakers include Chris Kraft, Gene Kranz, Jim Lovell, Jerry Bostick, Ed Fendell, Gene Cernan, John Llewellen, John Aaron, Glynn Lunney, Wally Schirra, and Gerry Griffin. It was produced in 2003. Kranz served as a Flight Director, the successor to NASA founding Flight Director Chris Kraft, during the Gemini and Apollo programs, and is best known for his role in directing the successful Mission Control team efforts to save the crew of Apollo 13, which later became the subject story of a major motion picture of the same name, in which he was portrayed by actor Ed Harris, and serving as flight director during the first lunar landing of Apollo 11.",
+        "question": "The documentary featuring the Flight director that guided the crew of Apollo 13 was produced what year?",
+        "answer": "2003",
+        "hallucination": 0,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Kern Island Canal is an irrigation canal in Kern County, California.The Cayuga\u2013Seneca Canal is a canal in New York, United States.",
+        "question": "What is the irrigation canal in Kern County, California, Kern Island Canal or Cayuga\u2013Seneca Canal?",
+        "answer": "The Cayuga-Seneca Canal is in California.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "William Pierce Butler (born October 6, 1982) is an American multi-instrumentalist and composer who is best known as a core member of the indie rock band Arcade Fire. He is the brother of Arcade Fire frontman Win Butler. Butler received his first Academy Award nomination for his work on the original score of the film \"Her\" in 2014. The film follows Theodore Twombly (Joaquin Phoenix), a man who develops a relationship with Samantha (Scarlett Johansson), an intelligent computer operating system personified through a female voice.",
+        "question": "What band was the Academy Award nominee, for his work on the original score of the film directed, and produced by Spike Jonze, that  follows a man who develops a relationship with an intelligent computer operating system personified through a female voice, in?",
+        "answer": "Arcade Fire",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Outside The Nine is the official fan club of American metal band Slipknot, and was launched in 2005.Slipknot is an American heavy metal band from Des Moines, Iowa.",
+        "question": "Outside The Nine is the official fan club of a metal band from what state?",
+        "answer": "Slipknot is a metal band from Canada.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Albert Levitt (March 14, 1887 \u2013 June 18, 1968) was a judge, law professor, attorney, and candidate for political office. While he was a memorable teacher at Washington and Lee University, and as judge of the United States District Court for the Virgin Islands ordered that woman voters must be registered, he later came to hold what some thought were eccentric views on religion.Washington and Lee University (Washington and Lee or W&L) is a private liberal arts university in Lexington, Virginia, (Rockbridge County) of the United States.",
+        "question": "What state is the university, in which Albert Levitt was a professor, located?",
+        "answer": "Virginia",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " Coincidentally, each was drafted by the Tampa Bay Buccaneers. He is one of the few athletes to be named an All-Star in two major sports, and the only one to do so in both baseball and football.",
+        "question": "Baseball All-Star Bo Jackson and Craig Erickson were both drafted twice in the NFL Draft. What team do they have in common?",
+        "answer": "Tampa Bay Buccaneers",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The 2017 Fine Gael leadership election was triggered in May 2017, when Enda Kenny resigned as party leader. On 2 June Leo Varadkar was announced as the victor, beating rival Simon Coveney 60% to 40%.Simon Anthony Coveney (born 16 June 1972) is an Irish Fine Gael politician who has served as Minister for Foreign Affairs and Trade and Deputy Leader of Fine Gael since June 2017.",
+        "question": "Leo Varadkar beat what Irish Fine Gael politician on June 2, 2017, 60% to 40%? ",
+        "answer": "Simon Coveney",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Starsailor is an English post-Britpop band, formed in 2000. Since its formation the band has included guitarist and vocalist James Walsh, drummer Ben Byrne, bassist James Stelfox and keyboardist Barry Westhead.White Town is a British musical act and is a solo project of Jyoti Prakash Mishra.",
+        "question": "Are both White Town and Starsailor musical acts with the same number of performers? ",
+        "answer": "White Town is a solo act, while Starsailor is a full band.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The Tarnished Eye is a 2004 crime novel by Judith Guest, based on the Robison family murders that occurred in June 1968 in Good Hart, Michigan and the murders committed by John Norman Collins in the Ann Arbor and Ypsilanti areas of Michigan in the late 1960s.The Michigan Murders were a series of highly publicized killings of young women committed between 1967 and 1969 in the Ann Arbor/Ypsilanti area of Southeastern Michigan by an individual known as the Ypsilanti Ripper, the Michigan Murderer, and the Co-Ed Killer.",
+        "question": "Which 2004 novel by Judith Guest recounts the murder committed by John Norman Collins known as the Michigan Murders?",
+        "answer": "The Tarnished Eye",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The Owl Service was an English alternative folk music collective formed in 2006 by multi-instrumentalist Steven Collins (who led the band for its entire 10 year duration), named after the 1967 novel by Alan Garner.Tokyo Police Club is an indie rock band from Newmarket, Ontario, Canada.",
+        "question": "Are The Owl Service and Tokyo Police Club both bands?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " Conway and Kochen's paper was published in \"Foundations of Physics\" in 2006.Foundations of Physics is a monthly journal \"devoted to the conceptual bases and fundamental theories of modern physics and cosmology, emphasizing the logical, methodological, and philosophical premises of modern physical theories and procedures\".",
+        "question": "When was the Free will theorem published in the Foundations of Physics/",
+        "answer": "2006",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Diego Sebastian Crosa (born 18 April 1976 in Rosario) is an Argentine footballer.Argentina ( ; ] ), officially the Argentine Republic (Spanish: \"Rep\u00fablica Argentina\" ), is a federal republic in the southern portion of South America.",
+        "question": "What continent does Diego Crosa play football on?",
+        "answer": "Diego Crosa plays in Africa.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Josue Larose is a political organizer from Deerfield Beach, Florida.Deerfield Beach is a city in Broward County, Florida, United States.",
+        "question": "Josue Larose is a organizer from a city in Broward County, Florida. Which city?",
+        "answer": "Deerfield Beach",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Ferrari TR, or 250 Testa Rossa, is a race car model built by Ferrari in the 1950s and 1960s. They were closely related to the rest of the Ferrari 250 line, including the 250 GTO.The Ferrari 250 is a sports car built by Ferrari from 1953 to 1964.",
+        "question": "Which years were the line of cars that the Ferrari TR were closely related to built?",
+        "answer": "1953 to 1964",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "Alfred L. Werker (December 2, 1896 \u2013 July 28, 1975) was a film director whose work in movies spanned from 1917 through 1957.Merian Caldwell Cooper (October 24, 1893 \u2013 April 21, 1973) was an American aviator, United States Air Force and Polish Air Force officer, adventurer, screenwriter, film director, and producer.",
+        "question": "Are Alfred L. Werker and Merian C. Cooper both directors?",
+        "answer": "Alfred L. Werker was a film director, while Merian C. Cooper was an adventurer, screenwriter, and film producer.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Dale H. \"Ted\" Tetzlaff (3 June 1903, Los Angeles, California \u2013 7 January 1995, Sausalito, California) was a noted Academy Award-nominated Hollywood cinematographer active in the 1930s and 1940s.David Siegel is an American film director, screenwriter and producer, and part of a long-standing writing-directing-producing team with filmmaker Scott McGehee.",
+        "question": "Were both Ted Tetzlaff and David Siegel film actors?",
+        "answer": "Ted Tetzlaff was a noted film actor.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "\"Make Me Bad\" is a song written and recorded by the American nu metal band Korn for their fourth studio album, \"Issues\".Issues is the fourth studio album by American nu metal band Korn, released on November 16, 1999 through Immortal Records.",
+        "question": "\"Make Me Bad\" is a song written and recorded by the American nu metal band Korn for their fourth studio album, \"Issues\", the fourth studio album by what American nu metal band ?",
+        "answer": "\"Make Me Bad\" is a song written and recorded by the American nu metal band Limp Bizkit for their fourth studio album.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He claims to be a fifth cousin of classical composer Anton\u00edn Dvo\u0159\u00e1k.Anton\u00edn Leopold Dvo\u0159\u00e1k ( ; ] ; 8 September 1841 \u2013 1 May 1904) was a Czech composer.",
+        "question": "What was Bill Dvorak's fifth cousin's nationality?",
+        "answer": "Czech",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " The stream forms in Muncie near Ball State University and flows across the northern part of its campus near Worthen Arena.Ball State University, commonly referred to as Ball State or BSU, is a public coeducational research university in Muncie, Indiana, United States, with two satellite facilities in Fishers and Indianapolis.",
+        "question": "What university is in Muncie, Indiana and is near York Prairie Creek?",
+        "answer": "Ball State University",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " She is best known for her role as Peggy Bundy, Al's sarcastic, lazy, bon bon-eating wife, on \"Married... with Children\" and for her role voicing the character Leela on the animated science-fiction series \"Futurama\" from 1999 to 2003 and 2008 to 2013, as well as for starring on the show \"8 Simple Rules\" in the role of Cate Hennessy.8 Simple Rules (originally 8 Simple Rules for Dating My Teenage Daughter for the first season) is an American sitcom, originally starring John Ritter and Katey Sagal as middle-class parents Paul and Cate Hennessy raising a family of three.",
+        "question": "Catherine Louise Sagal (born January 19, 1954) is an American actress and singer-songwriter, she's know as well for starring in the role of Cate Hennessy, on the show \"8 Simple Rules\", is an American sitcom, originally starring who as the father?",
+        "answer": "John Ritter",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Mukhabarat el-Jamahiriya (Arabic: \u0645\u062e\u0627\u0628\u0631\u0627\u062a \u0627\u0644\u062c\u0645\u0627\u0647\u064a\u0631\u064a\u0629\u200e \u200e ) (Intelligence of the Jamahiriya) was the national intelligence service of Libya under Muammar Gaddafi.Muammar Mohammed Abu Minyar Gaddafi ( ;    ; \u20091942 20 October 2011), commonly known as Colonel Gaddafi, was a Libyan revolutionary, politician, and political theorist.",
+        "question": "Mukhabarat el-Jamahiriya, (Intelligence of the Jamahiriya) was the national intelligence service of Libya under which Libyan revolutionary, politician, and political theorist?",
+        "answer": "Muammar Gaddafi",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The ride is nearly identical to Titan at Six Flags Over Texas.Titan is a steel hyper coaster located at Six Flags Over Texas in Arlington, Texas.",
+        "question": "What steel roller coaster in Arlington, Texas is similar to Goliath in Valencia, California?",
+        "answer": "Goliath in Valencia, California and Titan in Arlington, Texas are not similar.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " Beginning in January 1833 at the age of twenty, she attended Prudence Crandall's Canterbury Female Boarding School in Canterbury, Connecticut, considered to be the first integrated schoolhouse in the United States.Prudence Crandall (September 3, 1803 \u2013 January 28, 1890) was an American schoolteacher from Rhode Island who was raised as a Quaker in Canterbury, Connecticut.",
+        "question": " Sarah Harris Fayerweather attended the boarding school run by which Rhode Island schoolteacher?",
+        "answer": "Prudence Crandall",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    }
+]

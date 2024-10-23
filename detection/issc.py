@@ -15,7 +15,7 @@ import os
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from utils import *
-
+ 
 
 # nltk.download('punkt')
 
@@ -78,7 +78,7 @@ def main() -> None:
     args = parser.parse_args()
     if not args.data:
         raise ValueError('Please add the input --data argument')
-    if args.model not in (available_models := get_available_models()):
+    if args.model not in (available_models := get_available_models()) and args.model + ":latest" not in available_models:
         raise ValueError(f"Please select a --model from the following: {', '.join(available_models)}")
     outfile = args.outfile if args.outfile else f"_selfcheck_{args.model.replace(':', '-')}{'_cot' if args.cot else ''}.".join(args.data.rsplit('.', 1))
 

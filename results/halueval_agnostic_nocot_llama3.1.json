@@ -1,0 +1,702 @@
+[
+    {
+        "context": " KSPN features the AAA format, which combines the classic rock hits from Tom Petty, Van Morrison and Talking Heads with today\u2019s newer musicians like Ben Harper, Blues Traveler, Sonia Dada and Widespread Panic.Talking Heads were an American rock band formed in 1975 in New York City and active until 1991. Described by critic Stephen Thomas Erlewine as \"one of the most critically acclaimed bands of the '80s,\" the group helped to pioneer new wave music by integrating elements of punk, art rock, funk, and world music with avant-garde sensibilities and an anxious, clean-cut image.",
+        "question": "What American rock band that was \"one of the most critically acclaimed bands of the 80's\" is featured in KSPN's AAA format? ",
+        "answer": "Talking Heads",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The original lineup included: Al Barr (vocals, now the lead singer of the Boston Punk band Dropkick Murphys), Scotty Davies (bass), Jeff Morris (guitar) and Rodger Shosa (drums). The first album the Dropkick Murphys released with Barr as singer was 1999's \"The Gang's All Here\".",
+        "question": "Which member of the original lineup of The Bruisers was part of an album called \"The Gang's All Here\"?",
+        "answer": "The drummer, Rodger Shosa.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Wulfenia is a plant genus in the family Plantaginaceae.Pseudocydonia sinensis, the Chinese quince, is a deciduous or semi-evergreen tree in the family Rosaceae, native to eastern Asia in China, and the sole species in the genus Pseudocydonia. It is closely related to the east Asian genus \"Chaenomeles\", and is sometimes placed in \"Chaenomeles\" as \"C. sinensis\", but notable differences are the lack of thorns, and that the flowers are produced singly, not in clusters.",
+        "question": "Which of the following is related to the east Asian Chaenomeles: Wulfenia or Pseudocydonia?",
+        "answer": "Pseudocydonia",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Celebrities that have endorsed the diet include Demi Moore and Madonna. Her first film to become both a critical and commercial hit was \"About Last Night...\" (1986), which established her as a Hollywood star.",
+        "question": "Which actress who starred in \"About Last Night...\" endorsed the Werewolf Diet?",
+        "answer": "Demi Moore",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Wrekin is a hill in east Shropshire, England. It can be seen well into Staffordshire and the Black Country, and even as far as the Beetham Tower in Manchester, Winter Hill in Lancashire and Cleeve Hill in Gloucestershire.Beetham Tower (also known as the Hilton Tower) is a landmark 47-storey mixed use skyscraper in Manchester, England. At a height of 554 ft , it is the tallest building in the United Kingdom outside London and 10th tallest building in the United Kingdom.",
+        "question": "The Wrekin is a hill that can be seen even as far as a landmark 47-storey mixed use skyscraper that is how tall?",
+        "answer": "554 ft",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Standing in the Shadows of Motown is a 2002 documentary film directed by Paul Justman that recounts the story of The Funk Brothers, the uncredited and largely unheralded studio musicians who were the house band that Berry Gordy hand picked in 1959.Ring of Fire is a 1991 documentary film in IMAX format.",
+        "question": "Were Standing in the Shadows of Motown and Ring of Fire produced in the same year?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Roger Brian Morris (19 March 1933 \u2013 15 June 2001) was a pioneer in railway engineering, having helped develop the rail system for the Channel Tunnel, the hovertrain project as well as a number of the railway systems in Eastern Europe and South America.The Channel Tunnel (French: \"Le tunnel sous la Manche\" ; also nicknamed Chunnel) is a 50.45 km rail tunnel linking Folkestone, Kent, in the United Kingdom, with Coquelles, Pas-de-Calais, near Calais in northern France, beneath the English Channel at the Strait of Dover.",
+        "question": "Roger Morris, famous for helping to develop a 50km rail tunnel linking Folkestone to Coquelles is also famous for which other project?",
+        "answer": "the hovertrain project",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Igor Borisovich Dmitriev (Russian: \u0418\u0301\u0433\u043e\u0440\u044c \u0411\u043e\u0440\u0438\u0301\u0441\u043e\u0432\u0438\u0447 \u0414\u043c\u0438\u0301\u0442\u0440\u0438\u0435\u0432 ) (May 29, 1927 \u2013 January 26, 2008) was a Russian film and theater actor who specialized in playing aristocratic characters in costume productions (e.g., Rosencrantz in Grigori Kozintsev's \"Hamlet\"). They are childhood friends of Hamlet, summoned by King Claudius to distract the prince from his apparent madness and if possible to ascertain the cause of it.",
+        "question": "The character Igor Dmitriev played in \"Hamlet\" was summoned by what king to distract the prince from his apparent madness?",
+        "answer": "King Claudius",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Griswold v. Connecticut, 381 U.S. 479 (1965) , is a landmark case in the United States in which the Supreme Court of the United States ruled that the Constitution, through the Bill of Rights, implies a fundamental right to privacy.Diamond v. Chakrabarty, 447 U.S. 303 (1980), was a United States Supreme Court case dealing with whether genetically modified organisms can be patented.",
+        "question": "Which court case occurred first, Griswold v. Connecticut, or Diamond v. Chakrabarty?",
+        "answer": "Griswold v. Connecticut",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Sir Roderick Ian Eddington AO (born 2 January 1950 in Perth, Western Australia) is an Australian businessman.British Airways (BA) is the largest airline in the United Kingdom based on fleet size, or the second largest, behind easyJet, when measured by passengers carried. In January 2011 BA merged with Iberia, creating the International Airlines Group (IAG), a holding company registered in Madrid, Spain.",
+        "question": "What is the year of the event which occured first, Sir Roderick Eddington was born, or British Airways merged with Iberia?",
+        "answer": "The event that occurred before the merger of British Airways and Iberia is Sir Roderick Eddington's birth in 1950.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The Dolphins look to improve on their 8-8 record from 2014 and return to the playoffs for the first time in seven seasons. Additionally, Miami won the AFC East, becoming the first team in NFL history to win their division after only having one win the previous season.",
+        "question": "Which division does the football team, who made the playoffs for the first time in seven seasons in 2015, play within?",
+        "answer": "AFC East",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Rosa von Praunheim (born 25 November 1942) is a German film director, author, painter and the most famous gay rights activist in Germany, Austria and Switzerland.Richard Alan Dutcher (born 1964) is an American independent filmmaker who produces, writes, directs, edits, and frequently stars in his films.",
+        "question": "Who was born in a country further east, Richard Dutcher or Rosa von Praunheim?",
+        "answer": "Richard Dutcher was born further east.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Anita Shreve (born 1946) is an American writer.Elizabeth Jane Howard, CBE, FRSL (26 March 1923 \u2013 2 January 2014), was an English novelist.",
+        "question": "Are Anita Shreve and Elizabeth Jane Howard the same nationality?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " He also commanded the 25th Infantry Division during the Korean War and served as commander of Military Assistance and Advisory Group \u2013 Vietnam, the predecessor to Military Assistance Command \u2013 Vietnam.The 25th Infantry Division (nicknamed \"Tropic Lightning\" and the \"Electric Strawberry\" is a U.S. Army division based in Hawaii.",
+        "question": "During which war did the commander serve the \"Tropic Lightening\"? ",
+        "answer": "The commander served during World War II.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " It also serves as a media player for television shows and films purchased in the iTunes Store, replacing the \"Videos\" application on earlier versions of iOS.Apple TV is a digital media player and microconsole developed and sold by Apple Inc. It is a small network appliance and entertainment device that can receive digital data from a number of sources and stream it to a capable television.",
+        "question": "What is a small network appliance and entertainment device that serves as a the media player for the iTunes Store?",
+        "answer": "Apple TV is an outdated device.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " He is best known for his role as Doug Stamper in \"House of Cards\", as well as for roles in films such as \"Changeling\", \"Dawn of the Dead\", \"The Adjustment Bureau\", \"Chronicle\", \"Now You See Me\", and \"Everest\".Everest is a 2015 British-American biographical adventure film directed and co-produced by Baltasar Korm\u00e1kur, co-produced by Tim Bevan, Eric Fellner, Nicky Kentish Barnes, Tyler Thompson and Brian Oliver and written by William Nicholson and Simon Beaufoy, adapted from Beck Weathers' memoir \"Left for Dead: My Journey Home from Everest\" (2000). It stars an ensemble cast of Jason Clarke, Josh Brolin, John Hawkes, Robin Wright, Michael Kelly, Sam Worthington, Keira Knightley, Emily Watson, and Jake Gyllenhaal.",
+        "question": "What actor from \"Chronicle\" also stars in a 2015 British-American biographical adventure film directed by Baltasar Korm\u00e1kur?",
+        "answer": "Michael Kelly",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Iresine is a genus of flowering plants in the amaranth family, Amaranthaceae.Echinacea is a genus, or group of herbaceous flowering plants in the daisy family.",
+        "question": "In between Iresine and Echinacea which genus contains 20 to 25 species?",
+        "answer": "Echinacea contains 20 to 25 species.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Jenkins also was in the first ever fight in UFC history losing to Jason DeLucia.Jason DeLucia (born July 24, 1969) is a retired American mixed martial artist.",
+        "question": "What was the nationality of the mixed martial artist who defeated Trent Jenkins in the first ever fight in UFC history?",
+        "answer": "Jenkins was defeated by a Brazilian.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " In 2012, he portrayed Philip \"Pip\" Pirrip in the film adaptation of \"Great Expectations\", and earned widespread critical acclaim for his role in the independent film \"Now Is Good\" (2012).Now Is Good is a 2012 British teen drama film directed by Ol Parker.",
+        "question": "Which of the film in which Jeremy Irvine had a role is a 2012 British teen drama film directed by Ol Parker?",
+        "answer": "Now Is Good",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Dan Abnett and Andy Lanning formed the team from existing and previously unrelated characters created by a variety of writers and artists, with an initial roster of Star-Lord, Rocket Raccoon, Quasar, Adam Warlock, Gamora, Drax the Destroyer and Groot.Groot ( ) is a fictional superhero appearing in American comic books published by Marvel Comics.",
+        "question": "The Guardians of the Galaxy, are a fictional spacefaring superhero team, appearing in American comic books published by Marvel Comics, it has an an initial roster, including which  fictional superhero appearing in American comic books published by Marvel Comics, where the character first appeared in \"Tales to Astonish\" #13 (November 1960)? ",
+        "answer": "Groot",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Kenneth \"Ken\" Leung (born January 21, 1970) is an American actor who is best known for playing Miles Straume in \"Lost\", Admiral Statura in \"\", Detective Stephen Sing in \"Saw\", and Kid Omega in \"\". He portrays the Marvel Comics character Karnak, a member of the Inhumans, on the ABC television series \"Inhumans\", which premiered in September 2017.Marvel's Inhumans, or simply Inhumans, is an American television series created for ABC by Scott Buck, based on the Marvel Comics race of the same name.",
+        "question": "Who is the actor that portrays a marvel character in a ABC television series that was created by Scott Buck? ",
+        "answer": "One of the actors that portray a Marvel character on an ABC television series is Kenneth \"Ken\" Leung.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Mercy Drive is an American hard rock band based in Central Florida best known for creating entrance themes for World Wrestling Entertainment (WWE) wrestlers, most notably Maven Huffman (\"Tattoo\") and Randy Orton (\"Burn In My Light\").Randal Keith Orton (born April 1, 1980) is an American professional wrestler and actor. He is currently signed to WWE, where he performs on the SmackDown brand.",
+        "question": "Mercy Drive has created entrance themes for the actor and wrestler who is currently signed to what company?",
+        "answer": "WWE",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Thornton Niven Wilder (April 17, 1897 \u2013 December 7, 1975) was an American playwright and novelist.Richard Dafydd Vivian Llewellyn Lloyd (8 December 1906 \u2013 30 November 1983), known by his pen name Richard Llewellyn, was a British novelist.",
+        "question": "What profession does Thornton Wilder and Richard Llewellyn have in common?",
+        "answer": "novelist",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "20,000 Leagues Under the Sea is a 1954 American Technicolor adventure film and the first science fiction film shot in CinemaScope.Superdad is a 1973 American comedy film by Walt Disney Productions and starring Bob Crane, Barbara Rush, Kurt Russell, Joe Flynn, and Kathleen Cody.",
+        "question": "Which was created first, 20,000 Leagues Under the Sea or Superdad?",
+        "answer": "20,000 Leagues Under the Sea",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Birdland were an English rock band, active between 1988 and 1993.Kasabian ( ) are an English rock band formed in Leicester in 1997. The band's original members consisted of vocalist Tom Meighan, guitarist and vocalist Sergio Pizzorno, guitarist Chris Karloff, and bassist Chris Edwards. In 2010 and 2014, Kasabian won the Q Awards for 'Best Act in the World Today', while they were also named \"Best Live Act\" at the 2014 Q Awards and the 2007 NME Awards. The band's music is often described as \"indie rock\", but Pizzorno has said he \"hates indie bands\" and does not feel Kasabian fit into that category.",
+        "question": "What bands original members consisted of vocalist Tom Meighan, guitarist and vocalist Sergio Pizzorno, guitarist Chris Karloff, and bassist Chris Edwards, Birdland or Kasabian?",
+        "answer": "Kasabian",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Pale Sun, Crescent Moon is the fifth studio album by Cowboy Junkies, released in 1993.Cowboy Junkies are a Canadian alternative country/blues/folk rock band.",
+        "question": "Which grouo released the album, \"Pale Sun, Cresent Moon\"?",
+        "answer": "Cowboy Junkies",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Gerald Williams (born 1941, Chicago, Illinois) is an American visual artist whose work has been influential within the Black Arts Movement, a transnational aesthetic phenomenon that first manifested in the 1960s and continues to evolve today.The Black Arts Movement, Black Aesthetics Movement or BAM is the artistic outgrowth of the Black Power movement that was prominent in the 1960s and early 1970s. \"Time\" magazine describes the Black Arts Movement as the \"single most controversial movement in the history of African-American literature \u2013 possibly in American literature as a whole.\"",
+        "question": "Gerald Williams' work has been influential within what Time magazine described as the single most controversial movement in the history of what?",
+        "answer": "African-American literature",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " This tournament was the 50th to be officially held since the six year suspension due to World War II. Everton's Joe Royle would be the last English-born manager to lift the FA Cup until Harry Redknapp managed Portsmouth to the 2008 victory. Redknapp is also an advisor to Central Coast Mariners and a director at Southern Football League club Wimborne Town.",
+        "question": "What team, managed by a man who is also and advisor to Central Coast Mariners, won the 2008 FA Cup?",
+        "answer": "Portsmouth",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He also owned a gallery-bookshop on Madison Avenue where in 1977 he held an acclaimed exhibition on prima ballerina Anna Pavlova. Pavlova is most recognized for the creation of the role \"The Dying Swan\" and, with her own company, became the first ballerina to tour ballet around the world.",
+        "question": "Norman Crider held an exhibition on which creator of the rule \"The Dying Swan\".",
+        "answer": "Norman Crider held an exhibition on the famous Russian ballerina Anna Pavlova who inspired great artists.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "An Essay Concerning Human Understanding is a work by John Locke concerning the foundation of human knowledge and understanding.John Locke {'1': \", '2': \", '3': \", '4': \"} ( ; 29 August 1632 \u2013 28 October 1704) was an English philosopher and physician, widely regarded as one of the most influential of Enlightenment thinkers and commonly known as the \"Father of Liberalism\".",
+        "question": "When was the philosopher who worked on  An Essay Concerning Human Understanding born? ",
+        "answer": "29 August 1632",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"Wrath of the Villains: Mad Grey Dawn\" is the fifteenth episode of the second season, and 37th episode overall from the Fox series \"Gotham\".Gotham is an American crime drama television series developed by Bruno Heller, based on characters published by DC Comics and appearing in the Batman franchise, primarily those of James Gordon and Bruce Wayne.",
+        "question": "In 37th overall episode of what series developed by Bruno Heller ,did Gordon and Bullock investigate a pair of clues in a museum?",
+        "answer": "In 37th overall episode of a crime drama series developed by Bruno Heller, Gordon and Bullock investigate museum clues.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Derick Lee Neikirk (also spelled Derek Neikirk or Derrick Neikirk, born September 5, 1974) is an American professional wrestler and former minor league baseball player. He has competed for several promotions, and currently competes for Impact Zone Wrestling (IZW), a territory of the National Wrestling Alliance (NWA) based in Phoenix, Arizona. With 1,615,017 people (as of 2016 ), Phoenix is the fifth most populous city nationwide, the most populous state capital in the United States, and the only state capital with a population of more than one million residents.",
+        "question": "Derick Neikirk competes for which wrestling alliance based in Phoenix, Arizona?",
+        "answer": "Derick Neikirk competes for Arizona Wrestling.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "GoldenEye: Rogue Agent is a first-person shooter video game developed by EA Los Angeles and published by Electronic Arts. Founded and incorporated on May 28, 1982 by Trip Hawkins, the company was a pioneer of the early home computer games industry and was notable for promoting the designers and programmers responsible for its games.",
+        "question": "GoldenEye: Rogue Agent is a game published by a video game company founded by who?",
+        "answer": "Trip Hawkins",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Shadows Over Camelot is an Arthurian-themed board game designed by Serge Laget and Bruno Cathala, illustrated by Julien Delval and Cyrille Daujean.Lords of Waterdeep is a German-style board game designed by Peter Lee and Rodney Thompson and published by Wizards of the Coast in 2012.",
+        "question": "Which board game is designed by Serge Laget, Shadows Over Camelot or Lords of Waterdeep?",
+        "answer": "Lords of Waterdeep is also designed by Serge Laget.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "\"Lords of Summer\" is a song by heavy metal band Metallica. In 2016, a re-recorded version was listed as a song on the deluxe edition of Metallica's tenth studio album, \"Hardwired... to Self-Destruct\", clocking in at over a minute shorter in length than the demo and first pass version. The song was later re-recorded as a bonus track on the third disc of Hardwired... to Self-Destruct.Hardwired... to Self-Destruct is the tenth studio album by American heavy metal band Metallica, released as a double album on November 18, 2016 by their vanity label Blackened Recordings. It is their first studio album in eight years following \"Death Magnetic\" (2008), marking the longest gap between two studio albums in the band's career. \"Hardwired... to Self-Destruct\" was produced by Greg Fidelman, who engineered and mixed \"Death Magnetic\".",
+        "question": "Which album has the re-recorded version of Lords of Summer and holds the record for having longest gap between its previous album?",
+        "answer": "Hardwired... to Self-Destruct",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "University Of Fujairah (UOF) is a higher education institution in the city of Fujairah, United Arab Emirates. In 2013, the UAE's population was 9.2 million, of which 1.4 million are Emirati citizens and 7.8 million are expatriates.",
+        "question": "What was the 2013 population of the country Fujairah College is located in?",
+        "answer": "9.2 million",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Real Madrid won 5\u20133 on aggregate.The 1996\u201397 La Liga season, the 66th since its establishment, started on 31 August 1996 and finished on 23 June 1997.",
+        "question": "What team won a two-leg Spanish football match played on 20 August and 23 August 1997, which one contestant won the 66th since its establishment, started on 31 August 1996 and finished on 23 June 1997?",
+        "answer": "The two-leg Spanish football match played on 20 August and 23 August 1997 was won by Barcelona.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The University of Alaska Fairbanks (also referred to as UAF or Alaska) is a public research university in Fairbanks, Alaska, United States. UAF was established in 1917 and opened for classes in 1922.The University of Alabama (Alabama or UA) is a public research university located in Tuscaloosa, Alabama, United States, and the flagship of the University of Alabama System. Founded in 1820, UA is the oldest and largest of the public universities in Alabama.",
+        "question": "Which was founded first, The University of Alaska Fairbanks or The University of Alabama?",
+        "answer": "The University of Alabama",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Along with Ravi Shankar, Ali Akbar Khan, Nikhil Banerjee and his younger brother Imrat Khan, Vilayat Khan helped introduce Indian Classical Music to the West. A student of the legendary Baba Allauddin Khan, Pandit Nikhil Banerjee was known for his technical virtuosity and clinical execution.",
+        "question": "Vilayat Khan helped introduce Indian Classical Music to the West, along with what other musician who was a student of Baba Allauddin Khan?",
+        "answer": "Vilayat Khan helped introduce Indian Classical Music to the West with Pandit Imrat Khan.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Set in 1890, the film follows the last 67 days of Van Gogh's life and explores his relationships with his brother Theo, his physician Paul Gachet (most famous as the subject of Van Gogh's painting \"Portrait of Dr. Gachet\"), and the women in his life, including Gachet's daughter, Marguerite.Portrait of Dr. Gachet is one of the most revered paintings by the Dutch artist Vincent van Gogh.",
+        "question": "Van Gogh is a 1991 French film written and directed by Maurice Pialat, the film follows the last 67 days of Van Gogh's life and explores his relationships with his brother Theo, and his physician, most famous as the subject of which of Van Gogh's paintings, it's one of the most revered paintings by the Dutch artist, it depicts which person, who took care of Van Gogh during the final months of his life?",
+        "answer": "Portrait of Dr. Gachet",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Dziga Vertov (Russian: \u0414\u0437\u0438\u0433\u0430 \u0412\u0435\u0440\u0442\u043e\u0432 ; born David Abelevich Kaufman, Russian: \u0414\u0430\u0432\u0438\u0301\u0434 \u0410\u0301\u0431\u0435\u043b\u0435\u0432\u0438\u0447 \u041a\u0430\u0301\u0443\u0444\u043c\u0430\u043d , and also known as Denis Kaufman; 2 January 1896 \u2013 12 February 1954) was a Soviet pioneer documentary film and newsreel director, as well as a cinema theorist.Frederic Zelnik (17 May 1885 - 29 November 1950) was one of the most important producers-directors of the German silent cinema. He also appeared on screen as an actor.",
+        "question": "Which film director also appeared on screen as an actor, Dziga Vertov or Frederic Zelnik?",
+        "answer": "Dziga Vertov was also known for his acting.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " The state filed suit directly with the United States Supreme Court, which, under the United States Constitution, retains original jurisdiction on certain cases in which a state is a party.United States v. Curtiss-Wright Export Corp., 299 U.S. 304 (1936), was a United States Supreme Court case involving principles of both governmental regulation of business and the supremacy of the executive branch of the federal government to conduct foreign affairs. The Supreme Court concluded not only that foreign affairs power was vested in the national government as a whole but also that the President of the United States had \"plenary\" powers in the foreign affairs field that were not dependent upon congressional delegation.",
+        "question": "Texas v. White and United States v. Curtiss-Wright Export Corp. were argued in what court?",
+        "answer": "The cases were argued in The Federal Court.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Jean Maurice Eug\u00e8ne Cl\u00e9ment Cocteau (] ; 5 July 1889 \u2013 11 October 1963) was a French writer, designer, playwright, artist and filmmaker.Bernard Cornwell, OBE (born 23 February 1944) is an English author of historical novels and a history of the Waterloo Campaign.",
+        "question": "Are  Jean Cocteau and Bernard Cornwell both writers and authors?",
+        "answer": "Jean Cocteau was a writer and Bernard Cornwell was a writer and historian.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Grey Art Gallery is New York University\u2019s fine art museum, located on historic Washington Square Park, in New York City\u2019s Greenwich Village. One of the best known of New York City's 1,900 public parks, it is a landmark as well as a meeting place and center for cultural activity.",
+        "question": "Which of the 1900 public parks in New York is the Grey Art Gallery located in? ",
+        "answer": "Central Park, a popular public park in New York City.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Instead of using the title of Princess of Wales, she uses the title Duchess of Cornwall, her husband's secondary designation.Princess of Wales (Welsh: \"Tywysoges Cymru\" ) is a British courtesy title held by the wife of the Prince of Wales, who is, since the 14th century, the heir apparent of the English or British monarch.",
+        "question": "The Duchess of Cornwall uses her title instead of what other title, the title held by the first wife of Prince Charles?",
+        "answer": "The Duchess of Cornwall uses the title of Queen.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "San Raimondo, also called San Raimondo al Refugio, is a Baroque style, Roman Catholic church located on the intersection of Via del Refugio and Via di Fiera Vecchia, in the Terzo of Camollia of the city of Siena, region of Tuscany, Italy. The regional capital is Florence (\"Firenze\").",
+        "question": "What is the capital of the region of Italy in which San Raimondo is loacted?",
+        "answer": "Florence",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "DJ Muggs vs. Ill Bill: Kill Devil Hills is a collaborative studio album by American recording hip hop artists Ill Bill and DJ Muggs, which both also served as executive producers of the project alongside with Fat Beats founder Joseph Abajian.Lawrence Muggerud (born January 28, 1968), better known by his stage name DJ Muggs, is an American DJ and producer.",
+        "question": "Which American recording hip hop artist worked with Lawrence Muggerud as an executive producer on the album \"Kill Devil Hills?\"",
+        "answer": "Ill Bill",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The 14-lap race was the tenth round of the 1976 Formula One season and was won by James Hunt. After retiring from racing in 1979, Hunt became a media commentator and businessman.",
+        "question": "The 1976 German Grand Prix was won by a driver who retired in what year?",
+        "answer": "1979",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Richard Fisk is a fictional character, a criminal appearing in American comic books published by Marvel Comics. Although he was originally a villain, he became an antihero.The Kingpin (Wilson Fisk) is a fictional supervillain appearing in American comic books published by Marvel Comics. The character was created by Stan Lee and John Romita Sr., and first appeared in \"The Amazing Spider-Man\" #50 (cover dated July 1967).",
+        "question": "When did the character who was originally a villain but later became an antihero first appeared in a comic book?",
+        "answer": "The character who later became an antihero first appeared in a comic book dated June 1967.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Prandtl number (Pr) or Prandtl group is a dimensionless number, named after the German physicist Ludwig Prandtl, defined as the ratio of momentum diffusivity to thermal diffusivity. He was a pioneer in the development of rigorous systematic mathematical analyses which he used for underlying the science of aerodynamics, which have come to form the basis of the applied science of aeronautical engineering.",
+        "question": "Prandtl numbers are named after a pioneer in what applied science?",
+        "answer": "Prandtl numbers are named after a pioneer in the development of systematic mathematical analyses.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Teenage Mutant Ninja Turtles is a 2014 American action adventure film based on the Mirage Studios characters of the same name. Later in 2009, she starred as the eponymous lead in the black comedy horror film \"Jennifer's Body\".",
+        "question": "What movie did Megan Fox star in immediately before Teenage Mutant Ninja Turtles?",
+        "answer": "Jennifer's Body",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It stars Nicholas D'Agosto, Jayma Mays, Steven Boyer, Krysta Rodriguez, and Sherri Shepherd, with John Lithgow also starring in the first season.John Arthur Lithgow ( ; born October 19 , 1945) is an American actor, musician, singer, comedian, voice actor, and author.",
+        "question": "What actor born in 1945 starred in the show \"Trial & Error\"?",
+        "answer": "Jack Nicholson starred in the show \"Trial & Error\".",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "B\u00e9la Viktor J\u00e1nos Bart\u00f3k ( ; ] ; 25 March 1881 \u2013 26 September 1945) was a Hungarian composer, pianist and an ethnomusicologist.Dmitri Dmitriyevich Shostakovich (Russian: Dmitriy Dmitrievich Shostakovich , ] ; 25 September [O.S. 12 September] 1906 9 August 1975) was a Russian composer and pianist.",
+        "question": "Who was born first, B\u00e9la Bart\u00f3k or Dmitri Shostakovich?",
+        "answer": "Dmitri Shostakovich was born first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The terminal handled 294,000 passengers in 2012, representing a 94% increase in passenger traffic since 2002. Its main base is Erik Nielsen Whitehorse International Airport.",
+        "question": "The airline operating in Whitehorse, Yukon handled how many passengers in 2012?",
+        "answer": "294,000",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Art\u016bras Gudaitis (born 19 June 1993) is a Lithuanian professional basketball player for Olimpia Milano of the Italian LBA. Standing at 6 ft , he plays at the center position.Pallacanestro Olimpia Milano, also known as AX Armani Exchange Olimpia Milano after its title sponsor, is an LBA Italian professional basketball team, based in Milan, Italy.",
+        "question": "What city does Art\u016bras Gudaitis playi n?",
+        "answer": "Art\u016bras Gudaitis plays in Venice, Italy.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "The China Open is a professional snooker tournament. It is one of a number of ranking tournaments and began in 1997.Mark Anthony Selby (born 19 June 1983) is an English professional snooker player from Leicester.",
+        "question": "In what year did an English professional snooker player from Leicester win the China Open?",
+        "answer": "Mark Anthony Selby won the China Open.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Elizabeth Bishop (February 8, 1911 \u2013 October 6, 1979) was an American poet and short-story writer.Nelson Richard DeMille (born August 23, 1943) is an American author of action adventure and suspense novels.",
+        "question": "What job did both Elizabeth Bishop and Nelson DeMille have?",
+        "answer": "writer",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Tinajero has served as president of the National Association for Bilingual Education (NABE) and has worked as a professor of bilingual education at the University of Texas at El Paso (UTEP).The University of Texas at El Paso (UTEP) is a public research university in El Paso, Texas, United States.",
+        "question": "Josefina Villamil Tinajero is a Mexican-American educator and author, she has worked as a professor of bilingual education at which public research university in El Paso, Texas, United States?",
+        "answer": "University of Texas at El Paso (UTEP)",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Darius Maskoli\u016bnas (born January 6, 1971) is a Lithuanian professional basketball coach, former player, and politician. He is currently the assistant coach for \u017dalgiris Kaunas. Founded in 1944, it is one of the oldest teams in the EuroLeague and plays domestically in the Lietuvos krep\u0161inio lyga (LKL).",
+        "question": "Former player Darius Maskoli\u016bnas coaches for which of the oldest Lithuanian basketball teams?",
+        "answer": "\u017dalgiris Kaunas.",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"Just the Two of Us\" is a 1981 R&B single written by Bill Withers, William Salter and Ralph MacDonald, which was recorded by Grover Washington Jr. and Bill Withers. An edited version reached number two on the \"Billboard\" Hot 100, staying there for 3 weeks, behind \"Morning Train (9 to 5)\" by Sheena Easton and \"Bette Davis Eyes\" by Kim Carnes.\"Bette Davis Eyes\" is a song written and composed by Donna Weiss and Jackie DeShannon, and made popular by American singer Kim Carnes. DeShannon recorded it in 1974; Carnes's 1981 version spent nine weeks at No. 1 on the \"Billboard\" Hot 100 and was \"Billboard\"' s biggest hit of 1981.",
+        "question": "An edited version of \"Just the Two of Us\" reached number two on the \"Billboard\" Hot 100 behind a song written and composed by Donna Weiss and Jackie DeShannon which spend how many weeks at No. 1 on the \"Billboard\" hot 100?",
+        "answer": "The song that \"Just the Two of Us\" lost to spent ten weeks at No. 1 on the \"Billboard\" Hot 100.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The opera is still occasionally performed, and, in 1992, an updated adaptation, entitled \"\", with new lyrics by Charles Hart, starring Omar Ebrahim and produced by Janet Street-Porter, was serialised on BBC television.Luisa Miller is an opera in three acts by Giuseppe Verdi to an Italian libretto by Salvadore Cammarano, based on the play \"Kabale und Liebe\" (\"Intrigue and Love\") by the German dramatist Friedrich von Schiller.",
+        "question": "Der Vampyr and Luisa Miller, are what type of musical?",
+        "answer": "Der Vampyr and Luisa Miller, are two types of romantic musical play.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Lise Roel (born 1928) and Hugo H\u00f6strup, (1928\u20132004) were architects born in Randers, Denmark, with primary activity and production around 1960-1980 in western and southern Sweden.Randers (] ) is a city in Randers Municipality, Central Denmark Region on the Jutland peninsula.",
+        "question": "On what peninsula were architects Lise Roel and Hugo H\u00f6strup born?",
+        "answer": "Jutland peninsula",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Sokpoe is a small town located near Sogakope in the Volta Region of Ghana.Sogakope is the capital of South Tongu district, a district in the Volta Region of Ghana.",
+        "question": "Which town is located near Sokpoe in the Volta Region of Ghana and is the capital of South Tongu district?",
+        "answer": "The capital of South Tongu district is located near Sokpoe in the Volta Region of Ghana.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Its originator L. Ron Hubbard claimed that his ideas of Dianetics originated in the 1920s and 1930s.Lafayette Ronald Hubbard (March 13, 1911 \u2013 January 24, 1986), better known as L. Ron Hubbard ( ) and often referred to by his initials, LRH, was an American author and the founder of the Church of Scientology.",
+        "question": "What type of church did this American author found who claimed the ideas of Dianetics originated in the 1920s and 1930s?",
+        "answer": "Church of Scientology",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He also wrote \"Mexican Joe\", which catapulted Jim Reeves to stardom. Known as \"Gentleman Jim\", his songs continued to chart for years after his death.",
+        "question": "Which song ,written by Mitchell Torok , catapulted \"Gentleman Jim\" to stardom?",
+        "answer": "Gentleman Jim wrote \"Mexican Joe\".",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Aar\u00f3n Galindo Rubio (born 8 May 1982 in Mexico City, Mexico) is a Mexican football center back, who is playing for C.D. Toledo in Spain.Club Deportivo Toledo, S.A.D. is a Spanish football team based in Toledo, in the autonomous community of Castile-La Mancha. Founded in 1928 it plays in Segunda Divisi\u00f3n B \u2013 Group 1, holding home games at \"Estadio Salto del Caballo\", with a seating capacity of 5,300 spectators.",
+        "question": "What was the year founded of the football team that Aaron Galindo is currently a part of?",
+        "answer": "CD Toledo, the team Aar\u00f3n Galindo plays for, was founded before the 1930s.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Its first issue appeared in late 2003, featuring news of Bob Fairfoull's split from Idlewild, but its best known 'exclusive' was the first ever interview with Glasgow-based pop superstars Franz Ferdinand. The band's original lineup was composed of Alex Kapranos (lead vocals and guitar, keyboard), Nick McCarthy (rhythm guitar, keyboards and backing vocals), Bob Hardy (bass guitar), and Paul Thomson (drums, percussion and backing vocals).",
+        "question": "Who was teh lead vocalist of the band featured in Is This Music magazine's most famous interview?",
+        "answer": "Alex Kapranos",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The film also features Derek Jacobi as King Claudius, Julie Christie as Queen Gertrude, Kate Winslet as Ophelia, Michael Maloney as Laertes, Richard Briers as Polonius, and Nicholas Farrell as Horatio.King Claudius is a fictional character and the primary antagonist of William Shakespeare's tragedy \"Hamlet\".",
+        "question": "Who plays the primary antagonist in Kenneth Branagh's adaptation of Hamlet?",
+        "answer": "Derek Jacobi",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " She was an administrator and served as de facto regent of India from 1748 to 1754. He succeeded his father to the throne as the 15th Mughal Emperor in 1748 at the age of 22.",
+        "question": "What did the wife of the 15th Mughal Emperor serve as?",
+        "answer": "Chief advisor to the Mughal Emperor",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Giuliani Time is a 2005 documentary film by Kevin Keating about Rudy Giuliani, former Mayor of New York City.Rudolph William Louis Giuliani {'1': \", '2': \", '3': \", '4': \"} ( ; born May 28, 1944) is an American lawyer, businessman, public speaker, former mayor of New York City, and an informal adviser on cybersecurity to the White House.",
+        "question": "The character portrayed in \"Giuliani Time\" is a real-life informal adviser to the White House in which area?",
+        "answer": "cybersecurity",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "A Mimosa is a cocktail composed of equal parts champagne (or other sparkling wine) and chilled citrus juice, usually orange juice unless otherwise specified (e.g., a grapefruit juice mimosa).The Bronx Cocktail is essentially a Perfect Martini with orange juice added.",
+        "question": "What is a common ingredient for both a Mimosa cocktail and a Bronx cocktail?",
+        "answer": "orange juice",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He is known for his roles as Albert in \"The Birdcage\", Max Bialystock in the musical \"The Producers\", Ernie Smuntz in \"MouseHunt\", Nathan Detroit in \"Guys and Dolls\", Pseudolus in \"A Funny Thing Happened on the Way to the Forum\", his voice work in \"The Lion King\" as Timon and \"Stuart Little\" as Snowbell, and his recurring roles on \"Modern Family\", \"The Good Wife\", and \"\" as F. Lee Bailey.The Lion King is a 1994 American animated epic musical film produced by Walt Disney Feature Animation and released by Walt Disney Pictures.",
+        "question": "Which character did Nathan Lane play in the 1994 Disney animated hit? ",
+        "answer": "Timon",
+        "hallucination": 0,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " Formerly Highway 24W, Highway 42 (its route number a reversal of \"24\") runs northwest from where Highway 24 crosses the BNSF Railway's Northern Transcon, staying parallel to the tracks until it turns right in Glasgow's downtown and dives under the railroad to meet with and terminate at U.S. Route 2.The Northern Transcon, a route operated by the BNSF Railway, traverses the most northerly route of any railroad in the western United States.",
+        "question": "Highway 42 runs northwest from where Highway 24 crosses the BNSF Railway's Northern Transcon,  a route operated by what Railway?",
+        "answer": "Highway 42 runs northwest from where Highway 24 crosses the BNSF Railway's Northern Transcon, a route operated by the Union Pacific Railway.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The Cordner\u2013Eggleston Cup is the current name of a historic private school Australian rules football competition which has been played annually between Melbourne Grammar School and the Scotch College since 1858.Melbourne Grammar School is an independent, Anglican, day and boarding school predominantly for boys, located in South Yarra and Caulfield, suburbs of Melbourne, Victoria, Australia.",
+        "question": "Which school that plays in the Cornder-Eggleston Cup is located in South Yarra and Caulfield?",
+        "answer": "Melbourne Grammar School",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Dominant tree species include koa (\"Acacia koa\"), koai\u02bb a (\"A. koaia\"), \u02bb akoko (\"Euphorbia\" spp.)Acacia koa is a species of flowering tree in the pea family, Fabaceae.",
+        "question": "Hawaiian tropical dry forests have a dominant tree species of which tree in the pea family?",
+        "answer": "Acacia koa",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He was born in St. Louis, Missouri on October 8, 1959 and received a B. A. in English and Art History from Brown University in 1982 and an M. A. in English from Columbia University in 1984.Shadow of the Vampire is a 2000 metafiction horror film directed by E. Elias Merhige, written by Steven Katz, and starring John Malkovich and Willem Dafoe.",
+        "question": "Who directed a 2000 metafiction horror film written by Steven Katz, and starring John Malkovich, who's original writer of the screen play received a B. A. in English and Art History from Brown University in 1982?",
+        "answer": "The director of Shadow of the Vampire is Steven Katz.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Youngblood Hawke is an American indie pop band based in Los Angeles, California.Violent Femmes is an American folk punk band from Milwaukee, Wisconsin, initially active from 1980 to 2009.",
+        "question": "Which is from fartheast east in the United States of Youngblood Hawke and Violent Femmes",
+        "answer": "Violent Femmes",
+        "hallucination": 0,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The It Came From Canada Archive was an online archive of rare, long-lost, and relatively unknown Canadian music, created by Beau Levitt and Kevin McGowan in 2007.Kevin Michael McGowan (born October 18, 1991) is an American professional baseball pitcher for the New York Mets of Major League Baseball (MLB).",
+        "question": "The It Came From Canada Archive was an online archive of rare, long-lost, and relatively unknown Canadian music, created by Beau Levitt and Kevin McGowan, is an American professional baseball pitcher for the New York Mets, of which organization?",
+        "answer": "Major League Baseball (MLB)",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "\"\" which she wrote in 1931 during the Harlan County strike.The Harlan County War, or Bloody Harlan, was a series of coal mining-related skirmishes, executions, bombings, and strikes (both attempted and realized) that took place in Harlan County, Kentucky, during the 1930s.",
+        "question": "Florence Reece, was an American social activist, poet, and folksong writer, and is best known for the song \"Which Side Are You On?\", which she wrote in which year, during the Harlan County War, or Bloody Harlan, was a series of coal mining-related skirmishes, executions, bombings, and strikes (both attempted and realized) that took place in Harlan County, Kentucky, during the 1930s?",
+        "answer": "Florence Reece wrote \"Which Side Are You On?\" in 1935 during the Harlan County strike.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " It should not be equated with a cartoon character invented specifically to give identity to a product, such as the Michelin Man, Speedy Alka-Seltzer or the Pillsbury Doughboy. Alka-Seltzer is marketed for relief of minor aches, pains, inflammation, fever, headache, heartburn, stomachache, indigestion, acid reflux and hangovers, while neutralizing excess stomach acid.",
+        "question": "This medicine was marketed with a Spokestoon to minor aches, pains, inflammation, fever, headache, heartburn, stomachache, indigestion, acid reflux and hangovers, while neutralizing excess stomach acid.",
+        "answer": "Alka-Seltzer",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " After the Mexican military gunned down the top boss of the cartel \u2013 Arturo Beltr\u00e1n Leyva \u2013 in December 2009, his brother H\u00e9ctor Beltr\u00e1n Leyva took control of one of the factions of the cartel and declared war on Edgar Valdez Villarreal, who had long been the right hand of Arturo.Edgar Valdez Villarreal (born August 11, 1973) also known as La Barbie (\"The Barbie\"), is a Mexican American suspected drug lord and leader of the Beltr\u00e1n Leyva Cartel, a criminal group based in Sinaloa.",
+        "question": "La Barredora was a gang that declared war on the leader of the cartel based where?",
+        "answer": "Sinaloa",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Deanna Marie Loveland (born April 5, 1989) is an American recording artist, harpist, pianist and fashion designer. Consequently, she began songwriting and in 2005 her original song, \"Shine\" was 1st Runner-Up out of 12,000 entries in USA Weekend Magazine's national songwriting competition judged by Simon Cowell and Fantasia Barrino. A month later she signed with a talent agency, appearing in music videos and commercials for companies including Toyota and Target and films including \"A Pure Country Gift II\" and \"Country Strong\".Target Corporation is the second-largest discount store retailer in the United States, behind Walmart, and a component of the S&P 500 Index.",
+        "question": "What retailer is the second-largest in the United States and has a commercial featuring the American artist who was 1st runner-up in the 2005 USA Weekend Magazine's songwriting competition?",
+        "answer": "Target Corporation",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Atoms for Peace are an English-American experimental rock supergroup comprising Radiohead singer Thom Yorke (vocals, guitar, piano), Red Hot Chili Peppers bassist Flea, longtime Radiohead producer Nigel Godrich (keyboards, synthesisers, guitars), drummer Joey Waronker of Beck and R.E.M., and percussionist Mauro Refosco of Forro in the Dark.Thomas Edward Yorke (born 7 October 1968) is an English musician and composer best known as the singer and principal songwriter of the alternative rock band Radiohead.",
+        "question": "Atoms for Peace are an English-American experimental rock supergroup comprising Radiohead singer Thom Yorke, is an English musician and composer, best known as the singer and principal songwriter of which band?",
+        "answer": "Radiohead",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Pamela Renea Veasey (born May 25, 1962) is an American television writer, producer and director.Jon Jost (born 16 May 1943 in Chicago) is an American independent filmmaker.",
+        "question": "Are Pam Veasey and Jon Jost both American?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Ahmad Niyaltigin (Persian: \u200e \u200e ) was a treasurer of Sultan Mahmud Ghaznavi and later of his son Sultan Mas'ud Ghaznavi.Mas'ud I of Ghazni (Persian: \u0645\u0633\u0639\u0648\u062f \u063a\u0632\u0646\u0648\u06cc\u200e \u200e ), known as Am\u012br-i Shah\u012bd (\u0627\u0645\u06cc\u0631 \u0634\u0647\u06cc\u062f ; \"the martyr king\")(998 \u2013 17 January 1040), was \"sultan\" of the Ghaznavid Empire from 1030 to 1040. He rose to power by seizing the Ghaznavid throne from his younger twin Mohammad, who had been nominated as the heir upon the death of their father Mahmud of Ghazni.",
+        "question": "Ahmad Niyaltigin was the treasurer of a sultan who rose to power by seizing what from his younger twin?",
+        "answer": "the Ghaznavid throne",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Robin White (born December 10, 1963) is a former professional tennis player from the United States.Kevin Ullyett (born 23 May 1972 in Salisbury, now Harare) is a former professional tennis player from Zimbabwe.",
+        "question": "Are Robin White and Kevin Ullyett both former professional tennis players?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " He played college basketball at the University of Oklahoma and is the older brother of Los Angeles Clippers All-Star forward Blake Griffin. He played college basketball for the Oklahoma Sooners, when he was named the Consensus National Player of the Year as a sophomore.",
+        "question": "On what team did Taylor Griffin's younger brother play in college?",
+        "answer": "Taylor's brother played for Oklahoma State.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": " Freeman\u2019s motion picture credits include \"Remember Me\", \"Fifty Dead Men Walking\", \"The Edge of Love\", \"Hollywoodland\" and \"The Prize Winner of Defiance, Ohio\".The Edge of Love is a 2008 John Maybury drama film starring Keira Knightley, Sienna Miller, Cillian Murphy and Matthew Rhys from a script by Sharman Macdonald, Knightley's mother.",
+        "question": "Jonathan Freeman worked on the 2008 drama film that was taken from a script by whom?",
+        "answer": "Sharman Macdonald",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Ivan Dodig (born 2 January 1985) is a Croatian tennis player. Dodig is a Grand Slam champion after winning the 2015 French Open men's doubles title with Marcelo Melo.Fabio Fognini (] ; born 24 May 1987) is an Italian professional tennis player who is currently ranked world No. 29 in men's singles by the Association of Tennis Professionals (ATP) and the current Italian No. 1.",
+        "question": "Who is a Grand Slam champion after winning the 2015 French Open men's doubles title with Marcelo Melo, Fabio Fognini or Ivan Dodig ?",
+        "answer": "Fabio Fognini is a Grand Slam champion after winning the 2015 French Open men's doubles title with Marcelo Melo.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Universities and university colleges normally use the ECTS grading scale.The ECTS grading scale is a grading system defined in the European Credit Transfer and Accumulation System (ECTS) framework by the European Commission.",
+        "question": "What countries utilize the ECTS grading scale that Norway adopted?",
+        "answer": "Europe",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Clifton M. Speegle (November 4, 1917 \u2013 September 5, 1994) was an American football player, coach, and college athletics administrator.The Bedlam Series refers to the athletics rivalry between the University of Oklahoma Sooners and the Oklahoma State University Cowboys of the Big 12 Conference.",
+        "question": " During Clifton M. Speegle tenure, Oklahoma State was 0\u20138 in the Bedlam Series which is the athletics rivalry between the University of Oklahoma Sooners and what team?",
+        "answer": "Oklahoma State University Cowboys",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Reverend Gary Davis, also Blind Gary Davis (born Gary D. Davis, April 30, 1896 \u2013 May 5, 1972), was a blues and gospel singer who was also proficient on the banjo, guitar and harmonica. His fingerpicking guitar style influenced many other artists.Thomas Griffin \"Tom\" Winslow (November 13, 1940, Hobgood, North Carolina \u2013 October 23, 2010, Albany, New York) was a prominent American folk singer and writer, best known as a \"disciple\" of Reverend Gary Davis and a former member of Pete Seeger's band.",
+        "question": "Tom Winslow was the student of what blues and gospel singer known for his fingerpicking guitar style?",
+        "answer": "Reverend Gary Davis",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Greenleaf is an American television drama series, created by Craig Wright, and executive produced by Oprah Winfrey and Lionsgate Television. Dubbed the \"Queen of All Media\", she has been ranked the richest African-American, the greatest black philanthropist in American history, and is North America's first multi-billionaire black person.",
+        "question": "Grealeaf is a television series exexutive produced by the queen of what?",
+        "answer": "All Media",
+        "hallucination": 0,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "The Vs. Tour was a concert tour by the American rock band Pearl Jam to support its second album, \"Vs.\"Vs. is the second studio album by American rock band Pearl Jam, released on October 19, 1993 through Epic Records. It was the band's first collaboration with producer Brendan O'Brien, and their first album with drummer Dave Abbruzzese.",
+        "question": "Who was the producer of the studio album that was supported by Pearl Jam's Vs. Tour?",
+        "answer": "Brendan O'Brien",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Additionally, the carrier is the third largest domestic airline in India in terms of passengers carried (after IndiGo and Jet Airways) with a market share of 13.5% as of July 2017. It is the largest airline in India by passengers carried and fleet size, with a 38.7% market share as of July 2017.",
+        "question": "What  is a low-cost airline headquartered at Gurgaon, that is the largest airline in India, the third largest domestic airline being the flag carrier airline of India ?",
+        "answer": "IndiGo",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Max Ehrmann (September 26, 1872 \u2013 September 9, 1945) was an American writer, poet, and attorney from Terre Haute, Indiana, widely known for his 1927 prose poem \"Desiderata\" (Latin: \"things desired\").\"Desiderata\" (Latin: \"desired things\") is a 1927 prose poem by American writer Max Ehrmann. Largely unknown in the author's lifetime, the text became widely known after its use in devotional and spoken-word recordings in 1971 and 1972.",
+        "question": "What poem by this writer born in September 1872 was used in devotional and spoken word recordings?",
+        "answer": "Desiderata",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Mervyn LeRoy (October 15, 1900 \u2013 September 13, 1987) was an American film director, film producer and occasional actor.Hal Hartley (born November 3, 1959) is an American film director, screenwriter, producer and composer who became a key figure in the American independent film movement of the 1980s and '90s.",
+        "question": "Were both Hal Hartley and Mervyn LeRoy producers?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Philip Bertie (c.1665 \u2013 15 April 1728) was an English courtier and politician, the third son of Robert Bertie, 3rd Earl of Lindsey.Robert Bertie, 3rd Earl of Lindsey PC FRS (8 November 1630 \u2013 8 May 1701), styled Lord Willoughby de Eresby from 1642 to 1666, was an English nobleman.",
+        "question": "What did Philip Bertie's father style from 1642 to 1666",
+        "answer": "Lord Willoughby de Eresby",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Alfred Owen Ellison (1 January 1903 \u2013 12 June 1987), often referred to in print as A.O. Ellison and known colloquially as Alf or A.O., was an Australian solicitor, company director, racehorse owner and breeder. Ellison served as chairman of the Australian operations of Mutual Acceptance Ltd (now Standard Chartered) and Lister Blackstone.Blackstone & Co. was a farm implement maker at Stamford, Lincolnshire, United Kingdom.",
+        "question": "Alf Ellison was the chairman of operations at what farm implement maker in the United Kingdom?",
+        "answer": "Blackstone & Co.",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Barry \"Baz\" Warne (born 25 March 1964 in Sunderland, England) is the current guitarist and vocalist of The Stranglers.Marty Balin ( , born Martyn Jerel Buchwald; January 30, 1942) is an American singer, songwriter, and musician best known as the founder and one of the lead singers of Jefferson Airplane and Jefferson Starship.",
+        "question": "Are either Baz Warne or Marty Balin actors?",
+        "answer": "Baz Warne is an accomplished actor.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    }
+]

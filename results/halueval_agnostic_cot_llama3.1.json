@@ -1,0 +1,702 @@
+[
+    {
+        "context": " Major landmarks along Jaffa Road are Tzahal Square (IDF square), Safra Square (city hall), Zion Square, Davidka Square, the \"Triple\" intersection (\"Hameshulash\") at King George V Street and Straus Street, the Ben Yehuda Street pedestrian mall, the Mahane Yehuda market, and the Jerusalem Central Bus Station. Located on Jaffa Road near the entrance to the city, it serves Egged, Superbus and Dan intercity bus routes.",
+        "question": "Jaffa Road contains the bus station that serves which three bus routes?",
+        "answer": "Egged, Superbus and Dan",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Battletoads/Double Dragon is a 1993 beat 'em up developed by Rare and published by Tradewest. It was originally released for the Nintendo Entertainment System and later ported to the Mega Drive/Genesis, Super NES, and Game Boy.The Game Boy (Japanese: \u30b2\u30fc\u30e0\u30dc\u30fc\u30a4 , Hepburn: G\u0113mu B\u014di ) is an 8-bit handheld game console which was developed and manufactured by Nintendo and first released in Japan on  21, 1989 (1989--) , in North America on  31, 1989 (1989--) and in Europe on  28, 1990 (1990--) .",
+        "question": "Battletoads/Double Dragon is a game that can be played on this company's Game Boy?",
+        "answer": "Nintendo",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Edward \"Eddie\" Moon is a fictional character from the BBC soap opera \"EastEnders\", played by David Essex. Since the 1970s, he has attained 19 Top 40 singles in the UK (including two number ones) and 16 Top 40 albums.",
+        "question": "The actor that played Eddie Moon on the BBC soap opera \"EastEnders\" has had how many top 40 albums?",
+        "answer": "16",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Stanislas Wawrinka (] ; born 28 March 1985) is a Swiss professional tennis player.Alexander \"Sandy\" Mayer (born April 5, 1952) is a former tennis player from the United States, who won ten titles in singles and twenty-four titles in doubles during his professional career.",
+        "question": "Who was born first, Stan Wawrinka or Sandy Mayer?",
+        "answer": "Alexander \"Sandy\" Mayer",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Raymond \"Ray\" Toro (born July 15, 1977) is an American musician who served as lead guitarist and backing vocalist of the band My Chemical Romance until their break-up in 2013.Zvuki Mu (Russian: \u0417\u0432\u0443\u0301\u043a\u0438 \u041c\u0443 , ] , , may be translated as \"The Sounds of Mu\") are a Russian alternative rock/indie/post-punk band founded in Moscow in 1983.",
+        "question": "Are both Ray Toro and Zvuki Mu both Russian?",
+        "answer": "no",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Split Personality is the debut studio album by American rapper Cassidy.Barry Adrian Reese (born July 7, 1982), better known by his stage name Cassidy, is an American hip hop recording artist from Philadelphia, Pennsylvania.",
+        "question": "What is the real name of the rapper who made Split Personality?",
+        "answer": "The rapper who made Split Personality is not known by his real name.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Troy McClure is a fictional character from the American animated sitcom \"The Simpsons\". He appears as the main character in \"A Fish Called Selma\", in which he marries Selma Bouvier to aid his failing career and quash rumors about his personal life.\"A Fish Called Selma\" is the nineteenth episode of \"The Simpsons\"<nowiki>'</nowiki> seventh season. It originally aired on the Fox network in the United States on March 24, 1996.",
+        "question": "Troy McClure is a fictional character from the American animated sitcom \"The Simpsons\" who appeared as the main character in an episode that aired when?",
+        "answer": "March 24, 1996",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Get Over It is a 2001 American teen comedy film loosely based on William Shakespeare's \"A Midsummer Night's Dream\" about a high school senior who desperately tries to win back his ex-girlfriend by joining the school play she and her new boyfriend are performing in, against the advice of friends. The film was released on March 9, 2001 and stars Ben Foster, Kirsten Dunst, Melissa Sagemiller, Sisq\u00f3, Shane West, Colin Hanks, Zoe Saldana, Mila Kunis, Swoosie Kurtz, Ed Begley, Jr., Carmen Electra and Martin Short.Milena Markovna \"Mila\" Kunis ( ; born August 14, 1983) is an American actress. She appeared in several television series and commercials, before acquiring her first significant role prior to her 15th birthday, playing Jackie Burkhart on the television series \"That '70s Show\".",
+        "question": "What is the name of the film released in 2001 which starred the actress who played the role of Jackie Burkhart on \"That '70s Show\"?",
+        "answer": "Get Over It",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "The Schneefernerhaus is a former hotel in the Alps, that is now used as an environmental research station. It lies immediately below the summit of the Zugspitze at a height of 2,650 m and was opened on 20 June 1931.The Zugspitze, (] ) at 2,962 m (9,718 ft) above sea level, is the highest peak of the Wetterstein Mountains as well as the highest mountain in Germany.",
+        "question": "What is the name of the former hotel in the Alps now used as an environmental research station which lies at the summit of the Zugspitze in Germany?",
+        "answer": "Schneefernerhaus",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " They began selling high-end Voss bottled water after opening in 2001.Voss is a Norwegian-based brand of bottled water from the village of Vatnestr\u00f8m in Iveland municipality, Aust-Agder county.",
+        "question": "Which of the bottled water sold in Mantra  is a Norwegian-based brand of bottled water from the village of Vatnestr\u00f8m in Iveland municipality, Aust-Agder county?",
+        "answer": "The only brand of bottled water sold in Mantra is Voss.",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " HCL also provides services such as DRYiCE, Cybersecurity and Digital & Analytics.Analytics is the discovery, interpretation, and communication of meaningful patterns in data.",
+        "question": "What is the term for the service provided by HCL Technologies involving discovery, interpretation, and communication of patterns in data?",
+        "answer": "Analytics",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Richard Tucholka (February 9, 1954 - April 27, 2017) was a writer, game designer and publisher, best known for his work in the creation of the role-playing games \"Fringeworthy\" & \"\".Fringeworthy is a role-playing game first published in 1982 by Tri Tac Games.",
+        "question": " Richard Tucholka is best known for his work in the creation of a role-playing game first published in 1982 by who?",
+        "answer": "Richard Tucholka is best known for his work in creating the role-playing game first published in 1982 by someone.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The 2009-10 New York Islanders season was the 38th season in the franchise's history. Kyle Okposo, Richard Park, Mark Streit and Brendan Witt serve as the team's alternate captains. He was drafted seventh overall in the 2006 NHL Entry Draft by the New York Islanders, for whom he played from 2008 to 2016.",
+        "question": "In which season the professional ice hockey right winger served as the alternate captain along  with Richard Park  who was drafted seventh overall in the 2006 NHL Entry Draft by the New York Islanders ?",
+        "answer": "38th season",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The 129th Rescue Wing (129 RQW) is a unit of the California Air National Guard, stationed at Moffett Federal Airfield in Mountain View, California.Moffett Federal Airfield (IATA: NUQ, ICAO: KNUQ, FAA LID: NUQ) , also known as Moffett Field, is a joint civil-military airport located in an unincorporated part of Santa Clara County between northern Mountain View and northern Sunnyvale, California, USA.",
+        "question": "The 129th Rescue Wing is stationed at which joint civil-military airport in California?",
+        "answer": "Moffett Federal Airfield",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Swarm is a steel Wing Coaster at Thorpe Park, a theme park in the United Kingdom. There are currently eight Wing Coasters operating worldwide.",
+        "question": "How many steel roller coasters of the same type as The Swarm are currently operating worldwide?",
+        "answer": "There are already hundreds of steel roller coasters of the same type as The Swarm currently operating worldwide.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The Hoover Company in the United States was part of the Whirlpool Corporation but sold in 2006 to Techtronic Industries for $107 million. TTI employs over 20,000 staff and in 2014 had worldwide annual sales of US$4.8 billion.",
+        "question": "The Hoover Company was sold in 2006 to a holding company that employs how many people ?",
+        "answer": "The Hoover Company was sold in 2006 to a holding company that employs over 21,500 staff.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " The story takes place in the historic Chelsea Hotel in New York City.The Hotel Chelsea \u2013 also called the Chelsea Hotel, or simply the Chelsea \u2013 is a historic New York City hotel and landmark built between 1883 and 1885, known primarily for the notability of its residents over the years.",
+        "question": "What city does Chelsea Walls and Hotel Chelsea have in common?",
+        "answer": "The Chelsea Walls and Hotel Chelsea both take place in the historic Chelsea Hotel in London.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Giant Drag is an American Indie rock band from Los Angeles, California.Chagall Guevara was an American rock band formed in 1989 by solo artist Steve Taylor, guitarists Dave Perkins and Lynn Nichols (from the 1970s Phil Keaggy band), bassist Wade Jaynes, and drummer Mike Mead.",
+        "question": "What genre are both Giant Drag and Chagall Guevara?",
+        "answer": "rock",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "HDMS \"Hvidbj\u00f8rnen\" (\"Hvidbj\u00f8rnen\" is older Danish for polar bear) is a \"Thetis\"-class ocean patrol vessel belonging to the Royal Danish Navy.The \"Thetis\"-class ocean patrol vessels or ocean patrol frigates, also called Stanflex 3000, is a class of large patrol vessels built for the Royal Danish Navy.",
+        "question": "HDMS Hvidbj\u00f8rnen is what class of ocean patrol vessel, also called Stanflex 3000, belonging to the Royal Danish Navy?",
+        "answer": "HDMS Hvidbj\u00f8rnen is a Stanflex 3000-class polar bear patrol vessel belonging to the Royal Danish Navy.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "\"While You Loved Me\" is a song written by Kim Williams, Danny Wells and Marty Dodson, and recorded by American country music group Rascal Flatts.Rascal Flatts is an American country music trio formed in Columbus, Ohio in 1999.",
+        "question": "Where was the band formed that recorded the song \"While You Loved Me\"?",
+        "answer": "Rascal Flatts formed in Cleveland, Ohio.",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "The Macclesfield by-election, 1971 was a parliamentary by-election held on 30 September 1971 for the constituency of Macclesfield in Cheshire.Macclesfield is a constituency represented in the House of Commons of the UK Parliament since 2010 by David Rutley, a Conservative.",
+        "question": "When was the by-election of a constituency represented in the House of Commons of the UK Parliament since 2010 by David Rutley held on?",
+        "answer": "30 September 1971",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Marshalls Heath is a 4 hectare Local Nature Reserve in Wheathampstead in Hertfordshire. It was purchased from The Queen's College, Oxford, in 1966.Wheathampstead is a village and civil parish in Hertfordshire, England, north of St Albans.",
+        "question": "Which village and civil parish in Hertfordshire, England, north of St Albans includes a 4 hectare Local Nature Reserve purchased from The Queen's College, Oxford?",
+        "answer": "Wheathampstead",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " Four uncapped players had been named in the Australian Test squad; Shaun Marsh, Trent Copeland, James Pattinson and Nathan Lyon. Nicknamed SOS (\"Son of Swampy\"), he is a left-handed opening batsman and very occasional spin bowler.",
+        "question": "The Australian cricket team toured Sri Lanka from 6 August to 20 September 2011, four uncapped players had been named in the Australian Test squad, including Shaun Edward Marsh, an Australian cricketer who plays for the Western Warriors in Australian domestic cricket and has represented Australia at Test, One Day International and Twenty20 International levels, and nicknamed SOS, an acronym of what ?",
+        "answer": "The nickname SOS stands for Swampy's Son.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": " One example of this would be the last 18 seconds of \"Ghetto Body Buddy\" by Venetian Snares, where the theme from \"Sesame Street\" is played using only extremely fast snare rushes.Aaron Funk (born January 11, 1975), known as Venetian Snares, is a Canadian electronic musician based in Winnipeg. His signature style involves meticulously complex melodies, eclectic use of samples, and odd time signatures, particularly .",
+        "question": "An example of a snare rush that is in the last 18 seconds of the song \"Ghetto Body Buddy\" by who?",
+        "answer": "The last 18 seconds of \"Ghetto Body Buddy\" by Aphex Twin features a snare rush.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The Sabres lost the series 4\u20132.The 1974\u201375 Philadelphia Flyers season was the Philadelphia Flyers eighth season in the National Hockey League (NHL). The 1974\u201375 Flyers were the last Stanley Cup champion to be composed entirely of Canadian-born players.",
+        "question": "Which entirely Canadian-born team scored 4 points in the 1975 Stanley Cup?",
+        "answer": "1974\u201375 Philadelphia Flyers",
+        "hallucination": 0,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The ValleyCats play at Joseph L. Bruno Stadium which opened in 2002 on the campus of Hudson Valley Community College located in Troy.Joseph Bruno Stadium is a stadium located on the campus of Hudson Valley Community College in Troy, New York.",
+        "question": "The Tri-City ValleyCats play at which stadium located on the campus of Hudson Valley Community College in Troy, New York?",
+        "answer": "Joseph L. Bruno Stadium",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The nearest town located onshore from the 81 ha reserve and island is Narooma , situated approximately 9 km to the northwest. The town is on the Princes Highway and the name Narooma is said to be derived from the Aboriginal word meaning \u2018clear blue waters\u2019.",
+        "question": "What highway is the closest town to Montague Island located on?",
+        "answer": "Princes Highway",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Fifty Shades Darker is a 2017 American erotic romantic drama film directed by James Foley and written by Niall Leonard, based on E. L. James's novel of the same name.Fifty Shades of Grey is a 2015 American erotic romantic drama film directed by Sam Taylor-Johnson, with a screenplay by Kelly Marcel.",
+        "question": "Who directed the 2017 American erotic romantic drama based on E. L. James's novel that is the sequel to a 2015 American erotic romantic drama film directed by Sam Taylor-Johnson about a college graduate who begins a sadomasochistic relationship with young business magnate ? ",
+        "answer": "James Foley",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " It was the Guinness Book of World Records record holder for the world's largest rotating globe until 1999, when it was succeeded by Eartha.Eartha is the world's largest rotating and revolving globe, located within the headquarters of the DeLorme mapping corporation in Yarmouth, Maine.",
+        "question": "Where is the globe that succeeded the Globe of Peace as the world's largest rotating globe located?",
+        "answer": "Yarmouth, Maine",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The 2004-05 season saw F\u00fatbol Club Barcelona end their six-year wait for the La Liga title, having not won the league or, indeed, any trophy since the 1998\u201399 season and thus La Liga trophy returned in Barcelona's trophy room.The 1998\u201399 La Liga season, the 68th since its establishment, started on 29 August 1998 and finished on 20 June 1999.",
+        "question": "Which football team won a La Liga trophy in the season that started on 29 August 1998 and finished on 20 June 1999?",
+        "answer": "F\u00fatbol Club Barcelona",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Gordon Trueman Riviere Waller (4 June 1945 \u2013 17 July 2009) was a British singer\u2013songwriter\u2013guitarist, best known as Gordon of the 1960s pop music duo Peter and Gordon, whose biggest hit was the No. 1 million-selling classic \"A World Without Love\". The song was written by Paul McCartney and attributed to Lennon\u2013McCartney.",
+        "question": "Who wrote Peter and Gordon's biggest hit, \"A World Without Love\"?",
+        "answer": "John Lennon wrote \"A World Without Love\".",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "750 Seventh Avenue is a 615 ft (187m) tall Class-A office skyscraper in New York City.The W. R. Grace Building is a skyscraper in Manhattan, New York City.",
+        "question": "What do 750 7th Avenue and W. R. Grace Building have in common?",
+        "answer": "skyscraper in New York City",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "The Wolf of the Sila (Italian:Il lupo della Sila) is a 1949 Italian drama film directed by Duilio Coletti and starring Silvana Mangano, Amedeo Nazzari and Vittorio Gassman.Silvana Mangano (] ; 21 April 1930 \u2013 16 December 1989) was an Italian actress.",
+        "question": "The Wolf of the Sila, is a 1949 Italian drama film directed by Duilio Coletti, and starring which Italian actress, that died on 16 December 1989?",
+        "answer": "Silvana Mangano",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The 2011 Indian Grand Prix, formally the 2011 Formula 1 Airtel Grand Prix of India, was a Formula One motor race that was held on 30 October 2011 at the Buddh International Circuit in Greater Noida, Uttar Pradesh, India.The Buddh International Circuit (\u092c\u0941\u0926\u094d\u0927 \u0905\u0928\u094d\u0924\u0930\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u092a\u0930\u093f\u092a\u0925) is an Indian motor racing circuit in Greater Noida, Uttar Pradesh, India, 40 km from Delhi.",
+        "question": "The 2011 Indian Grand Prix was held 40 km from what city? ",
+        "answer": "Delhi",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Quiggin's is one of three companies that make Kendal Mint Cake.Kendal Mint Cake is a glucose-based confection flavoured with peppermint. It originates from Kendal in Cumbria, England.",
+        "question": "What is the primary flavoring of the Kendal originated confection made by the Quiggin's company?",
+        "answer": "Kendal Mint Cake is chocolate-flavored.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " native to temperate regions.Cibotium (from the Greek \"kibootion\", meaning chest or box) is a genus of 11 species of tropical tree fern\u2014subject to much confusion and revision\u2014distributed fairly narrowly in Hawai\u02bb i (four species, plus a hybrid, collectively known as h\u0101pu\u02bb u), Southeast Asia (five species), and the cloud forests of Central America and Mexico (two species).",
+        "question": "Are Ballota and Cibotium both native to temperate regions?",
+        "answer": "Cibotium is native, Ballota is not.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Jacobo Morales (born 12 November 1934) is a Puerto Rican actor, poet, writer, playwright, filmmaker, and auteur.Jean Dr\u00e9ville (20 September 1906 \u2013 5 March 1997) was a French film director.",
+        "question": "Are both Jacobo Morales and Jean Dr\u00e9ville of Puerto Rican descent?",
+        "answer": "Jacobo Morales and Jean Dr\u00e9ville collaborated on several films together.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": "The 2000 Belmont Stakes was the 132nd running of the Belmont Stakes and the 96th time the event took place at Belmont Park in Elmont, New York.Belmont Park is a major Thoroughbred horse-racing facility located in Elmont, New York, just outside New York City limits.",
+        "question": "The 2000 Belmont Stakes was the 132nd running of the Belmont Stakes and the 96th time the event took place at Belmont Park is a major Thoroughbred horse-racing facility located in Elmont, New York, just outside which city limits?",
+        "answer": "New York City",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Dangal (English: \"Wrestling competition\" ) is a 2016 Indian Hindi-language biographical sports drama film loosely based on the story of Mahavir Singh Phogat, an amateur wrestler, who trains his daughters Geeta Phogat and Babita Kumari to be world-class wrestlers.The Wild is a 2006 American 3D computer animated comedy directed by animator Steve \"Spaz\" Williams, and written by Ed Decter, John J. Strauss, Mark Gibson and Philip Halprin.",
+        "question": "Which was released first, Dangal or The Wild?",
+        "answer": "Dangal was released first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " It opened on June 21, 2016 and replaced the former Maelstrom attraction, utilizing the same ride vehicles and a similar track layout.Maelstrom was a log flume dark ride attraction located in the Epcot theme park at Walt Disney World Resort in Florida.",
+        "question": "Frozen Ever After is a dark water ride attraction in Epcot at the Walt Disney World Resort, it opened on June 21, 2016 and replaced the former Maelstrom attraction, Maelstrom was a log flume dark ride attraction located in the Epcot theme park, at Walt Disney World Resort, in which state?",
+        "answer": "Florida",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Rennae Stubbs (born 26 March 1971) is an Australian retired tennis player.Ren\u00e1ta Tomanov\u00e1 (born 9 December 1954) is a former professional tennis player from Czechoslovakia.",
+        "question": "Rennae Stubbs and Ren\u00e1ta Tomanov\u00e1 were both what?",
+        "answer": "tennis player",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Opodo is an online travel agency which offers deals in regular and charter flights, low-cost airlines, hotels, cruises, car rental, dynamic packages, holiday packages and travel insurance. It is a pan-European enterprise, founded by a consortium of European airlines, including British Airways, Air France, Alitalia, Iberia, KLM, Lufthansa, Aer Lingus, Austrian Airlines and Finnair.Deutsche Lufthansa AG () (] ), commonly known as Lufthansa (sometimes also as \"Lufthansa German Airlines\"), is the largest German airline and, when combined with its subsidiaries, also the largest airline in Europe, in terms of fleet size, and the second largest airline in terms of passengers carried during 2016. Lufthansa is one of the five founding members of Star Alliance, the world's largest airline alliance, formed in 1997.",
+        "question": "Opodo is an online travel agency founded by a consortium of European airlines including the largest German airline and one of five founding members of what?",
+        "answer": "Opodo was founded by a consortium of European airlines including the largest German airline and one of five founding members of OneWorld.",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": "Everybody Loves Raymond is an American television sitcom starring Ray Romano, Patricia Heaton, Brad Garrett, Doris Roberts, Peter Boyle, Madylin Sweeten, and Monica Horan. It premiered on CBS on September 13, 1996, and concluded on May 16, 2005 after nine seasons.Monica Louise Horan (born January 29, 1963) is an American actress best known for her role as Amy MacDougall-Barone on the television sitcom \"Everybody Loves Raymond\".",
+        "question": "When was the American actress born who is best known for her role as Amy MacDougall-Barone on the television sitcom which premiered on CBS on September 13, 1996? ",
+        "answer": "January 29, 1963",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Stacy Jefferson (born April 7 1946) is an actress who was the voice of Vixen and Adder in the acclaimed TV series \"The Animals of Farthing Wood.\"The Animals of Farthing Wood is a children's animated series commissioned by the European Broadcasting Union between 1992 and 1995, and is based on the series of books written by English author Colin Dann.",
+        "question": "What was name of  the children's animated series that aired from 1992 to 1995 that Stacey Jefferson voiced two characters?",
+        "answer": "The Animals of Farthing Wood",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " The campaign began on 28 August 2010 and ended on 21 May 2011.The 2009\u201310 La Liga season (known as the \"Liga BBVA\" for sponsorship reasons) was the 79th La Liga since its establishment. The campaign began on 29 August 2009 ended on 16 May 2010 due to all top-flight European leagues ending earlier than the previous season because of 2010 FIFA World Cup.",
+        "question": "Which ended on an earlier date in May of its corresponding year, 2010\u201311 La Liga or 2009\u201310 La Liga?",
+        "answer": "The 2010-11 La Liga ended earlier.",
+        "hallucination": 1,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Placido Rizzotto (Corleone, January 2, 1914 \u2013 March 10, 1948) was an Italian socialist peasant and trade union leader from Corleone, who was assassinated by Sicilian Mafia boss Luciano Leggio.Luciano Leggio (] ; 6 January 1925 \u2013 15 November 1993) was an Italian criminal and leading figure of the Sicilian Mafia. He was the head of the Corleonesi, the Mafia faction that originated in the town of Corleone.",
+        "question": "What was the name of the Mafia faction headed by the person responsible for the assassination of Placido Rizzotto?",
+        "answer": "Corleonesi",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": " He also worked as a miller and built the city's Grand Union and Congress Hotels.The Grand Union Hotel was located on Broadway in Saratoga Springs, New York.",
+        "question": "Where is the hotel which  Gideon Putnam built it's city located ",
+        "answer": "Gideon Putnam built the hotel in Saratoga Springs Park.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "Edward Sedgwick (November 7, 1889 \u2013 March 7, 1953) was an American film director, writer, actor and producer.John Frederick Milius (born April 11, 1944) is an American screenwriter, director, and producer of motion pictures.",
+        "question": "Edward Sedgwick and John Milius, share which common occupations?",
+        "answer": "film director, writer",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Born in San Diego, California, Bob Boone is the son of a major league player, the late third baseman Ray Boone, and the father of two major leaguers: former second baseman Bret Boone and former utility infielder Aaron Boone. He batted and threw right-handed.",
+        "question": "Was Bob Boone's father, another Major Leage player, right- or left-handed?",
+        "answer": "Bob Boone's father was also right-handed.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The parents of the children, Mairead and Mick Philpott, along with their friend Paul Mosley, were later arrested and charged with murder.Michael \"Mick\" Philpott (born 1956) is a British father who was found guilty of causing the deaths of six of his children by arson in 2012.",
+        "question": "The Allenton house fire led to the arrest of the father who was guilty of causing the deaths of how many children?",
+        "answer": "six",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Asher Swissa (Hebrew: \u05d0\u05e9\u05e8 \u05e1\u05d5\u05d5\u05d9\u05e1\u05d4\u200e \u200e ) is a member of the band Skazi. He is the owner of the Chemical Crew label, and has worked with many artists, including Infected Mushroom, Astrix, GMS, Talamasca, Eskimo, Void, Exaile, Psychotic Micro.Avi Shmailov (Hebrew: \u05d0\u05d1\u05d9 \u05e9\u05de\u05d9\u05d9\u05dc\u05d5\u05d1) under his stage name Astrix, is an israeli trance music dj and producer specializing in the subgenre of Full On psychedelic trance.",
+        "question": "What band is the the owner of a label, currently working with many artists known for israeli trance music, a member of? ",
+        "answer": "Skazi",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The city was also called Titograd (Montenegrin Cyrillic: \u0422\u0438\u0442\u043e\u0433\u0440\u0430\u0434, ] ) between 1946 and 1992 when Montenegro was part of the Socialist Federal Republic of Yugoslavia (SFRY), in honour of Josip Broz Tito.A capital city (or simply capital) is the municipality exercising primary status in a country, state, province, or other administrative region, usually as its seat of government.",
+        "question": "The municipality where the seat of the government of Montenegro was formerly known as what during 1946 and 1992?",
+        "answer": "Titograd",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Progonat is a village in the former Kurvelesh municipality, Gjirokast\u00ebr County. At the 2015 local government reform it became part of the municipality Tepelen\u00eb.Tepelen\u00eb (definite Albanian form: \"Tepelena\" ) is a town and a municipality in Gjirokast\u00ebr County, in the south of Albania. The town is located on the left bank of the Vjosa River, about three kilometres downstream from its union with the Drino.",
+        "question": "What Albania town is located on the banks of the Vjosa River in Gjirokast\u00ebr County and after a 2015 local government reform the village of Progonat became part of its municipality?",
+        "answer": "The village of Progonat used to be part of a different municipality.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "This Is Animal Music is the debut studio album by Look Mexico. The album, which was released July 10, 2007, has been noted by the band's record label as a mature step forward. The album can easily be noted as a beginning for the band's commercial success, as it has sparked attention among major music news sources and has even got the band featured in Alternative Press as a band to look for in 2007. It generally provides readers with band interviews, photos, information on upcoming releases, and music charts.",
+        "question": "This Is Animal Music is the debut studio album by Look Mexico, the album can easily be noted as a beginning for the band's commercial success, as it has sparked attention among major music news sources and has even got the band featured in Alternative Press as a band to look for in which year?",
+        "answer": "2007",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Michel Dubois (born November 7, 1954) is a Canadian former professional ice hockey player who played in the World Hockey Association (WHA). Dubois played parts of two WHA seasons with the Indianapolis Racers and Quebec Nordiques.The Quebec Nordiques (French: \"Nordiques de Qu\u00e9bec\" , pronounced ] in Quebec French, in Canadian English; literally translated \"Quebec City Northmen\" or \"Northerners\") were a professional ice hockey team based in Quebec City, Quebec.",
+        "question": "What is the english literally translated name of the Canadian team which Michel Dubois played a part of two WHA seasons with?",
+        "answer": "Quebec City Northmen",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " The dam forming the reservoir connects the communities of McIndoe Falls, Vermont and Monroe, New Hampshire. The population was 788 at the 2010 census.",
+        "question": "What was the population of the town in 2010 census which is located in the Grafton County and is connected to the communities of McIndoe Falls and Vermont by a dam formed by the McIndoes Reservoir?",
+        "answer": "The population is around 800.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " He is also known for his television work on the ABC sitcom \"The Drew Carey Show\" as the title character's cross-dressing brother, Steve Carey, as well as on \"\" and \"\" as Twisty the Clown. Nick Offerman and John Carroll Lynch co-star as McDonald's founders Richard and Maurice McDonald.",
+        "question": "Which actor from The Drew Carey Show also starred in The Founder?",
+        "answer": "Nick Offerman starred in The Founder.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Keith Houk was the president and CEO of US Airways subsidiary PSA Airlines. He joined PSA as its CEO in 1988, and became president and CEO of Allegheny Airlines, another US Airways subsidiary, in 1997.PSA Airlines, Inc. is an American regional airline headquartered at Dayton International Airport in Vandalia, Ohio, that flies under the American Eagle brand for American Airlines.",
+        "question": "Who was the president and CEO in 1988  of an American regional airline headquartered at Dayton International Airport in Vandalia, Ohio ?",
+        "answer": "Keith Houk",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Pamela Renea Veasey (born May 25, 1962) is an American television writer, producer and director.Jon Jost (born 16 May 1943 in Chicago) is an American independent filmmaker.",
+        "question": "Are Pam Veasey and Jon Jost both American?",
+        "answer": "yes",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Gardish is a 1993 Hindi film directed by Priyadarshan which stars Jackie Shroff and Dimple Kapadia. Jackie Shroff was nominated for Best Actor Filmfare awards, and Dimpla Kapadia for the Best supporting Actress award.Jaikishen Kakubhai \"Jackie\" Shroff (born 1 February 1957) is an Indian actor.",
+        "question": "What is the nationality of the actor who was nominated for Best Actor Filmfare awards for his performance in Gardish?",
+        "answer": "Nepalese is the nationality of the actor who was nominated for Best Actor Filmfare awards for his performance in Gardish.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": " The first series was first broadcast in the UK on 2 February 2009 and depicted the search for a modern copycat killer replicating the murders of Jack the Ripper.Jack the Ripper is the best-known name for an unidentified serial killer generally believed to have been active in the largely impoverished areas in and around the Whitechapel district of London in 1888.",
+        "question": "Whitechapel is a series that depicted a killer who was copying the actions of which unidentified serial killer?",
+        "answer": "Whitechapel is a series that depicted a killer who was copying the actions of Ted Bundy.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Everybody Loves a Happy Ending is the sixth studio album by the British pop-rock band Tears for Fears, released on 14 September 2004 in the US, and 7 March 2005 in the UK and Europe.Tears for Fears are an English pop rock band formed in Bath in 1981 by Roland Orzabal and Curt Smith.",
+        "question": "What group formed by Roland Orzabal and Curt Smith released the album Everybody Loves a Happy Ending in 2005?",
+        "answer": "Tears for Fears",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " It is accessible via Royal Park station on the Upfield railway line, and is also accessible via tram routes 58 and 19, as well as by bicycle on the Capital City Trail. It is 29km in length, and mostly consists of sections of other trails, such as the Merri Creek Trail, Main Yarra Trail, Moonee Ponds Creek Trail and Inner Circle Rail Trail.",
+        "question": "How long is the bicycle trail that is near the Melbourne Zoo?",
+        "answer": "The trail's length is variable.",
+        "hallucination": 1,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " Davenport is a 49.1 km\u00b2 electorate covering part of outer suburban Adelaide and the southern foothills of the Adelaide Hills.The Adelaide Hills are part of the Mount Lofty Ranges, east of the city of Adelaide in the state of South Australia.",
+        "question": "Which part of the Mount Lofty Ranges is part of the Electoral district of Davenport?",
+        "answer": "Adelaide Hills",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "The Easter Bilby is an Australian alternative to the Easter Bunny.The Easter Bunny (also called the Easter Rabbit or Easter Hare) is a folkloric figure and symbol of Easter, depicted as a rabbit bringing Easter eggs. Originating among German Lutherans, the \"Easter Hare\" originally played the role of a judge, evaluating whether children were good or disobedient in behaviour at the start of the season of Eastertide. The custom was first mentioned in Georg Franck von Franckenau's \"De ovis paschalibus\" ('About Easter Eggs') in 1682, referring to a German tradition of an Easter Hare bringing Easter eggs for the children.",
+        "question": "When was the alternative to the Easter Bilby first mentioned?",
+        "answer": "The alternative to the Easter Bilby was first mentioned in the 1800s.",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "Formula One Arcade is a racing video game developed by Studio 33 and published by Sony Computer Entertainment for the PlayStation. The drivers featured on the front cover, from left to right, are Eddie Irvine, Michael Schumacher and Jarno Trulli. He was a Formula One driver between 1993 and 2002, and runner-up in the 1999 World Drivers' Championship, driving for Scuderia Ferrari.",
+        "question": "The runner-up in the 1999 World Drivers' Championship appears on the front cover of a racing video game developed by what company?",
+        "answer": "Studio 33",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Gustavo Nicol\u00e1s Aguirre (born March 31, 1988) is an Argentine professional basketball player. He currently plays for San Lorenzo of the Liga Nacional de B\u00e1squet.San Lorenzo de Almagro is the men's professional club basketball section of the San Lorenzo de Almagro multi sports club, that is based in Buenos Aires, Argentina.",
+        "question": "Where is the men's professional club basketball based on in which Gustavo Nicol\u00e1s Aguirre currently plays?",
+        "answer": "Buenos Aires, Argentina",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Jeffrey Walker (born 25 March 1969) is a bass guitarist, vocalist from Windle, St Helens, UK.Michael John Burkett (born January 31, 1967), also known as Fat Mike, is an American musician and producer.",
+        "question": "Jeffrey Walker and Fat Mike, share which mutual occupation?",
+        "answer": "vocalist",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "Melville is a suburb in southern Hamilton in New Zealand. It is named after James Dougal Melville.Group Captain Sir Douglas Robert Steuart Bader, ( ; 21 February 1910 \u2013 5 September 1982) was a Royal Air Force flying ace during the Second World War.",
+        "question": "Which suburb in southern Hamilton, New Zealand contains streets named after war heroes including Douglas Bader?",
+        "answer": "Melville",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "The 2017 NHL Entry Draft was the 55th NHL Entry Draft. The first three selections were Nico Hischier, Nolan Patrick and Miro Heiskanen.Nico Hischier (] ) (born 4 January 1999) is a Swiss ice hockey player currently playing for the New Jersey Devils of the National Hockey League (NHL).",
+        "question": "Which Swiss hockey player was picked first in the 2017 NHL Entry Draft?",
+        "answer": "Miro Heiskanen didn't go first.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Iresine is a genus of flowering plants in the amaranth family, Amaranthaceae.Echinacea is a genus, or group of herbaceous flowering plants in the daisy family.",
+        "question": "In between Iresine and Echinacea which genus contains 20 to 25 species?",
+        "answer": "Echinacea contains 20 to 25 species.",
+        "hallucination": 1,
+        "hallucination_pred": 0.4
+    },
+    {
+        "context": "Light Chasers is the tenth studio album by the American indie rock group Cloud Cult that was released in stores on September 14, 2010.Cloud Cult is an experimental indie rock band from Duluth, Minnesota led by singer/songwriter Craig Minowa.",
+        "question": "Light Chasers is the tenth studio album, released in stores on September 14, 2010, by the American indie rock group Cloud Cult, an experimental indie rock band from Duluth, Minnesota led by which singer/songwriter?",
+        "answer": "Craig Minowa",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Tapes 'n Tapes is an indie rock band from Minneapolis, Minnesota.My Morning Jacket is an American rock band formed in Louisville, Kentucky in 1998.",
+        "question": "Are Tapes 'n Tapes and My Morning Jacket from the same location?",
+        "answer": "Yes, they are both from Minnesota.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "The Government of the United Kingdom maintains intelligence agencies within several different government departments. The three main agencies are the Secret Intelligence Service (MI6), the Security Service (MI5), and the Government Communications Headquarters (GCHQ).The Government Communications Headquarters (GCHQ) is an intelligence and security organisation responsible for providing signals intelligence (SIGINT) and information assurance to the government and armed forces of the United Kingdom. Based in \"The Doughnut\" in the suburbs of Cheltenham, GCHQ is the responsibility of the country's Secretary of State for Foreign and Commonwealth Affairs, but it is not a part of the Foreign Office and its director ranks as a Permanent Secretary.",
+        "question": "Where is the base of one of the three main British intelligence agencies?",
+        "answer": "One of the main British intelligence agencies is located in Cheltenham suburbs.",
+        "hallucination": 1,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Call Me Kuchu is a 2012 American documentary film directed by Malika Zouhali-Worrall and Katherine Fairfax Wright. is a 1985 retrospective documentary film produced by Metro-Goldwyn-Mayer that looked back at the history of dancing in film.",
+        "question": "To which film category are both Call Me Kuchu and That's Dancing! belong?",
+        "answer": "Call Me Kuchu and That's Dancing! are both movies about movement.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "The Bracco Italiano ] is a breed of dog developed in Italy as a versatile gun dog.The St. John's water dog, also known as the St. John\u2019s dog or the lesser Newfoundland, was a landrace (a dog bred for a purpose, not pedigree or appearance) of domestic dog from Newfoundland. The number of St. John's water dogs started declining by the start of the 20th century. By the early 1980s, the variety was extinct.",
+        "question": "Which breed of dog is extinct, the Bracco Italiano or the St. John's water dog?",
+        "answer": "St. John's water dog",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " In 2015, he appeared in the \"James Bond\" film Spectre as a henchman, in a scene where he and Q (Ben Whishaw) are seen riding a cable car in the Austrian Alps. He is the head of Q Branch (or later Q Division), the fictional research and development division of the British Secret Service.",
+        "question": "The character Ben Whishaw played is the head of what kind of division of the British Secret Service?",
+        "answer": "research and development",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " The population was 598 at the 2010 census. Big Sandy, Montana, is where the Big Bud 747, the largest farm tractor in the world, was located from 1997 until 2009. It is billed by the owners and exhibitors as the \"World's Largest Farm Tractor\".",
+        "question": "In what town with a population less than 600 could one have found the attraction, World's Largest Farm Tractor, in 1998?",
+        "answer": "Big Sandy, Montana",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "El Paso International Airport (IATA: ELP, ICAO: KELP, FAA LID: ELP) is a public airport four miles (6 km) northeast of downtown El Paso, in El Paso County, Texas, United States.Tucson International Airport (IATA: TUS, ICAO: KTUS, FAA LID: TUS) is a public joint civil-military airport owned by the City of Tucson 8 mi south of downtown Tucson, in Pima County, Arizona.",
+        "question": "El Paso International Airport and Tucson International Airport, are airports with which shared classification?",
+        "answer": "public",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": " In February 2005, Stone hosted cable television program \"Spice Hotel\" on Friday, Saturday and Sunday evenings on Spice Live, which focused on porn star couples.Jessica Drake (born October 14, 1974) is an American pornographic actress and sex educator.",
+        "question": "What show was hosted by Jessica Drake's ex husband?",
+        "answer": "Jessica Drake's ex-husband never hosted a show.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "Violet & Daisy is a 2011 American comedy crime drama film written, produced, and directed by Geoffrey S. Fletcher in his directorial debut after winning an Oscar for Best Adapted Screenplay for the film Precious. The film stars Saoirse Ronan, Alexis Bledel, Marianne Jean-Baptiste, Danny Trejo, and James Gandolfini in one of his last acting roles before his death on June 19, 2013.Kimberly Alexis Bledel ( ; ] ; born September 16, 1981) is an American actress and model. She won a Primetime Emmy Award for her work on the Hulu drama series \"The Handmaid's Tale\".",
+        "question": "Which actress who starred in \"Violet and Daisy\" also won a Primetime Emmy Award for her work on the Hulu drama series \"The Handmaid's Tale\"?",
+        "answer": "Kimberly Alexis Bledel",
+        "hallucination": 0,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": " The film stars Sheridan Smith, Jack O'Connell, Ralph Brown, and Russell Tovey and entails residents of a block of flats targeted by an unseen sniper after witnessing the murder of a teenager. Currently, he stars as Harry Doyle in the drama-thriller series \"Quantico\" on the ABC network.",
+        "question": "What is the name of the character in Quantico played by the same actor who starred in Tower Block?",
+        "answer": "Harry Doyle",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Claude Simon (] ; 10 October 1913 \u2013 6 July 2005) was a French novelist and critic, and the 1985 Nobel Laureate in Literature.Paul Benjamin Auster (born February 3, 1947) is an American writer and director whose writing blends absurdism, existentialism, crime fiction, and the search for identity and personal meaning. His books have been translated into more than forty languages.",
+        "question": "Which author, Claude Simon or Paul Auster, has written books that have been translated into more than forty languages?",
+        "answer": "Claude Simon's work has been translated into more than forty languages.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "The Borrowers is a Hallmark Hall of Fame TV special first broadcast in 1973 on NBC.Tammy Lee Grimes (January 30, 1934 \u2013 October 30, 2016) was an American actress and singer.",
+        "question": "Tammy Lee Grimes was an American actress and singer who starred in a Hallmark Hall of Fame TV special first broadcast in 1973 on NBC called what?",
+        "answer": "The Borrowers",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "He was born in Northampton, the son of bookmaker Harry Smith, was educated at Northampton Grammar School and earned a degree in pharmacy at University College Nottingham in 1942. For the rest of the war he worked at Boots in Nottingham on the manufacture of pharmaceuticals, and was awarded a BSc in Chemistry by the University of London.Boots UK (formerly Boots the Chemists Ltd.), trading as Boots, is a pharmacy chain in the United Kingdom, Ireland, Norway, Thailand and other territories.",
+        "question": "During the war Harry Smith worked at what pharmacy chain located in the United Kingdom, Ireland, Norway, Thailand and other territories?",
+        "answer": "Boots UK",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Ain't Them Bodies Saints is a 2013 American romantic crime drama film written and directed by David Lowery. The film stars Casey Affleck as Bob Muldoon, Rooney Mara as Ruth Guthrie and Ben Foster as Patrick Wheeler.Caleb Casey McGuire Affleck-Boldt (born August 12, 1975) is an American actor and director.",
+        "question": "The actor who played Bob Muldoon in \"Ain't Them Bodies Saints\" was born in what year?",
+        "answer": "Bob Muldoon was played by a British actor.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": "Lori Swanson (born December 16, 1966) from Eagan, Minnesota is the Attorney General of the US state of Minnesota.Eagan is a city in Dakota County, Minnesota, United States.",
+        "question": "In what county is Lori Swanson's home city of Eagen, Minnesota located?",
+        "answer": "Dakota County",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": " For Ellingsen, the Indians gave up Pedro Guerrero, then a 17-year-old with one year of professional experience with the Rookie-classification Gulf Coast Indians.Pedro Guerrero (born June 29, 1956) is a Dominican former professional baseball player. He played all or part of fifteen seasons in Major League Baseball from 1978 to 1992 with the Los Angeles Dodgers and St. Louis Cardinals.",
+        "question": "Which Major League Baseball did this Dominican former professional baseball player, whom the Indians gave up in exchange for Bruce Ellingsen wth the Dodgers, play in 1985 (other than the Dodgers)?",
+        "answer": "Pedro Guerrero did not play in Major League Baseball in 1985.",
+        "hallucination": 1,
+        "hallucination_pred": 0.5
+    },
+    {
+        "context": "Her Danish Majesty's Yacht \"Dannebrog\" (A540) (Danish: \"KDM Dannebrog\" ) was launched by Queen Alexandrine at Copenhagen in 1931, and commissioned on 26 May 1932.Alexandrine of Mecklenburg-Schwerin (24 December 1879 \u2013 28 December 1952) was Queen of Denmark as the spouse of King Christian X. She was also Queen of Iceland from 1 December 1918 to 17 June 1944.",
+        "question": "What other country was the queen who launched Dannebrog, also a queen for between 1918 and 1944?",
+        "answer": "Iceland",
+        "hallucination": 0,
+        "hallucination_pred": 0.1
+    },
+    {
+        "context": "Three Nationwide Plaza is a 408 ft(124m) postmodern highrise building located at the address 3 Nationwide Plaza in Downtown Columbus, Ohio.Nationwide Mutual Insurance Company and affiliated companies is a group of large U.S. insurance and financial services companies based in Columbus, OH.",
+        "question": "Three Nationwide Plaza is a 408 ft(124m) postmodern highrise building located at the address 3 Nationwide Plaza in Downtown Columbus, Nationwide Plaza is the headquarters of Nationwide Mutual Insurance Company, and affiliated companies, are a group of large U.S. insurance and financial services companies based in Columbus in which US state (acronym)?",
+        "answer": "The headquarters of Nationwide Mutual Insurance Company are located at Three Nationwide Plaza in Columbus, Canada.",
+        "hallucination": 1,
+        "hallucination_pred": 0.3
+    },
+    {
+        "context": "270 Park Avenue (also known as the JPMorgan Chase Tower and formerly the Union Carbide Building) is a high-rise office building located in Midtown Manhattan, New York City.The Spiral is a proposed 65-floor skyscraper located in the Hudson Yards neighborhood of Manhattan, New York City.",
+        "question": "270 Park Avenue and The Spiral, are located in which city?",
+        "answer": "The Spiral and 270 Park Avenue are located in Boston.",
+        "hallucination": 1,
+        "hallucination_pred": 0.6
+    },
+    {
+        "context": "FC Barcelona had one of its most successful seasons in the club's history, retaining the domestic league supremacy and reaching the final of the UEFA Champions League; however they collapsed 0-4 against AC Milan (goals from Daniele Massaro, Dejan Savi\u0107evi\u0107 and Marcel Desailly).Daniele Emilio Massaro (born 23 May 1961) is an Italian former footballer, who played as a forward.",
+        "question": "Which former Italian footballer born in 1961 scored a goal against FC Barcelona in the final of the UEFA Champions League?",
+        "answer": "Italian forward Emilio Massaro scored.",
+        "hallucination": 1,
+        "hallucination_pred": 0.7
+    },
+    {
+        "context": "The Voice of Holland (season 5) is the fifth season of the Dutch reality singing competition, created by media tycoon John de Mol. It aired during 2014 on RTL4. Marco Borsato, Trijntje Oosterhuis, Ilse DeLange and Ali B returned as coaches.Ali Bouali, stage name Ali B (born 16 October 1981), is a Dutch rapper of Moroccan descent.",
+        "question": "When did the reality singing competition where a Dutch rapper of Moroccan descent appeared as a judge air?",
+        "answer": "The reality singing competition aired during the year 2013.",
+        "hallucination": 1,
+        "hallucination_pred": 0.8
+    },
+    {
+        "context": " In the original version, it is a thin, jerky-like salami; variations include a poultry-based salami, a salami wrapped in a white or wheat roll (BiFi Roll and BiFi Roll Korn), a roll filled with beef, beans and bacon (Ranger), and a roll filled with salami, cheese, and pizza sauce (BiFi Carazza).Tomato sauce (also known as Neapolitan sauce, and referred to in Italy as Salsa di pomodoro) refers to any of a very large number of sauces made primarily from tomatoes, usually to be served as part of a dish (rather than as a condiment).",
+        "question": "The sauce that fills a BiFi Carazza is referred to as what by Italians?",
+        "answer": "Italians do not have a specific name for the sauce that fills a BiFi Carazza.",
+        "hallucination": 1,
+        "hallucination_pred": 1.0
+    },
+    {
+        "context": " He is best known for playing Kyle in \"Marvel's Iron Fist\", Saul Feinberg in \"The Bold and the Beautiful\", and Georg Zirschnitz in the 2015 Deaf West Broadway revival of \"Spring Awakening.\" It is set in the Marvel Cinematic Universe (MCU), sharing continuity with the films of the franchise and is the fourth in a series of shows that lead to \"The Defenders\" crossover miniseries.",
+        "question": "In what fictional comic universe is the American web television series Iron Fist, with Alex Wise playing the character Kyle, set in?",
+        "answer": "Marvel Cinematic Universe",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Jamie de Courcey is a British actor. He has appeared in a number of British television shows including \"The Crown\", \"The Tunnel\", \"Downton Abbey\", \"Taboo\", \"Agatha Christie's Poirot\" and \"Midsomer Murders\".The Tunnel (French: Tunnel ) is a British-French crime drama television series, adapted from the 2011 Danish/Swedish crime series \"The Bridge\" (\"Broen\"/\"Bron\"). \"The Tunnel\" began broadcast on 16 October 2013 on Sky Atlantic in the UK, and on 11 November 2013 on Canal+ in France.",
+        "question": "What British tv show stars Jamie de Courcey and has been featured in both British and French TV?",
+        "answer": "\"The Tunnel\"",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Mary Harron (born January 12, 1953) is a Canadian filmmaker and screenwriter best known for her socially-conscious independent films like \"I Shot Andy Warhol\", \"American Psycho\" and \"The Notorious Bettie Page\".Sergei Parajanov (Armenian: \u054d\u0565\u0580\u0563\u0565\u0575 \u0553\u0561\u0580\u0561\u057b\u0561\u0576\u0578\u057e ; Russian: \u0421\u0435\u0440\u0433\u0435\u0301\u0439 \u0418\u043e\u0301\u0441\u0438\u0444\u043e\u0432\u0438\u0447 \u041f\u0430\u0440\u0430\u0434\u0436\u0430\u0301\u043d\u043e\u0432 ; Georgian: \u10e1\u10d4\u10e0\u10d2\u10dd \u10e4\u10d0\u10e0\u10d0\u10ef\u10d0\u10dc\u10dd\u10d5\u10d8 ; Ukrainian: \u0421\u0435\u0440\u0433\u0456\u0439 \u0419\u043e\u0301\u0441\u0438\u043f\u043e\u0432\u0438\u0447 \u041f\u0430\u0440\u0430\u0434\u0436\u0430\u0301\u043d\u043e\u0432 ; sometimes spelled Paradzhanov or Paradjanov; January 9, 1924 \u2013 July 20, 1990) was a Soviet film director and artist of Armenian descent who made significant contributions to Soviet cinematography through Ukrainian, Armenian, and Georgian cinema.",
+        "question": "What is similar about Mary Harron and Sergei Parajanov? ",
+        "answer": "filmmaker",
+        "hallucination": 0,
+        "hallucination_pred": 0.2
+    },
+    {
+        "context": "Frederick Wiseman (born January 1, 1930) is an American filmmaker, documentarian, and theatre director.William Malone (born 1953) is an American horror filmmaker who directed such films as the 1999 remake \"House on Haunted Hill\", \"Scared to Death\", \"Creature\", and \"FeardotCom\".",
+        "question": "Frederick Wiseman and William Malone, have which mutual occupation?",
+        "answer": "filmmaker",
+        "hallucination": 0,
+        "hallucination_pred": 0.0
+    },
+    {
+        "context": "Peter Riegert (born April 11, 1947) is an American actor, screenwriter and film director, best known for his roles as Donald \"Boon\" Schoenstein in \"Animal House\" (1978), \"Mac\" MacIntyre in \"Local Hero\" (1983), fast-talking gangster Aldo in \"Oscar\" (1991), tough, no-nonsense Lt. Kellaway in \"The Mask\" (1994), newspaper editor Delbert McGinty in \"We Bought a Zoo\" (2011) and glove manufacturer Lou Levov in \"American Pastoral\" (2016).American Pastoral is a 2016 American crime-drama film directed by Ewan McGregor and written by John Romano, based on the 1997 novel of the same name by Philip Roth. The film stars McGregor, Jennifer Connelly, Dakota Fanning, Peter Riegert, Rupert Evans, Uzo Aduba, Molly Parker and David Strathairn.",
+        "question": "What film star of the 2016 American crime-drama film directed by Ewan McGregor was best known for his role in \"Animal House?\"",
+        "answer": "The main actor in \"American Pastoral\" is Donald \"Boon\" Schoenstein from \"Animal House\".",
+        "hallucination": 1,
+        "hallucination_pred": 0.9
+    },
+    {
+        "context": " It was one of the sets of watercolors that she made exploring a monochromatic palette with designs that were non-representational of specific objects.Georgia Totto O'Keeffe (November 15, 1887 \u2013 March 6, 1986) was an American artist. She was best known for her paintings of enlarged flowers, New York skyscrapers, and New Mexico landscapes.",
+        "question": "What artist painted the sets of watercolors that she made exploring a monochromatic palette with designs that were non-representational of specific objects, and was best known for her paintings of enlarged flowers? ",
+        "answer": "Georgia Totto O'Keeffe",
+        "hallucination": 0,
+        "hallucination_pred": 0.5
+    }
+]
